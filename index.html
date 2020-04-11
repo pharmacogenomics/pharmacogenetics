@@ -1,0 +1,113 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>Precision In Perioperative Medicine</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.2/css/bootstrap.css"
+          rel="stylesheet" type="text/css"/>
+    <link href="styles/bootstrap_slate.css" rel="stylesheet" type="text/css"/>
+    <link href="https://cdn.datatables.net/1.10.12/css/dataTables.bootstrap4.min.css" rel="stylesheet" type="text/css"/>
+    <link href="https://cdn.datatables.net/buttons/1.2.2/css/buttons.bootstrap4.min.css" rel="stylesheet"
+          type="text/css"/>
+    <link href="https://cdn.datatables.net/buttons/1.2.2/css/buttons.bootstrap4.min.css" rel="stylesheet"
+          type="text/css"/>
+    <link href="https://cdn.datatables.net/responsive/2.1.0/css/responsive.bootstrap.min.css" rel="stylesheet"
+          type="text/css"/>
+    <link href="https://cdn.datatables.net/colreorder/1.3.2/css/colReorder.bootstrap.min.css" rel="stylesheet"
+          type="text/css"/>
+    <link href="https://fonts.googleapis.com/css?family=Poiret+One" rel="stylesheet" type="text/css"/>
+    <link href="http://fonts.googleapis.com/css?family=Lato&amp;subset=latin,latin-ext" rel="stylesheet"
+          type="text/css"/>
+    <link href="./styles/customized.css" rel="stylesheet" type="text/css"/>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.3.1/js/tether.min.js"></script>
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js"
+            integrity="sha384-BLiI7JTZm+JWlgKa0M0kGRpJbF2J8q+qreVrKBC47e3K6BW78kGLrCkeRX6I9RoK"
+            crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.12/js/dataTables.bootstrap4.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/1.2.2/js/dataTables.buttons.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/1.2.2/js/buttons.bootstrap4.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/2.5.0/jszip.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/1.2.2/js/buttons.html5.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/1.2.2/js/buttons.colVis.min.js"></script>
+    <script type="text/javascript"
+            src="https://cdn.datatables.net/responsive/2.1.0/js/dataTables.responsive.min.js"></script>
+    <script type="text/javascript"
+            src="https://cdn.datatables.net/responsive/2.1.0/js/responsive.bootstrap.min.js"></script>
+    <script type="text/javascript"
+            src="https://cdn.datatables.net/colreorder/1.3.2/js/dataTables.colReorder.min.js"></script>
+    <script type="text/javascript" src="data/data.js"></script>
+    <script type="text/javascript" src="scripts/globalVariables.js"></script>
+    <script type="text/javascript" src="scripts/auxfunctions.js"></script>
+    <script type="text/javascript" src="scripts/main.js"></script>
+</head>
+<body>
+<div class="container-fluid bg-jumbotron-welcome" id="welcome">
+    <div class="container">
+        <div class="jumbotron bg-mg-green">
+            <h1>Precision In Perioperative Medicine</h1>
+            <p>
+                Sara Zarei <sup>MD, PhD</sup>,
+                Yensea Costas <sup>MD</sup>,
+                Gloria Orozco,
+                Michelle Zaydlin <sup>MD</sup>,
+                Ali Mirtar <sup>PhD</sup>,
+                Moe Abouali <sup>PhD</sup>,
+                Cristina Diaz-Marty,
+                Golnoush Akhlaghipour <sup>MD</sup>,
+                Pablo Fernandez Altamirano,
+                Anel R. Gonzalez Cardona <sup>MD</sup>,
+                Luz E. Reiley <sup>MD</sup>,
+                Hooman Mirzakhani <sup>MD, PhD</sup>
+            </p>
+            <button class="btn " data-target="#demo" data-toggle="collapse" type="button">Instructions</button>
+
+            <div class="collapse bg-mg-green" id="demo">&nbsp;
+                <ul>
+                    <li>Sorting:
+                        <ul>
+                            <li>Click on the arrow next to a column name. You can sort in ascending or descending
+                                order.
+                            </li>
+                            <li>To sort multiple columns, hold shift and then click on the arrow next to the columns&#39;
+                                names.
+                            </li>
+                        </ul>
+                    </li>
+                    <li>Filtering:
+                        <ul>
+                            <li>Provide a search phrase within the search box to filter the data</li>
+                            <li>For example, if you want to filter out only drugs related to CYB5R gene, use "CYB5R"
+                                keyword in the search box
+                            </li>
+                        </ul>
+                    <li>Viewing:
+                        <ul>
+                            <li>Depending on your screen size, some columns might get hidden automatically. To access
+                                the hidden columns click on the plus sign shown at the beginning of each row.
+                            </li>
+                        </ul>
+                    </li>
+                    <li>Exporting:
+                        <ul>
+                            <li>To export filtered or sorted data, click on the export to CSV file</li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <table cellspacing="0" class="table table-striped table-bordered table-hover" id="mainTBL" width="100%">
+    </table>
+</div>
+
+<footer class="footer text-center">
+    <p class="text-muted"><a class="mg-text-color" href="http://www.arasila.com"><small>Arasila Biotech</small></a>
+        <small class="mg-text-color">&copy;</small></p>
+</footer>
+</body>
+</html>

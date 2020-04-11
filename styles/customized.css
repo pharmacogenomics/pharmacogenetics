@@ -1,0 +1,61 @@
+h1, h2, h3, h4, h5, h6, .nav, .navbar {
+    font-family: 'Lato', cursive;
+}
+
+body {
+    background-color: white;
+    font-family: 'Lato', cursive;
+    color: black;
+}
+
+.bg-jumbotron-welcome {
+    background-size: cover;
+}
+
+.bg-mg-green {
+    background-color: #dcdbdb;
+}
+
+.mg-text-color {
+    color: black;
+}
+
+
+
+.btn{
+    background-color: #ccccff;
+    color: black;
+}
+
+a{
+    color: black;
+}
+
+.table{
+    background-color: #ccccff;
+    color: black;
+    border-color: #1c1e22;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+  background-color: #b3b3ff;
+}
+
+.table-hover > tbody > tr:hover {
+  background-color: #9999ff;
+}
+/*
+.pagination > li > span {
+    background-image: linear-gradient(#e6e6ff, #b3b3ff 60%, #9999ff);
+}
+*/
+
+.colVisButton {
+    background-color: #ccccff;
+    color: black;
+    border-color: #1c1e22;
+    border-style: solid;
+    border-width: 1px;
+}
