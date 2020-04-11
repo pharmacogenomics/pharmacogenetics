@@ -4,5 +4,5 @@
 
 $(document).ready(function() {
     gDEBUG && console.log('Loading the table');
-    gTable = initTable(gTableID,gData);
+    gTable = initTable(gTableID, gData, gColumns);
 });

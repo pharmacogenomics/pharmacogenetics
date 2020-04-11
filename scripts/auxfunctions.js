@@ -1,13 +1,25 @@
-function initTable(tblID,tblData,destroy) {
+function initTable(tblID, tblData, tblColumns, destroy) {
     destroy = destroy || false;
     gDEBUG && console.log('destroy: ' + destroy);
-    var localTBL = $('#'+tblID).DataTable({
+
+    // Reordering columns
+    tblColumns = reorderColumns(tblColumns);
+    for (let i = 0; i<tblData.length; ++i) {
+        tblData[i] = reorderColumns(tblData[i]);
+        console.log(i)
+        tblData[i][0] = tblData[i][0].trim()
+            .split(/\s|-/)
+            .map(e => e[0].toUpperCase() + e.substr(1))
+            .join(" ")
+    }
+
+    let localTBL = $('#'+tblID).DataTable({
         responsive: true,
         colReorder: true,
         destroy: destroy,
         orderMulti: true,
         sDom: '<"#tblButtons"B><"#top"fp><"#mainTBL"t><"#bottomP2"il><"#bottomP1"p>',
-        columns: gColumns,
+        columns: tblColumns,
         data: tblData,
         buttons: [
             {

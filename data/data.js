@@ -497,11 +497,6 @@ function reorderColumns(input) {
     return output;
 }
 
-gColumns = reorderColumns(gColumns);
-
-for (let i = 0; i<gData.length; ++i) {
-    gData[i] = reorderColumns(gData[i]);
-}
 
 
 
