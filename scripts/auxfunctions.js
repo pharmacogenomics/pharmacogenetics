@@ -6,11 +6,14 @@ function initTable(tblID, tblData, tblColumns, destroy) {
     tblColumns = reorderColumns(tblColumns);
     for (let i = 0; i<tblData.length; ++i) {
         tblData[i] = reorderColumns(tblData[i]);
-        console.log(i)
         tblData[i][0] = tblData[i][0].trim()
-            .split(/\s|-/)
+            .split(/\s/)
             .map(e => e[0].toUpperCase() + e.substr(1))
             .join(" ")
+        tblData[i][0] = tblData[i][0].trim()
+            .split(/-/)
+            .map(e => e[0].toUpperCase() + e.substr(1))
+            .join("-")
     }
 
     let localTBL = $('#'+tblID).DataTable({
