@@ -2594,7 +2594,7 @@ Chromosome 5q
 record_id: 216
 Gupta, A., et al.
 2016
-Lesinurad: A significant advancement or just aNother addition to existing therapies of gout?
+Lesinurad: A significant advancement or just another addition to existing therapies of gout?
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5242027/
 Lesinurad
 CYP2C9
