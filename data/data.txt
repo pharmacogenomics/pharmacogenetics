@@ -1593,7 +1593,7 @@ CYP2B6
 pre/post
 Infectious Disease
 decreased efavirenz clearance in CYP2B6*6TT genotype, therefore it is recommended a dose reduction to 200 mg/day in this genotype. CYP2B6*18 and CYP2B6*6 both show increased efavirenz levels and study results demonstrate that these polymorphisms can have additive effects if both are present. 
-CYP2B6*6TT (516G?>?T and 785A?>?G) : CYP2B6*18
+CYP2B6*6TT (516G>T and 785A>G) : CYP2B6*18
 ----------------------------------------
 record_id: 133
 Becquemont, L.
