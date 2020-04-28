@@ -497,7 +497,7 @@ Wei, C., et al.
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
 https://academic.oup.com/hmg/article/21/R1/R58/657865/Pharmacogenomics-of-adverse-drug-reactions
 Aspirin
-HLA-DRB :  HLA-DQB
+HLA-DRB : HLA-DQB
 pre/post
 Cardiology 
 Urticaria; severe cutaneous adverse drug reaction 
@@ -1240,7 +1240,7 @@ Jang, S, et al.
 2013
 Which drug, and when, for patients with BRAF-mutant melanoma?
 http://www.sciencedirect.com/science/article/pii/S1470204512705399
-dabrafenib
+Dabrafenib
 BRAF, mainly at codon 600, which result in constitutive activation of the MAPK pathway
 pre/post
 Oncology
@@ -1346,9 +1346,9 @@ Carries of poor metabolizer genotype
 record_id: 112
 Feld, J.J., et al.
 2015
-Sustained virologic response of 100% in HCV genotype 1b patients with cirrhosis receiving ombitasvir/paritaprevir/r and dasabuvir for 12 weeks
+Sustained virologic response of 100% in HCV genotype 1b patients with cirrhosis receiving ombitasvir/paritaprevir/ritonavir and dasabuvir for 12 weeks.
 https://www.sciencedirect.com/science/article/pii/S0168827815006765
-Dasabuvir, Ombitasvir, Paritaprevir, and Ritonavir
+Dasabuvir and Ombitasvir/Paritaprevir/Ritonavir
 IL28B
 peri
 Infectious Disease
@@ -1816,7 +1816,7 @@ Boige, V., et al.
 2016
 DPYD Genotyping to predict Adverse Events Following Treatment With Fluorouracil-Based Adjuvant Chemotherapy in Patients With Stage III Colon Cancer: A Secondary Analysis of the PETACC-8 Randomized Clinical Trial.
 https://jamanetwork.com/journals/jamaoncology/fullarticle/2482915
-Fluorouracil
+5-Fluorouracil 
 DPYD
 pre/post
 Dermatology
@@ -1828,7 +1828,7 @@ Seck, K., et al.
 2005
 Analysis of the DPYD gene implicated in 5-fluorouracil catabolism in a cohort of Caucasian individuals.
 http://clincancerres.aacrjournals.org/content/11/16/5886.short
-Fluorouracil
+5-Fluorouracil 
 DPYD
 pre/post
 Oncology
@@ -1952,7 +1952,7 @@ Glipizide
 G6PD
 pre/post
 Endocrinology
-? drug clearance & ? adverse events (sulfonylurea hypoglycemic drugs)
+↑  Drug clearance & ↑  adverse events (sulfonylurea hypoglycemic drugs)
 CYP2C9*3
 ----------------------------------------
 record_id: 163
@@ -1964,7 +1964,7 @@ Glyburide
 G6PD
 pre/post
 Endocrinology
-? drug clearance & ? adverse events (sulfonylurea hypoglycemic drugs)
+↑ Drug clearance and ↑ adverse events (sulfonylurea hypoglycemic drugs)
 CYP2C9*3
 ----------------------------------------
 record_id: 164
@@ -1985,7 +1985,7 @@ Diaz-Sylvester, P.L., et al.
 Halothane modulation of skeletal muscle ryanodine receptors
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2465464/
 Halothane 
-RyR1
+RYR1
 intra
 Anesthesiology
 Malignant hyperthermia (MH
@@ -2032,7 +2032,7 @@ Miyako, M., et al.
 2017
 Hepatic IFNL4 expression is associated with Non-response to interferon-based therapy through the regulation of basal interferon-stimulated gene expression in chronic hepatitis C patients.
 https://www.ncbi.nlm.nih.gov/pubmed/28036111
-IFN alpha-based therapy
+IFN Alpha-Based Therapy
 IFNL4
 peri
 Infectious Disease
@@ -2234,9 +2234,9 @@ ABCB1 c.1236T>C rs1128203 :  ABCB1 haloptype*2 c.1236C>T :  ABCB1 haloptype*2 c.
 record_id: 186
 Dean, L.
 2015
-IriNotecan Therapy and UGT1A1 Genotype
+Irinotecan Therapy and UGT1A1 Genotype
 https://www.ncbi.nlm.nih.gov/books/NBK294473/
-IriNotecan
+Irinotecan
 UGT1A1
 pre/post
 Oncology
@@ -2284,7 +2284,7 @@ Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
 https://academic.oup.com/hmg/article/21/R1/R58/657865/Pharmacogenomics-of-adverse-drug-reactions
-IriNotecan
+Irinotecan
 UGT1A1
 pre/post
 Oncology
@@ -2349,7 +2349,7 @@ NAT2
 pre
 Infectious Disease
 Drug-induced liver injury with elevation in serum transaminases; Icteric hepatitis (serum bilirubin > 3.0 mg/dL)
- NAT2 rs1041983 :  NAT2 rs1495741 : NAT2*6/6 : NAT2*6/7 : NAT2*5/*7 
+NAT2 rs1041983 :  NAT2 rs1495741 : NAT2*6/6 : NAT2*6/7 : NAT2*5/*7 
 ----------------------------------------
 record_id: 196
 Vuilleumier, N., et al.
@@ -2361,7 +2361,7 @@ CYP2E1
 pre
 Infectious Disease
 Drug-induced liver injury with elevation in serum transaminases
- CYP2E1 *1A/*1A 
+CYP2E1 *1A/*1A 
 ----------------------------------------
 record_id: 197
 Wang, P., et al.
@@ -3712,7 +3712,7 @@ Ward, R., et al.
 2013
 Proton Pump Inhibitors in Pediatrics
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3616221/
-PPIs: Dexlansoprazole, Esomeprazole, Lansoprazole, Omeprazole, Pantoprazole, Rabeprazole
+Proton Pump Inhibitors (PPIs): Dexlansoprazole, Esomeprazole, Lansoprazole, Omeprazole, Pantoprazole, Rabeprazole
 CYP2C19 : CYP3A5
 pre/post
 Gastroenterology
@@ -3836,7 +3836,7 @@ proguanil
 CYP2C19
 pre/post
 Infectious Disease
-? clearance & ? risk of ADRs for antimalarials (proguanil)
+↑ Clearance and ↑ risk of ADRs for antimalarials (proguanil)
 CYP2C19*3
 ----------------------------------------
 record_id: 320
@@ -3880,7 +3880,7 @@ Lymperopoulos, A., et al.
 2015
 Impact of CYP2D6 Genetic Variation on the Response of the Cardiovascular Patient to Carvedilol and Metoprolol.
 https://www.ncbi.nlm.nih.gov/pubmed/26537419
-Propanolol
+Propranolol
 CYP2D6
 peri
 Cardiology
@@ -3940,7 +3940,7 @@ Luzzatto, L., et al.
 2014
 G6PD deficiency: a classic example of pharmacogenetics with on-going clinical implications
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4153881/
-Quinolones (Nalidixic acid, Ciprofloxacin, Ofloxacin)
+Quinolones: Nalidixic Acid, Ciprofloxacin, Ofloxacin
 G6PD deficiency
 pre/post
 Infectious Disease
@@ -4088,7 +4088,7 @@ Risperidone
 CYP2D6
 pre/post
 Psychiatry
- Weight gain and hyperprolactinemia
+Weight gain and hyperprolactinemia
 CYP2D6 *9 :  CYP2D6 *10 :  CYP2D6*17 : CYP2D6*29 : CYP2D6*36 :  CYP2D6 *41 
 ----------------------------------------
 record_id: 341
@@ -4312,7 +4312,7 @@ Hicks, J.K., et al.
 2015
 Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for CYP2D6 and CYP2C19 Genotypes and Dosing of Selective Serotonin Reuptake Inhibitors
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4512908/
-SSRIs
+Selective Serotonin Reuptake Inhibitors (SSRIs)
 CYP2D6 : CYP2C19
 pre
 Psychiatry
@@ -4324,7 +4324,7 @@ SEARCH Collaborative Group.
 2008
 SLCO1B1 variants and statin-induced myopathy--a geNomewide study.
 https://www.ncbi.nlm.nih.gov/pubmed/18650507
-Statin therapy
+Statins
 SLCO1B1
 peri
 Cardiology
@@ -4672,7 +4672,7 @@ Rodriguez-Antona, C.,et al.
 2014
 PharmacogeNomic biomarkers for personalized cancer treatment
 https://onlinelibrary.wiley.com/doi/full/10.1111/joim.12321
-Thiopurine
+Thiopurines
 TPMT
 pre/post
 Oncology
@@ -4684,7 +4684,7 @@ Higgs, J.E., et al.
 2010
 Are patients with intermediate TPMT activity at increased risk of myelosuppression when taking thiopurine medications?
 https://www.ncbi.nlm.nih.gov/pubmed/20136357
-Thiopurine drugs
+Thiopurines
 TPMT
 pre/post
 Oncology
