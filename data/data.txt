@@ -1274,7 +1274,7 @@ ss469415590, IFNL4 TT/ΔG genotype or IFNL4 ΔG/ΔG genotype in in older patient
 record_id: 106
 Abouraya, M., et al.
 2013
-Dapsone?Associated Methemoglobinemia in a Patient With Slow NAT2*5B Haplotype and Impaired Cytochrome b5 Reductase Activity
+Dapsone-Associated Methemoglobinemia in a Patient With Slow NAT2*5B Haplotype and Impaired Cytochrome b5 Reductase Activity
 https://accp1.onlinelibrary.wiley.com/doi/pdf/10.1177/0091270010393343
 Dapsone
 CYB5R3: NAT2*5B: CYB5A
