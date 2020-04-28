@@ -2637,7 +2637,7 @@ G6PD
 peri
 Anesthesiology
 Glucose-6-phosphate dehydrogenase deficiencies and pts taking oxidizing drugs (antimalarials and sulfonamides) more susceptible to drug-induced methemoglobinemia.
-G6PD, glucose?6?phosphate dehydrogenase deficiencies 
+G6PD, glucose-6-phosphate dehydrogenase deficiencies 
 ----------------------------------------
 record_id: 220
 Arrigoni, E., et al. 
