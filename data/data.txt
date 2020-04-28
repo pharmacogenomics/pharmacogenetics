@@ -2949,7 +2949,7 @@ CYP2D6
 pre
 Psychiatry
 Reversibly inhibits CYP2C19 leading to potential interaction with drugs such as diazepam, propraNolol, phenytoin, and TCAs which are metabolized by this enzyme.
-CYP2D6?4 : CYP2D6 ?10 : CYP2D6 ?14
+CYP2D6 *4 : CYP2D6 *10 : CYP2D6 *14
 ----------------------------------------
 record_id: 246
 Crews, K.R., et al.
