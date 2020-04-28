@@ -4485,7 +4485,7 @@ GST
 pre
 Neurology 
 Increases tacrine hepatotoxicity.
-GST-T1 (?/?) null genotype
+GST M1-T1 null genotype  (GST T1*0 M1*0)
 ----------------------------------------
 record_id: 374
 Okada, R., et al.
@@ -4497,7 +4497,7 @@ GST M1
 pre
 Neurology 
 Elevation in serum transaminases
-GST-M1 (?/?) null genotype
+GST-M1 null genotype
 ----------------------------------------
 record_id: 375
 Miura, M., et al.
