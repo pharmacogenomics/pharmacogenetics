@@ -1460,7 +1460,7 @@ Diclofenac
 CYP2C9
 peri
 Pain Management/Rheumotology/Neurology/Dermotology
-? drug clearance & ? adverse events (NSAIDS)
+↑ Drug clearance & ↑ adverse events (NSAIDS)
 CYP2C9*3
 ----------------------------------------
 record_id: 122
