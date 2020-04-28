@@ -436,7 +436,7 @@ Vilaseca, M., et al.
 2000
 Anti-Epileptic drug treatment in children: Hyperhomocysteinaemia, B-Vitamins and the 677C?T Mutation of the Methylenetetrahydrofolate Reductase Gene
 http://www.sciencedirect.com/science/article/pii/S1090379800903799
-Anti-Epileptic drugs
+Anti-Epileptic Drugs
 MTHFR 677 C?T
 pre/post
 Neurology
@@ -448,7 +448,7 @@ Feng, F.M., et al.
 2014
 Genetic polymorphisms in metabolic enzymes and susceptibility to anti-tuberculosis drug-induced hepatic injury
 http://www.funpecrp.com.br/gmr/year2014/vol13-4/pdf/gmr4116.pdf
-anti-TB chemotherapy
+Anti-TB Chemotherapy
 NAT2 : CYP2E1 : GSTM1 : GSTT1
 pre/post
 Oncology
