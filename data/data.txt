@@ -4796,7 +4796,7 @@ Tramadol
 CYP2D6
 post
 Anesthesiology
-Decreased plasma levels of O-desmethyltramado and reduced analgesic effects in patients woth polymorphic poor metabolizer CYP2D6.
+Decreased plasma levels of O-desmethyltramado and reduced analgesic effects in patients with polymorphic poor metabolizer CYP2D6.
 
 ----------------------------------------
 record_id: 400
@@ -4804,7 +4804,7 @@ MacKenzie, M., et al.
 2016
 Pharmacogenomics and pharmacogenetics for the intensive careunit: a narrative review
 https://www.ncbi.nlm.nih.gov/pubmed/27752976
-Tramadone
+Tramadol
 CYP2D6
 peri
 Neurology
