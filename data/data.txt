@@ -5169,7 +5169,7 @@ CYP2C9 : VKORC1
 pre/post
 Cardiology/Hematology
 Higher risk of thrombus formation, increased risk of severe bleeding
-CYP2C9*1:  CYP2C9*2 :  CYP2C9*3 : VKORC1  G?A ?1639 
+CYP2C9*1:  CYP2C9*2 :  CYP2C9*3 : VKORC1  G->A -1639 
 ----------------------------------------
 record_id: 431
 Wei, C., et al.
@@ -5181,7 +5181,7 @@ VKORC1
 pre/post
 Cardiology/Hematology
 Higher risk of thrombus formation
-VKORC1 G?A ?1639
+VKORC1 G->A -1639
 ----------------------------------------
 record_id: 432
 Cavallari, L.H., et al.
