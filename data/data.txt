@@ -1656,8 +1656,8 @@ Affects drug efficacy and safety
 CYP2C19 carriers with poor metabolizer genotypes
 ----------------------------------------
 record_id: 138
-Noehr?Jensen, L., et al.
-2009
+icks, J.K., et al.
+2015
 Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for CYP2D6 and CYP2C19 genotypes and dosing of selective serotonin reuptake inhibitors.
 http://onlinelibrary.wiley.com/doi/10.1002/cpt.147/full
 Escitalopram
