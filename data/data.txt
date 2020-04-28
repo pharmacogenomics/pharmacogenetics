@@ -1269,7 +1269,7 @@ IFNL4
 post
 Infectious Disease
 flulike syndrome, aminotransferase level elevation, HCV clearance
-ss469415590, IFNL4 TT/?G genotype or IFNL4 ?G/?G genotype in in older patients
+ss469415590, IFNL4 TT/ΔG genotype or IFNL4 ΔG/ΔG genotype in in older patients
 ----------------------------------------
 record_id: 106
 Abouraya, M., et al.
