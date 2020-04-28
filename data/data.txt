@@ -2564,7 +2564,7 @@ Lapatinib
 HLA-DQA1: HLA-DRB1
 pre/post
 Oncology
-HLA alleles DQA1*02:01 and DRB1*07:01 carriers had incidence of severe liver injury of 8% versus 0.5% in Non-carriers.
+HLA alleles DQA1*02:01 and DRB1*07:01 carriers had incidence of severe liver injury of 8% versus 0.5% in non-carriers.
 HLA DQA1*02:01:    HLADRB1*07:01 
 ----------------------------------------
 record_id: 214
@@ -2576,7 +2576,7 @@ Ledipasvir/simeprevir
 IFNL3 (IL28B)
 peri
 Infectious Disease
-Homozygosity for the rs12979860-C allele (IL28B-CC genotype) associated with faster viral kinetic (VK) decline and higher odds of achieving a sustained virological response (SVR) with IFN-?/RBV therapy. The genetic variant rs12979860, located in the INFL4 gene, is a strong predictor of response to peginterferon-based therapies. The variant is a C to T change, individuals with the favorable C/C genotype have about a 2-fold higher likelihood of achieving SVR compared to individuals with CT or TT genotypes.
+Homozygosity for the rs12979860-C allele (IL28B-CC genotype) associated with faster viral kinetic (VK) decline and higher odds of achieving a sustained virological response (SVR) with peginterferon alfa and ribavirin therapy. The genetic variant rs12979860, located in the INFL4 gene, is a strong predictor of response to peginterferon-based therapies. The variant is a C to T change, individuals with the favorable C/C genotype have about a 2-fold higher likelihood of achieving SVR compared to individuals with CT or TT genotypes.
 The rs12979860 allele is located in the INFL4 gene. The variant is a C to T change. Individuals can have  IL28B-CC, IL28B-CT or IL28B-TT genotypes.
 ----------------------------------------
 record_id: 215
