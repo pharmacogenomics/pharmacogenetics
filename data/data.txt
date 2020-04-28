@@ -3213,7 +3213,7 @@ MS4A1
 pre/post
 Oncology
 Decreased response to treatment
-V158/V158 or F158/F158 Fc?RIIIa receptor
+V158/V158 or F158/F158 FcγRIIIa receptor
 ----------------------------------------
 record_id: 268
 Bigos, K., et al.
