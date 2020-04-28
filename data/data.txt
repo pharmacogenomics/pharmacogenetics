@@ -2181,7 +2181,7 @@ FccRIIIA
 pre/post
 Oncology 
 Higher infliximab elimination rate constant leading to a faster infliximab under exposure and relapse of disease
-Fc?RIIIA-158V/V
+FcγRIIIA-158V/V
 ----------------------------------------
 record_id: 182
 Farzan, N., et al.
