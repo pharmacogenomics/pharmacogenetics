@@ -3177,7 +3177,7 @@ MTHFR
 peri
 Anesthesiology
 Neurologic deterioration and death
-MTHFR mutation (1755G?A) : MTHFR polymorphisms (677C?T and 1298A?C: 
+MTHFR mutation (1755G>A) : MTHFR polymorphisms (677C>T and 1298A>C) 
 ----------------------------------------
 record_id: 265
 Nomizo, T., et al.
