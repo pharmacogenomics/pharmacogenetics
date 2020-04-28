@@ -2037,7 +2037,7 @@ IFNL4
 peri
 Infectious Disease
 poor response to IFN alpha-based therapy in HCV infection
-IFNL4-?G genotype
+IFNL4-unfavorable genotypes ( rs368234815TT/ΔG or ΔG/ΔG and rs12979860-C/T or T/T)
 ----------------------------------------
 record_id: 170
 Brennan, M.D.
