@@ -2571,13 +2571,13 @@ record_id: 214
 Dean, L. 
 2017
 Sofosbuvir Therapy and IFNL4 Genotype
-https://www.ncbi.nlm.nih.gov/books/NBK409960/
-Ledipasvir
+https://www.ncbi.nlm.nih.gov/books/NBK409960/; https://www.ncbi.nlm.nih.gov/books/NBK61999/pdf/Bookshelf_NBK61999.pdf
+Ledipasvir/simeprevir 
 IFNL3 (IL28B)
 peri
 Infectious Disease
-Homozygosity for the rs12979860-C allele (IL28B-CC genotype) assoc. w/faster viral kinetic (VK) decline and higher odds of achieving SVR with IFN-?/RBV therapy. The genetic variant rs12979860, located in the INFL4 gene, is a strong predictor of response to peginterferon-based therapies. The variant is a C to T changeindividuals with the favorable C/C genotype have about a 2-fold higher likelihood of achieving SVR compared to individuals with CT or TT genotypes
-The rs12979860 allele is located in the INFL4 gene. The variant is a C to T change. Individuals can have  IL28B-CC, IL28B-CT or IL28B-TT genotypes
+Homozygosity for the rs12979860-C allele (IL28B-CC genotype) associated with faster viral kinetic (VK) decline and higher odds of achieving a sustained virological response (SVR) with IFN-?/RBV therapy. The genetic variant rs12979860, located in the INFL4 gene, is a strong predictor of response to peginterferon-based therapies. The variant is a C to T change, individuals with the favorable C/C genotype have about a 2-fold higher likelihood of achieving SVR compared to individuals with CT or TT genotypes.
+The rs12979860 allele is located in the INFL4 gene. The variant is a C to T change. Individuals can have  IL28B-CC, IL28B-CT or IL28B-TT genotypes.
 ----------------------------------------
 record_id: 215
 List, A., et al.
