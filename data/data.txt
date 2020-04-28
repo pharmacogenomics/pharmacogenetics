@@ -4277,11 +4277,11 @@ Meissner, E.G., et al.
 IFNL4-?G Genotype Is Associated With Slower Viral Clearance in Hepatitis C, Genotype-1 Patients Treated With Sofosbuvir and Ribavirin
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4017364/
 Sofosbuvir
-IFNL4-?G
+IFNL4-ΔG
 pre/post
 Infectious Disease
-decreased drug efficacy and slower early viral decline for HCV genotype1- infected patients - if Sofosfuvir is given along with ribavirin and IFNL4-?G variant. This is due to ecreased drug efficacy and slower loss of the free virus. 
-IFNL4-?G variant unfavorable heterozygous TT/?G rs368234815 genotype: heterozygous CT rs12979860 genotype: homozygous ?G/?G rs368234815 genotype
+decreased drug efficacy and slower early viral decline for HCV genotype1- infected patients - if Sofosfuvir is given along with ribavirin and IFNL4-ΔG variant. This is due to ecreased drug efficacy and slower loss of the free virus. 
+IFNL4-ΔG variant unfavorable heterozygous TT/?G rs368234815 genotype: heterozygous CT rs12979860 genotype: homozygous ΔG/ΔG rs368234815 genotype
 ----------------------------------------
 record_id: 357
 Dean, L. 
@@ -4292,7 +4292,7 @@ Sofosbuvir
 IFNL3 (IL28B)
 peri
 Infectious Disease
-Homozygosity for the rs12979860-C allele (IL28B-CC genotype) assoc. w/faster viral kinetic (VK) decline and higher odds of achieving SVR with IFN-?/RBV therapy. The genetic variant rs12979860, located in the INFL4 gene, is a strong predictor of response to peginterferon-based therapies. The variant is a C to T changeindividuals with the favorable C/C genotype have about a 2-fold higher likelihood of achieving SVR compared to individuals with CT or TT genotypes
+Homozygosity for the rs12979860-C allele (IL28B-CC genotype) assoc. w/faster viral kinetic (VK) decline and higher odds of achieving SVR with IFN-?/RBV therapy. The genetic variant rs12979860, located in the INFL4 gene, is a strong predictor of response to peginterferon-based therapies. The variant is a C to T change-individuals with the favorable C/C genotype have about a 2-fold higher likelihood of achieving SVR compared to individuals with CT or TT genotypes
 The rs12979860 allele is located in the INFL4 gene. The variant is a C to T change. Individuals can have  IL28B-CC, IL28B-CT or IL28B-TT genotypes
 ----------------------------------------
 record_id: 358
