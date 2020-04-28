@@ -2253,7 +2253,7 @@ UGT1A1
 pre/post
 Oncology
  Life-threatening neutropenia , diarrhea 
-UGT1A1?28
+UGT1A1*28
 ----------------------------------------
 record_id: 188
 Pirmohamed, M. 
