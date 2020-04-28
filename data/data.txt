@@ -5241,7 +5241,7 @@ VKORC1
 post
 Cardiology/Hematology
 VKORC1 haplotypes can be used to stratify patients into low-, intermediate-, and high-dose warfarin groups and may explain differences in dose requirements among patients of different ancestries. 
- VKORC1 rs9923231 (3673G?A)
+ VKORC1 rs9923231 (3673G->A)
 ----------------------------------------
 record_id: 437
 Reiner, A., et al. 
