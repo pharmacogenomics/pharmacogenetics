@@ -2624,7 +2624,7 @@ Lidocaine
 CYB5R3
 peri
 Anesthesiology
-The soluble isoform of cytochrome b5 reductase 3 changes ferric iron back to ferrous iron so hemoglobin can function. G6PD deficiency or congenital or idiopathic methemoglobinemia more susceptible to drug?induced methemoglobinemia.
+The soluble isoform of cytochrome b5 reductase 3 changes ferric iron back to ferrous iron so hemoglobin can function. G6PD deficiency or congenital or idiopathic methemoglobinemia more susceptible to drug-induced methemoglobinemia.
 CYB5R3 gene mutations
 ----------------------------------------
 record_id: 219
