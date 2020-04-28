@@ -417,7 +417,7 @@ ABCB1
 pre/post
 Oncology
 Arthrialgia 
-ABCB1 2677?TT
+ABCB1 2677-TT
 ----------------------------------------
 record_id: 35
 Gervasini, G., et al.
@@ -434,14 +434,14 @@ Arthrialgia and cancer recurrence in our patients.
 record_id: 36
 Vilaseca, M., et al. 
 2000
-Anti-Epileptic drug treatment in children: Hyperhomocysteinaemia, B-Vitamins and the 677C?T Mutation of the Methylenetetrahydrofolate Reductase Gene
+Anti-Epileptic drug treatment in children: Hyperhomocysteinaemia, B-Vitamins and the 677C->T Mutation of the Methylenetetrahydrofolate Reductase Gene
 http://www.sciencedirect.com/science/article/pii/S1090379800903799
 Anti-Epileptic Drugs
-MTHFR 677 C?T
+MTHFR 677 C->T
 pre/post
 Neurology
 Total homocysteine concentrations were significantly increased (p<0.05) and folate and vitamin B6levels were significantly decreased (p<0.01) in the children taking anti-epileptic drugs
-MTHFR 677 C?T
+MTHFR 677 C->T
 ----------------------------------------
 record_id: 37
 Feng, F.M., et al.
