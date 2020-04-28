@@ -2972,7 +2972,7 @@ Morphine
 ABCC3 : OCT1
 intrapost
 Anesthesiology 
-OCT1 homozygous genotypes are associated with lower morphine CL in this extended cohort; well supported by corresponding observations of lower morphine glucuronide formation. In addition, it shows that children with the ABCC3 ?211C>T poly morphism C/C genotype have significantly higher (~40%) metabolite transformation than C/T+T/T genotypes.
+OCT1 homozygous genotypes are associated with lower morphine CL in this extended cohort; well supported by corresponding observations of lower morphine glucuronide formation. In addition, it shows that children with the ABCC3-211C>T polymorphism C/C genotype have significantly higher (~40%) metabolite transformation than C/T+T/T genotypes.
 ABCC3-211C>T : OCT1*2–*5/*2–*5
 ----------------------------------------
 record_id: 248
