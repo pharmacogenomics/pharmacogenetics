@@ -4947,9 +4947,9 @@ record_id: 412
 Basile, V. et. al
 2000
 A functional polymorphism of the cytochrome P450 1A2 (CYP1A2) gene: association with tardive dyskinesia in schizophrenia 
-https://search.proquest.com/openview/77eaa116d64b4ab45315389d723fda64/1?pq-origsite=gscholar&cbl=44096
+https://www.ncbi.nlm.nih.gov/pubmed/10889552
 Typical antipsychotics
-CYP1A2
+CYP1A2 : CYP2D6
 pre/post
 Psychiatry
 Polymorphism in CYP1A2 may serve as a risk factor for the development of tardive dyskinesia in patients with schizophrenia taking typical antipsychotics 
@@ -4959,13 +4959,13 @@ record_id: 413
 Basile, V. et. al
 2000
 A functional polymorphism of the cytochrome P450 1A2 (CYP1A1) gene: association with tardive dyskinesia in schizophrenia
-http://www.nature.com/mp/journal/v5/n4/full/4000736a.html?foxtrotcallback=true
-Typical Antipsychotics: Chlorpromazine
-CYP1A2:CYP2D6
-preintra
+https://www.nature.com/articles/4000736
+Typical Antipsychotics
+CYP1A2
+pre/intra
 Psychiatry
-Tardive dyskinesia
-Bsp120I
+Antipsychotic induced tardive dyskinesia 
+CYP1A2 Bsp120I (C→A) polymorphism
 ----------------------------------------
 record_id: 414
 Alvarellos, M.L., et al.
