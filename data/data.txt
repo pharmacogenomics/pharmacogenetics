@@ -4929,7 +4929,7 @@ GSTT1
 pre
 Endocrinology
 Elevation in serum transaminases
-GST-T1 (?/?) null genotype
+GST-T1 null genotype
 ----------------------------------------
 record_id: 411
 Okada, R., et al.
@@ -4941,7 +4941,7 @@ GSTM1
 pre
 Endocrinology
 Elevation in serum transaminases
-GST-M1 (?/?) null genotype
+GST-M1 null genotype
 ----------------------------------------
 record_id: 412
 Basile, V. et. al
