@@ -1940,7 +1940,7 @@ Glimepiride
 G6PD
 pre/post
 Endocrinology
-? drug clearance & ? adverse events (sulfonylurea hypoglycemic drugs)
+↑ Drug clearance and ↑ adverse events (sulfonylurea hypoglycemic drugs)
 CYP2C9*3
 ----------------------------------------
 record_id: 162
@@ -1952,7 +1952,7 @@ Glipizide
 G6PD
 pre/post
 Endocrinology
-↑  Drug clearance & ↑  adverse events (sulfonylurea hypoglycemic drugs)
+↑  Drug clearance and ↑  adverse events (sulfonylurea hypoglycemic drugs)
 CYP2C9*3
 ----------------------------------------
 record_id: 163
