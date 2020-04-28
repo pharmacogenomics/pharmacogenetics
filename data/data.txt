@@ -2097,7 +2097,7 @@ FIP1L1-PDGFRA
 pre/post 
 Oncology
 Imatinib treatment resistance in pts with Hypereosinophilic Syndrome/Chronic Eosinophilic Leukemia the FIP1 like 1platelet-derived growth factor receptor alpha T674I mutation.
-FIP1L1-PDGFR? (T674I) mutant.
+FIP1L1-PDGFRA (T674I) mutant.
 ----------------------------------------
 record_id: 175
 Speight, R.A., et al.
