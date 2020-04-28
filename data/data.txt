@@ -2853,7 +2853,7 @@ G6PD
 peri
 Gastroenterology
 Methemoglobinemia
-glucose?6?phosphate dehydrogenase deficiencies
+glucose-6-phosphate dehydrogenase deficiencies
 ----------------------------------------
 record_id: 238
 MacKenzie, M., et al.
