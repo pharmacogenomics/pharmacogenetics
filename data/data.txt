@@ -5145,7 +5145,7 @@ CYP2C9
 pre/post
 Cardiology/Hematology
 Increased risk of bleeding at standard doses
-CYP2C9?2 : CYP2C9?3
+CYP2C9*2 : CYP2C9*3
 ----------------------------------------
 record_id: 429
 Loebstein, R., et al.
