@@ -1,4 +1,5 @@
 ----------------------------------------
+record_id: 0
 Bertholee,  D., et al. 
 2017
 Genotypes Affecting the Pharmacokinetics of Anticancer Drugs
@@ -10,6 +11,7 @@ Oncology
 Myelosuppression, central neurotoxicity, and diarhea
 DPYD c.1905+1G>A rs3918290 :  DPYD c.1679T>G  rs55886062 :  DPYD c.2846A>T rs67376798 : DPYD c.2579delA rs746991079 : DPYD c.1129-5923C>G  rs75017182
 ----------------------------------------
+record_id: 1
 Gross, E., et al. 
 2008
 Strong association of common dihydropyrimidine dehydrogenase gene polymorphism with Fluoropyrimidine-Related Toxicity in Cancer Patients
@@ -21,6 +23,7 @@ Oncology
 Neutropenia, thrombopenia, mucositis, diarrhea, nausea and vomiting, neurotoxicity, cardiac toxicity, alopecia and hand-foot-syndrome 
 c.496A>G (p.Met166Val)
 ----------------------------------------
+record_id: 2
 Meulendijks, D., et al.
 2015
 Clinical relevance of DPYD variants c.1679T>G, c.1236G>A/HapB3, and c.1601G>A as predictors of severe fluoropyrimidine-associated toxicity: a systematic review and meta-analysis of individual patient data.
@@ -32,6 +35,7 @@ Oncology
 Myelosuppression, central neurotoxicity, and diarhea
 DPYD c.1679T>G :  DPYD c.1236G>A/HapB3
 ----------------------------------------
+record_id: 3
 Van Kuilenburg, A. 
 2004
 Dihydropyrimidine dehydrogenase and the efficacy and toxicity of 5-fluorouracil
@@ -43,6 +47,7 @@ Oncology
 Myelosuppression, central neurotoxicity and diarrhea
 DPD IVS14+1G>A mutation
 ----------------------------------------
+record_id: 4
 Vujkovic, M., et al.
 2015
 Association between genetic variants in folate and drug metabolizing pathways and relapse risk in pediatric acute lymphoid leukemia on CCG-1952
@@ -54,6 +59,7 @@ Oncology
 Risk of relapse after pediatric ALL treatment 
 rs2842947:rs1801131:rs1801133:rs10925235:rs1805087
 ----------------------------------------
+record_id: 5
 Coenen, M., et al.
 2015
 Identification of Patients With Variants in TPMT and Dose Reduction Reduces Hematologic Events During Thiopurine Treatment of Inflammatory Bowel Disease
@@ -65,6 +71,7 @@ Gastroenterology
 Myelosuppression and liver toxicity
 TPMT*2 238G>C rs1800462 :  TPMT*3A 460G>A rs1800460 :  TPMT*3A  719A>G  rs1142345 : TPMT*3C rs1142345
 ----------------------------------------
+record_id: 6
 Eichelbaum, M., et al.
 2005
 Pharmacogenetics and individualized drug therapy
@@ -76,6 +83,7 @@ Oncology
 Severe and life threatening hematopoietic toxicity
 TPMT*2:TPMT*3A:TPMT*3C
 ----------------------------------------
+record_id: 7
 Ogungbenro, K., et al.
 2015
 Physiologically based pharmacokinetic model for 6-mercpatopurine: exploring the role of genetic polymorphism in TPMT enzyme activity
@@ -87,6 +95,7 @@ Oncology
 Myelosuppression 
 TMPT*1/*2 : TMPT*1/*3A :  TMPT*1/*3B :  TMPT*1/*3C :  TMPT*1/*4 :  TMPT*3A/*3A : TMPT*3A/*3A :  TMPT*3C/*3A : TMPT*3C/*4 : TMPT*3C/*2 :  TMPT*3A/*4
 ----------------------------------------
+record_id: 8
 Pirmohamed, M. 
 2010
 Pharmacogenetics of adverse drug reactions 
@@ -98,6 +107,7 @@ Oncology
 Thiopurine S-methyltransferase was implicated in 6-MP hematological toxicity
 *1/*3C
 ----------------------------------------
+record_id: 9
 Krasowski, M. 
 2015
 Current Diagnosis & Treatment : Family Medicine Chapter 49: Pharmacogenomics
@@ -109,6 +119,7 @@ Rheumatology
 Hematopoietic toxicity
 TMPT genotype v/v : TMPT genotype wt/v : TPMT*2 : TPMT*3A : TPMT*3C
 ----------------------------------------
+record_id: 10
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -120,6 +131,7 @@ Oncology
 Bone marrow toxicity, myelosuppression
 TPMT*2 : TPMT*3A : TPMT*3C
 ----------------------------------------
+record_id: 11
 Wan Rosalina, W., et al.
 2011
 Polymorphism of ITPA 94C>A and risk of adverse effects among patients with acute lymphoblastic leukemia treated with 6-mercaptopurine 
@@ -131,6 +143,7 @@ Oncology
 Patients with ALL who had the ITPA 94A allel, versus the 94C allele, were more likely to develop fever and liver toxicity when treated with 6-MP. 
 ITPA 94C
 ----------------------------------------
+record_id: 12
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -142,6 +155,7 @@ Infectious Disease
 DRESS syndrome
 HLA-B*5701
 ----------------------------------------
+record_id: 13
 Krasowski, M. 
 2015
 Current Diagnosis & Treatment : Family Medicine Chapter 49: Pharmacogenomics
@@ -153,6 +167,7 @@ Infectious Disease
  DRESS syndrome 
 HLA-B*5701
 ----------------------------------------
+record_id: 14
 Asensi, V., et al.
 2015
 Can antiretroviral therapy be tailored to each human immunodeficiency virus-infected individual? Role of pharmacogenomics.
@@ -164,6 +179,7 @@ Infectious Disease
 Abacavir-associated hypersensitivity - due to HLAB*5701polymorphism in HIV patients receivig abacavir
 HLAB*5701 (SNPs 2395029)
 ----------------------------------------
+record_id: 15
 Hetherington, S., et al.
 2002
 Genetic variations in HLA-B region and hypersensitivity reactions to abacavir
@@ -175,6 +191,7 @@ Infectious Disease
 HLA-B27 was associated with abacavir hypersensitivity reactions. 
 HLA-B27
 ----------------------------------------
+record_id: 16
 Pirmohamed, M. 
 2010
 Pharmacogenetics of adverse drug reactions 
@@ -186,6 +203,7 @@ Infectious Disease
 HLA-B*571 is implicated in abacavir hypersensitivity
 HLA-B*5701
 ----------------------------------------
+record_id: 17
 Yang, L., et al. 
 2009
 Harvesting Candidate Genes Responsible for Serious Adverse Drug Reactions from a Chemical-Protein Interactome
@@ -197,6 +215,7 @@ Infectious Disease
 Patients with the MHC I B*5701 gene polymorphism were more likely to have abacavir-induced hypersensitivity 
 MHC-I B*5701
 ----------------------------------------
+record_id: 18
 Caudle, K.E., et al.
 2014
 Clinical Pharmacogenetics Implementation Consortium Guidelines for CYP2C9 and HLA-B Genotypes and Phenytoin Dosing
@@ -208,6 +227,7 @@ Infectious Disease
 Induced hypersensitivity reaction
 HLA-B*57:01
 ----------------------------------------
+record_id: 19
 Illing, P.T., et al.
 2017
 The role of HLA genes in pharmacogenomics: unravelling HLA associated adverse drug reactions
@@ -219,6 +239,7 @@ Infectious Disease
 AHS abacavir hypersensitivity syndrome
 HLA-B*57:01
 ----------------------------------------
+record_id: 20
 Mahmoudpour, S.H., et al. 
 2013
 Pharmacogenetics of ACE inhibitor-induced angioedema and cough: a systematic review and meta-analysis.
@@ -230,6 +251,7 @@ Cardiology
 ACEI-induced angioedema-  due to administration of ACEinhibitor in patients with polymorphism in gene region XPNPEP2.
 rs4646994
 ----------------------------------------
+record_id: 21
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -241,6 +263,7 @@ Rheumatology
 Steven Johnson Syndrome, toxic epidermal necrolysis
 HLA-B*5801
 ----------------------------------------
+record_id: 22
 Caudle, K.E., et al.
 2014
 Clinical Pharmacogenetics Implementation Consortium Guidelines for CYP2C9 and HLA-B Genotypes and Phenytoin Dosing
@@ -252,6 +275,7 @@ Rheumatology
 Induced severe cutaneous adverse reactions
 HLA-B*58:01
 ----------------------------------------
+record_id: 23
 Illing, P.T., et al.
 2017
 The role of HLA genes in pharmacogenomics: unravelling HLA associated adverse drug reactions
@@ -263,6 +287,7 @@ Rheumatology
 DRESS, MPE, SJS/TEN
 HLA-B*58:01
 ----------------------------------------
+record_id: 24
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -274,6 +299,7 @@ Infectious Disease
 delayed-type hypersensitivity reaction
 HLA-A2 
 ----------------------------------------
+record_id: 25
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -285,6 +311,7 @@ Infectious Disease
 delayed-type hypersensitivity reaction
 HLA-DRW52 
 ----------------------------------------
+record_id: 26
 Daly, A., et al.
 2013
 Pharmacogenomics of adverse drug reactions
@@ -296,6 +323,7 @@ Cardiology
 Drug nduced QT prolongation
 single SNP (rs10800397)
 ----------------------------------------
+record_id: 27
 Hicks, J.K., et al.
 2013
 Clinical Pharmacogenetics Implementation Consortium Guideline for CYP2D6and CYP2C19 Genotypes and Dosing of Tricyclic Antidepressants
@@ -307,6 +335,7 @@ Psychiatry
 Coma, respiratory depression, tachycardia, QRS prolongation, decreased cardiac contractility , decreased GI motility, torsades de pointes
 CYP2D6*1:  CYP2D6*2 : CYP2D6*3 : CYP2D6*4 : CYP2D6*5 : CYP2D6*6 :  CYP2D6*9 : CYP2D6*10 :  CYP2D6*1XN : CYP2D6*2XN : CYP2C19*1 : CYP2C19*2 : CYP2C19*3 : CYP2C19*17 
 ----------------------------------------
+record_id: 28
 Parikh, S., et al.
 2007
 Amodiaquine Metabolism is Impaired by Common Polymorphisms in CYP2C8: Implications for Malaria Treatment in Africa
@@ -318,6 +347,7 @@ Infectious Disease
 abdominal pain - seen in both homozygotes and heterozygotes for CYP2C8*2 when amodiaquine is administered along with the polymosphism. Amodiaquineassociated toxicity- due to higher Km and lower intrinsic clearance by CYP2C8*2 polymorphism; markedly decreased activity of CYP enzyme - the effects of reduced metabolism of the amodiaquine are most proNoounced in CYP2C8*3 polymorphism.
 CYP2C8*2:CYP2C8*3
 ----------------------------------------
+record_id: 29
 Roederer, M.W., et al.
 2011
 Can pharmacogenomics improve malaria drug policy?
@@ -329,6 +359,7 @@ Infectious Disease
 Hepatotoxicity and agranulocitosis - If decreased function of the CYP2C8 gene. *2 and CYP2C8*3 have shown to cause a decreased metabolizing activity. Abdominal pain - when amodiaquine is given with CYP2C8*2 genotype. 
 CYP2C8*2:CYP2C8*3
 ----------------------------------------
+record_id: 30
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -340,6 +371,7 @@ Infectious Disease
 drug-induced liver injury
 HLA-A*0201
 ----------------------------------------
+record_id: 31
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -351,6 +383,7 @@ Infectious Disease
 drug-induced liver injury
 DRB1*1501:  DQB1*0602
 ----------------------------------------
+record_id: 32
 Illing, P.T., et al.
 2017
 The role of HLA genes in pharmacogenomics: unravelling HLA associated adverse drug reactions
@@ -362,6 +395,7 @@ Infectious Disease
 DILI drug-induced liver injury
 HLA-A*02:01,  HLA-A*30:02,  HLA-B*18:01,  DRB1*15:01-DQB1*0602 haplotype
 ----------------------------------------
+record_id: 33
 Chalasani, N., et al.
 2010
 Risk Factors for Idiosyncratic Drug-Induced Liver Injury
@@ -373,6 +407,7 @@ Infectious Disease
 Drug induced hepatotoxicity
 HLA B1*1501:  HLA-DRB5*0101 : HLA-DQB1*0602
 ----------------------------------------
+record_id: 34
 Gervasini, G., et al.
 2017
 Polymorphisms in ABCB1 and CYP19A1 genes affect anastrozole plasma concentrations and clinical outcomes in postmenopausal breast cancer patients.
@@ -384,6 +419,7 @@ Oncology
 Arthrialgia 
 ABCB1 2677?TT
 ----------------------------------------
+record_id: 35
 Gervasini, G., et al.
 2017
 Polymorphisms in ABCB1 and CYP19A1 genes affect anastrozole plasma concentrations and clinical outcomes in postmenopausal breast cancer patients.
@@ -395,6 +431,7 @@ Oncology
 Arthrialgia and cancer recurrence in our patients.
  CYP19A1 rs1008805 GG
 ----------------------------------------
+record_id: 36
 Vilaseca, M., et al. 
 2000
 Anti-Epileptic drug treatment in children: Hyperhomocysteinaemia, B-Vitamins and the 677C?T Mutation of the Methylenetetrahydrofolate Reductase Gene
@@ -406,6 +443,7 @@ Neurology
 Total homocysteine concentrations were significantly increased (p<0.05) and folate and vitamin B6levels were significantly decreased (p<0.01) in the children taking anti-epileptic drugs
 MTHFR 677 C?T
 ----------------------------------------
+record_id: 37
 Feng, F.M., et al.
 2014
 Genetic polymorphisms in metabolic enzymes and susceptibility to anti-tuberculosis drug-induced hepatic injury
@@ -417,6 +455,7 @@ Oncology
 anti-tuberculosis drug-induced hepatic injury (ADIH)
 NAT2 : CYP2E1 : GSTM1 : GSTT1
 ----------------------------------------
+record_id: 38
 Bertilsson, I., et Al.
 1997
 Pharmacogenetics of antidepressants: clinical aspects 
@@ -428,6 +467,7 @@ Psychiatry
 Altered bioavaliability with increased side effect risk in slow metabolizers, in particularly higher drug doses in the body with increased risk of toxicity leading to death. 
 CYP2D6 slow metabolizers
 ----------------------------------------
+record_id: 39
 Kircheiner, J., et al. 
 2001
 CYP2D6 and CYP2C19 genotype-based dose recommendations for antidepressants 
@@ -439,6 +479,7 @@ Psychiatry
 For the tricyclic antidepressants, dose reductions around 50% were generally recommended for poor metabolizers of substrates of CYP2D6 or CYP2C19
 CYP2D6:CYP2C19 poor metabolizers
 ----------------------------------------
+record_id: 40
 Eum, S., et al.
 2016
 Pharmacogenetic tests for antipsychotic medications: clinical implications and considerations
@@ -450,6 +491,7 @@ Psychiatry
 Increased mortality in elderly patients with psychosis caused by dementia, suicidal thoughts and behavior in children and young adults, neuroleptic malignant syndrome, and tardive dyskinesia. 
 CYP2D6*1 : CYP2D6*2 : CYP2D6*33 : CYP2D6*35 : CYP2D6*9: CYP2D6*10 :  CYP2D6*17 : CYP2D6*29 : CYP2D6*36 : CYP2D6*41 : CYP2D6*4 :CYP2D6*3 : CYP2D6*5-8 : CYP2D6*11-16 : CYP2D6*19-21: CYP2D6*38 : CYP2D6*40 :  CYP2D6*42. CYP2D6*5 CYPD26*2XN 
 ----------------------------------------
+record_id: 41
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -461,6 +503,7 @@ Cardiology
 Urticaria; severe cutaneous adverse drug reaction 
 HLA-DRB1*1302: HLA-DQB1*0609
 ----------------------------------------
+record_id: 42
 Asensi, V., et al.
 2015
 Can antiretroviral therapy be tailored to each human immunodeficiency virus-infected individual? Role of pharmacogenomics.
@@ -472,6 +515,7 @@ Infectious Disease
 Enhance unconjugated hyperbilirubinemia and jaundice- due to modified plasma levels of atazanavir by UGT1A1*28 and ABCB1 (MDR1) 3435C > T SNPs 
 UGT1A1*28 and ABCB1MDR1 3435C>T SNPs
 ----------------------------------------
+record_id: 43
 Turatti, L., et al.
 2012
 Short communication: UGT1A1*28 variant allele is a predictor of severe hyperbilirubinemia in HIV-infected patients on HAART in southern Brazil.
@@ -483,6 +527,7 @@ Infectious Disease
 higher risk of severe hyperbilirubinemia - due to UGT1A1 polymorphism and the use of atezanavir. Uridine diphosphate-glucuroNosyltransferase is the enzyme in charge of thehepatic conjugation of billirubin and therefore its variations can affect the bilirubin concentration. 
 UGT1A1*28, rs8175347
 ----------------------------------------
+record_id: 44
 Cavallari, L.H., et al.
 2011
 Role of cytochrome P450 genotype in the steps toward personalized drug therapy
@@ -494,6 +539,7 @@ Psychiatry
 Increased plasma concentration of Atomoxetine when given along with genetic polymorphism of CYP2D6 poor metabolizers. Dose adjustment is recommended in these patients. 
 CYP2D6 poor metabolizers
 ----------------------------------------
+record_id: 45
 Arrigoni, E., et al. 
 2017
 Pharmacogenetic Foundations of Therapeutic Efficacy and Adverse Events of Statins
@@ -505,6 +551,7 @@ Cardiology
 Higher LDL cholesterol levels due to decreased efficacy
 CYP3A5*1 c.6986A>G rs776746
 ----------------------------------------
+record_id: 46
 Arrigoni, E., et al. 
 2017
 Pharmacogenetic Foundations of Therapeutic Efficacy and Adverse Events of Statins
@@ -516,6 +563,7 @@ Cardiology
 Higher total and LDL cholesterol levels
 POR*28
 ----------------------------------------
+record_id: 47
 Eichelbaum, M., et al.
 2005
 Pharmacogenetics and individualized drug therapy
@@ -527,6 +575,7 @@ Oncology
 Severe and life threatening hematopoietic toxicity
 TPMT*2:TPMT*3A:TPMT*3C
 ----------------------------------------
+record_id: 48
 Pirmohamed, M. 
 2010
 Pharmacogenetics of adverse drug reactions 
@@ -538,6 +587,7 @@ Rheumatology
 Thiopurine S-methyltransferase was implicated in azathiprine hematological toxicity
 heterozygous Non-functional TPMT alleles
 ----------------------------------------
+record_id: 49
 Schwab, M., et al. 
 2002
 Azathioprine therapy and adverse drug reactions in patients with inflammatory bowel disease: impact of thiopurine S-methyltransferase polymorphism
@@ -549,6 +599,7 @@ Rheumatology
 Patients with polymorphisms in TMPT had increased risk of pancytopenia as a side effect of azathioprine, however GI side effects were not associated with this polymorphism 
 TMTP *3A, *3C, *2
 ----------------------------------------
+record_id: 50
 Liu, Y.P., et al.
 2015
 Association between Thiopurine S-Methyltransferase Polymorphisms and Azathioprine-Induced Adverse Drug Reactions in Patients with Autoimmune Diseases: A Meta-Analysis
@@ -560,6 +611,7 @@ Rheumatology
 Bone marrow toxicity and gastric intolerance
 TPMT *3A, TPMT *3B and TPMT *3C
 ----------------------------------------
+record_id: 51
 Marinaki, A., et al. 
 2004
 Adverse drug reactions to azathioprine therapy are associated in the gene encoding inosine triphosphate pyrophosphatase (ITPase) 
@@ -571,6 +623,7 @@ Rheumatology
 Polymorphism in ITPA leads to azothioprine intolerance including flu-like symptoms, rash and pancreatitis 
 ITPA 94C
 ----------------------------------------
+record_id: 52
 Marinaki, A., et al.
 2004
 Adverse drug reactions to azathioprine therapy are associated in the gene encoding inosine triphosphate pyrophosphatase (ITPase) 
@@ -582,6 +635,7 @@ Rheumatology
 Polymorphism in ITPA leads to azothioprine intolerance including flu-like symptoms, rash and pancreatitis 
 ITPA 94C
 ----------------------------------------
+record_id: 53
 Goey, A., et al.
 2016
 UGT genotyping in beliNostat dosing
@@ -593,6 +647,7 @@ Oncology
 Hyperbillirubinemia, neutropenia, and thrombocytopenia
 UGT1A1*28 rs8175347: UGT1A1*60 rs4124874 : UGT1A1*93 rs10929302
 ----------------------------------------
+record_id: 54
 Bertholee,  D., et al. 
 2017
 Genotypes Affecting the Pharmacokinetics of Anticancer Drugs
@@ -604,6 +659,7 @@ Oncology
 Hepatoxicity and interstitial pneumonitis
 ABCG2 c.421C>A  rs2231142
 ----------------------------------------
+record_id: 55
 Zabriskie, M.S., et al.
 2014
 BCR-ABL1 Compound Mutations Combining Key Kinase Domain Positions Confer Clinical Resistance to Ponatinib in Ph Chromosome-Positive Leukemia
@@ -615,6 +671,7 @@ Oncology
 Relapse of disease- Mutations in BCR-ABL1 may confer resistance and treatment failure leading to disease progression. T315I mutants are also found to confer high-level resistance to Tyrosine Kinase Inhibitors.
 BCR-ABL1:M244, G250, Q252, Y253, E255, V299, F311, T315, F317, M351, F359, and H396:T315I
 ----------------------------------------
+record_id: 56
 Ishigooka J., et al.
 2017
 Pharmacokinetics and Safety of Brexpiprazole Following Multiple-Dose Administration to Japanese Patients With Schizophrenia.
@@ -626,6 +683,7 @@ Psychiatry
 Prolactenemia, increased levels of blood creatine kinase, schizophrenia, seizures, insomnia, GI symptoms, foot fracture, musculoskeletal pain 
 CYP2D6*10 :  CYP2D6*41:  CYP2D6*4 :  CYP2D6*5 :  CYP2D6*14A :  CYP2D6*14 : CYP2D6*18 :  CYP2D6*21
 ----------------------------------------
+record_id: 57
 Dean, L.
 2018
 Brivaracetam Therapy and CYP2C19 Genotype
@@ -637,6 +695,7 @@ Neurology
 sedation, fatigue, dizziness, and nausea
 CYP2C19*2 : CYP2C19*3
 ----------------------------------------
+record_id: 58
 Bertholee,  D., et al. 
 2017
 Genotypes Affecting the Pharmacokinetics of Anticancer Drugs
@@ -648,6 +707,7 @@ Oncology
 Myelosuppression, nausea and vomiting, interstitial pulmonary fibrosis, gynecomastia, Addisonian symptoms, dermatologic hyperpigmentation, and cytologic dysplasia.
 CYP2C9*2 (c.430C>T) rs1799853 : GSTA1*B (c.-135T>C)  rs3957357
 ----------------------------------------
+record_id: 59
 Zanini Maciel, L.M., et al.
 2017
 Medullary thyroid carciNoma – Adverse events during systemic treatment: risk-benefit ratio
@@ -659,6 +719,7 @@ Oncology
 Perforation, fistulas, and hemorrhages. May have interaction with CYP3A4 inhibitors as well. 
 RET
 ----------------------------------------
+record_id: 60
 Grimaldi, E., et al.
 2017
 New advances in DPYD genotype and risk of severe toxicity under capecitabine
@@ -670,6 +731,7 @@ Oncology
 Risk of life-threatening capecitabine toxicity, such as bone marrow suppression and neurotoxicity.
 DPYD*2A:  DPYD*13, and rs67376798
 ----------------------------------------
+record_id: 61
 Gross, E., et al. 
 2008
 Strong association of common dihydropyrimidine dehydrogenase gene polymorphism with Fluoropyrimidine-Related Toxicity in Cancer Patients
@@ -681,6 +743,7 @@ Oncology
 Neutropenia, thrombopenia, mucositis, diarrhea, nausea and vomiting, neurotoxicity, cardiac toxicity, alopecia and hand-foot-syndrome 
 thrombopenia,
 ----------------------------------------
+record_id: 62
 Caudle, K.E., et al.
 2014
 Clinical Pharmacogenetics Implementation Consortium Guidelines for CYP2C9 and HLA-B Genotypes and Phenytoin Dosing
@@ -692,6 +755,7 @@ Neurology
 Induced Steven Johnson Syndrome and Toxic Epidermal Necrolysis
 HLA-B*15:02
 ----------------------------------------
+record_id: 63
 Illing, P.T., et al.
 2017
 The role of HLA genes in pharmacogenomics: unravelling HLA associated adverse drug reactions
@@ -703,6 +767,7 @@ Neurology
 SJS/TEN
 HLA-B*15:02 (and other alleles of B75 serotype)
 ----------------------------------------
+record_id: 64
 Illing, P.T., et al.
 2017
 The role of HLA genes in pharmacogenomics: unravelling HLA associated adverse drug reactions
@@ -714,6 +779,7 @@ Neurology
 DRESS, MPE, SJS/TEN
 HLA-A*31:01
 ----------------------------------------
+record_id: 65
 Krasowski, M. 
 2015
 Current Diagnosis & Treatment : Family Medicine Chapter 49: Pharmacogenomics
@@ -725,6 +791,7 @@ Neurology
 Steven-Johnson syndrome and toxic epidermal necrolysis
 HLA-B*1502
 ----------------------------------------
+record_id: 66
 Ueda, K., et al.
 2007
 Glutathione S-transferase M1 null genotype as a risk factor for carbamazepine-induced mild hepatotoxicity.
@@ -736,6 +803,7 @@ Neurology
 mild hepatotoxicity 
 GSTM1-
 ----------------------------------------
+record_id: 67
 Pirmohamed, M. 
 2010
 Pharmacogenetics of adverse drug reactions 
@@ -747,6 +815,7 @@ Neurology
 HLA-E and HLA-A*3101 were implicated in carbamazepine induced maculopapular rash in Han Chinese populations. MLN was implicated in carbamazapine hypersensitivity in Han Chinese populations. TNF-308, HLA-DR3, HLA-DQ2 and HSPA1L were implicated in carbamazapine hypersensitivity in Caucasian populations. HLA-B*1502 was implicated in carbamazpine induced SJS/TEN in Han Chinese populations.
 HLA-E, HLA-A*3101
 ----------------------------------------
+record_id: 68
 Lazier, J., et al.
 2014
 Hyperammonemic encephalopathy in an adenocarcinoma patient managed with carglumic acid.
@@ -758,6 +827,7 @@ Genetic
 Hyperammonemic encephalopathy
 No specific polymorphism applicable: referencing NAG deficiency
 ----------------------------------------
+record_id: 69
 Dean, L., et al.
 2017
 Carisoprodol Therapy and CYP2C19 Genotype.
@@ -769,6 +839,7 @@ Cardiology
 Increased risk of death, CNS respiratory depression, and seizures
 CYP2C19*2 : CYP2C19*3 :  CYP2C19*4 : CYP2C19*5 :  CYP2C19*6 :  CYP2C19*7 : CYP2C19*8
 ----------------------------------------
+record_id: 70
 Luzum J.A., et al.
 2017
 CYP2D6 Genetic Variation and Beta-Blocker Maintenance Dose in Patients with Heart Failure.
@@ -780,6 +851,7 @@ Cardiology
 Dizziness 
 CYP2D6*4
 ----------------------------------------
+record_id: 71
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -791,6 +863,7 @@ Cardiology, Anesthesiology
 Cardiovascular and gastrointestinal bleeding events.
 CYP2C9*3/*3
 ----------------------------------------
+record_id: 72
 Dean, L.
 2016
 Celecoxib Therapy and CYP2C9 Genotype
@@ -802,6 +875,7 @@ Rheumatology
 Poor metabolizers (individuals who carry two copies of the variants CYP2C9*2 or CYP2C9*3 or a loss-of-function of the CYP2C9) are at increased risk of high celecoxib levels. Increased risk of bleeding in CYP2C9*3 and NSAID use.
 CYP2C9*2:CYP2C9*3
 ----------------------------------------
+record_id: 73
 Ishikawa, C., et al.
 2004
 A frameshift variant of CYP2C8 was identified in a patient who suffered from rhabdomyolysis after administration of cerivastatin
@@ -813,6 +887,7 @@ Cardiology
 Rhabdomyolysis
 475delA, G874C, and T1551C, were found in the exons of CYP2C8.
 ----------------------------------------
+record_id: 74
 Bertholee,  D., et al. 
 2017
 Genotypes Affecting the Pharmacokinetics of Anticancer Drugs
@@ -824,6 +899,7 @@ Oncology
 Pulmonary toxicity, Interstitial lung disease, Skin toxicity, and Acneiform rash
 VNTR3/VNTR3
 ----------------------------------------
+record_id: 75
 Greenfield, N.P., et al.
 2012
 PharmacogeNomic biomarkers in dermatologic drugs
@@ -835,6 +911,7 @@ Rheumatology
 Nausea, increased sweating, rhinitis, diarrhea  
 Drugs that inhibit CYP2D6 and CYP3A4 inhibit the metabolism of ceimeline
 ----------------------------------------
+record_id: 76
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -846,6 +923,7 @@ Infectious Disease
 Cause hemolytic anemia in patients with G6PD deficiency.
 G6PD C563T 
 ----------------------------------------
+record_id: 77
 Janney, S.K., et al.
 1986
 Excess release of ferriheme in G6PD-deficient erythrocytes: possible cause of hemolysis and resistance to malaria
@@ -857,6 +935,7 @@ Infectious Disease
 hemolysis in G6PD deficiency
 
 ----------------------------------------
+record_id: 78
 Pavlic, G.J.
 1966
 Possible Potentiation of Hemolytic Anemia by Tolbutamide
@@ -868,6 +947,7 @@ Endocrinology
 Hypoglycemia, dizzines, headache, liver failure, aplastic anemia
 
 ----------------------------------------
+record_id: 79
 Ross, C.J.D, et al.
 2009
 Genetic variants in TPMT and COMT are associated with hearing loss in children receiving cisplatin chemotherapy
@@ -879,6 +959,7 @@ Oncology
 Cisplatin induced ototoxicity
 rs12201199
 ----------------------------------------
+record_id: 80
 Hicks, J.K., et al.
 2015
 Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for CYP2D6 and CYP2C19 Genotypes and Dosing of Selective Serotonin Reuptake Inhibitors
@@ -890,6 +971,7 @@ Psychiatry
 Defective CYP2D6 alleles slow metabolizer of citalopram
 CYP2D6*3:CYP2D6*4:CYP2D6*5:CYP2D6*6
 ----------------------------------------
+record_id: 81
 Rudberg, I., et al.
 2007
 Impact of the Ultrarapid CYP2C19*17 Allele on Serum Concentration of Escitalopram in Psychiatric Patients
@@ -901,6 +983,7 @@ Psychiatry
 Defective CYP2C19 alleles produce lower serum concentration of escitalopram and increased risk of therapeutic failure
 CYP2C19*17
 ----------------------------------------
+record_id: 82
 Contin, M., et al.
 2002
 Evidence of Polymorphic CYP2C19 Involvement in the Human Metabolism of N-Desmethylclobazam
@@ -912,6 +995,7 @@ Neurology
 sedation, dizziness, and fatigue
 CYP2C19*2:CYP2C19*3:CYP2C19*4
 ----------------------------------------
+record_id: 83
 Brandl, E.J., et al.
 2013
 Influence of CYP2D6 and CYP2C19 gene variants on antidepressant response in obsessive-compulsive disorder
@@ -923,6 +1007,7 @@ Psychiatry
 Drug resistance and higher dose requiremetn. Duration of illness did not differ between patients with different CYP2D6
 rs35742686:rs3892097:rs1065852:rs28371706:rs28371725
 ----------------------------------------
+record_id: 84
 Cavallari, L.H., et al.
 2011
 Role of cytochrome P450 genotype in the steps toward personalized drug therapy
@@ -934,6 +1019,7 @@ Cardiology/Hematology
 Adverse cardiovascular events, stent thrombosis - CYP2C19 Poor Metabolizers decrease the antiplatelet effect. Increased likelihood of requiring antiplatelet therapy as a combined therapy. 
 CYP2C19*2:CYP2C19*3:CYP2C19*4:CYP2C19*5:CYP2C19*6:CYP2C19*7:CYP2C19*8 (Poor Metabolizers); CYP2C19*17:CYP2C19*(Increase enzyme activity)
 ----------------------------------------
+record_id: 85
 Dean, L.
 2017
 Prasugrel therapy and CYP Genotype
@@ -945,6 +1031,7 @@ Cardiology/Hematology
 Increased risk for High on Treatment Platelet Reactivity in patients with No function in CYP2C19 due to decreased active metabolites of clopidogrel. The polymorphism responsible is CYP2C19*2 which leads to reduced plasma active clopidogrel metabolites and therefore increased platelet reactivity.
 CYP2C19*2
 ----------------------------------------
+record_id: 86
 Kelly, R.P., et al.
 2012
 Pharmacokinetics and pharmacodynamics following maintenance doses of prasugrel and clopidogrel in Chinese carriers of CYP2C19 variants
@@ -956,6 +1043,7 @@ Cardiology/Hematology
 Increased risk of bleeding, stent thrombosis, and major adverse cardiovascular events. Bleeding related effects such as post-procedural bleeding and contusion. Patients with lower body weight presented a higher incidence of contusion related to the drug.- Poor responders and Non responders of clopidogrel due to reduced metabolism by polymorphic CYP2C19 enzymes, thus reduced therapeutic effect in cardiovascular patients. 
 CYP2C19*2:CYP2C19*3:CYP2C19*17:rapid metabolizer (phenotype*1/*1):intermediate metabolizer (phenotype *1/*2 & *1/*3); poor metabolizer (phenotype *2/*2 and *2/*3)
 ----------------------------------------
+record_id: 87
 Simon, T., et. al.
 2009
 Genetic Determinants of Response to Clopidogrel and Cardiovascular Events
@@ -967,6 +1055,7 @@ Cardiology/Hematology
 Increased risk of death, Nonfatal myocardial infarction, or stroke
 ABCB1 (TT at nucleotide 3435)
 ----------------------------------------
+record_id: 88
 Preissner, S.C.
 2013
 Polymorphic Cytochrome P450 Enzymes (CYPs) and Their Role in Personalized Therapy
@@ -978,6 +1067,7 @@ Cardiology/Hematology
 CYP 2C19*2 polymorphism was shown to lead to a 30% increased risk of major adverse cardiovascular events during treatment with clopidogrel; CYP 2B6*5 and P2Y12 polymorphisms are also associated with clopidogrel resistance
 CYP2C19*2:CYP2B6*5
 ----------------------------------------
+record_id: 89
 Luzzatto, L., et al.
 2014
 G6PD deficiency: a classic example of pharmacogenetics with on-going clinical implications
@@ -989,6 +1079,7 @@ Infectious Disease
 acute hemolytic anemia due to G6PD deficiency
 G6PD  
 ----------------------------------------
+record_id: 90
 Dean, L.
 2016
 Clozapine Therapy and CYP2D6, CYP1A2, and CYP3A4 Genotypes
@@ -1000,6 +1091,7 @@ Psychiatry
 Higher than expected plasma concentrations of clozapine with usual doses
 CYP2D6*9:CYP2D6*10:CYP2D6*17:CYP2D6*29:CYP2D6*36:CYP2D6*41
 ----------------------------------------
+record_id: 91
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -1011,6 +1103,7 @@ Psychiatry
 Agranulocytosis
 HLA-DRB5*0201
 ----------------------------------------
+record_id: 92
 Ribas, A., et al.
 2014
 Combination of vemurafenib and cobimetinib in patients with advanced BRAFV600-mutated melanoma: a phase 1b study
@@ -1022,6 +1115,7 @@ Oncology
 Fatigue:diarrhea:Non-acneiform rash:liver enzyme abnormalities:photosensitivity
 BRAFV600
 ----------------------------------------
+record_id: 93
 Dean, L.
 2012
 Codeine Therapy and CYP2D6 Genotype
@@ -1033,6 +1127,7 @@ Anesthesiology
 Risk for morphine toxicity (eg. Extreme sleepiness, confusion, shallow breathing, fatal respiratory depression, and death) in the ultrarapid metabolizer patients. Insufficient pain relief in poor metabolizers, avoid use of codeine due to lack of efficacy).
 CYP2D6*1/*1xN,*1/*2xN (ultrarapid metabolizer): CYP2D6*1/*1,*1/*2,*2/*2,*1/*41,*1/*4,*2/*5,*1/*10(Normal metabolizer):CYP2D6*4/*10,*5/*41(intermediate metabolizer): CYP2D6*4/*4,*4/*5,*5/*5,*4/*6(poor metabolizer)
 ----------------------------------------
+record_id: 94
 Camidge, D.R., et al.
 2012
 Activity and safety of crizotinib in patients with ALK-positive Non-small-cell lung cancer: updated results from a phase 1 study
@@ -1044,6 +1139,7 @@ Oncology
 Diarrhea, constipation, nausea, vomiting and visual side-effects
 EML4–ALK
 ----------------------------------------
+record_id: 95
 Awad, M.M., et al.
 2013
 Acquired Resistance to Crizotinib from a Mutation in CD74–ROS1
@@ -1055,6 +1151,7 @@ Oncology
 Acquired mutation affecting the ROS1 kinase domain that confers resistance to crizotinib
 CD74–ROS1
 ----------------------------------------
+record_id: 96
 Nagasundaram, N., et al.
 2017
 Molecular Dynamics Validation of Crizotinib Resistance to ALK Mutations (L1196M and G1269A) and Identification of Specific Inhibitors.
@@ -1066,6 +1163,7 @@ Oncology
  Medication resistance against Non squamous cell lung cancer and cancer recurrence 
 ALK L1196M : ALK G1269A
 ----------------------------------------
+record_id: 97
 Zanger, U., et al.
 2013
 Pharmacogenetics of cytochrome P450 2B6 (CYP2B6): advances on polymorphisms, mechanisms, and clinical relevance
@@ -1077,6 +1175,7 @@ Oncology
 Myelosuppression, hemorrhagic cystitis, alopecia, and gonadal damage
 CYP2B6*6 :CYP2B6*18
 ----------------------------------------
+record_id: 98
 Bertholee,  D., et al. 
 2017
 Genotypes Affecting the Pharmacokinetics of Anticancer Drugs
@@ -1088,6 +1187,7 @@ Oncology
 Myelosuppression, hemorrhagic cystitis, alopecia, and gonadal damage are the main toxic effects. 
 CYP2C19*2 : CYP2C19*3 
 ----------------------------------------
+record_id: 99
 Xie, H., et al.
 2006
 Pharmacogenetics of cyclophosphamide in patients with hematological malignancies.
@@ -1099,6 +1199,7 @@ Oncology
 Myelosuppression, hemorrhagic cystitis, alopecia, and gonadal damage
 CYP2B6 G516T
 ----------------------------------------
+record_id: 100
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -1110,6 +1211,7 @@ Oncology
 Nephrotoxicity
 ABCB1 34355TT
 ----------------------------------------
+record_id: 101
 Hauschild, A., et al.
 2012
 Dabrafenib in BRAF-mutated metastatic melanoma: a multicentre, open-label, phase 3 randomised controlled trial
@@ -1121,6 +1223,7 @@ Oncology
 Skin-related toxic effects, fever, fatigue, arthralgia, and headache
 BRAFV600E 
 ----------------------------------------
+record_id: 102
 Dean, L.
 2017
 Dabrafenib Therapy and BRAF and G6PD genotype
@@ -1132,6 +1235,7 @@ Oncology
 Potential risk of hemolytic anemia in patients with G6PD deficiency.
 p.Ser218Phe:p.Asn126Asp:p.Ser218Phe
 ----------------------------------------
+record_id: 103
 Jang, S, et al.
 2013
 Which drug, and when, for patients with BRAF-mutant melanoma?
@@ -1143,6 +1247,7 @@ Oncology
 growth of cutaneous squamous-cell carcinomas
 BRAF, mainly at codon 600, which result in constitutive activation of the MAPK pathway
 ----------------------------------------
+record_id: 104
 Samatar, A.A., et al.
 2014
 Targeting RAS-ERK signalling in cancer: promises and challenges
@@ -1154,6 +1259,7 @@ Oncology
 Benign tumours of the skin, mainly keratoacanthomas and squamous cell carciNomas
 V600E
 ----------------------------------------
+record_id: 105
 Morio, R., et al.
 2017
 Safety and efficacy of dual therapy with daclatasvir and asunaprevir for older patients with chronic hepatitis C
@@ -1165,6 +1271,7 @@ Infectious Disease
 flulike syndrome, aminotransferase level elevation, HCV clearance
 ss469415590, IFNL4 TT/?G genotype or IFNL4 ?G/?G genotype in in older patients
 ----------------------------------------
+record_id: 106
 Abouraya, M., et al.
 2013
 Dapsone?Associated Methemoglobinemia in a Patient With Slow NAT2*5B Haplotype and Impaired Cytochrome b5 Reductase Activity
@@ -1176,6 +1283,7 @@ Dermatology
 Methemoglobinemia on low prophylactic dosage of dapson
 NAT2*5B haplotype, along with low CYB5A and CYB5R3 expression and b5/ b5R reduction activity.
 ----------------------------------------
+record_id: 107
 Luzzatto, L., et al.
 2014
 G6PD deficiency: a classic example of pharmacogenetics with on-going clinical implications
@@ -1187,6 +1295,7 @@ Dermatology
 Acute Hemolytic anemia
 G6PD A-
 ----------------------------------------
+record_id: 108
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -1198,6 +1307,7 @@ Infectious Disease
 Cause hemolytic anemia in patients with G6PD deficiency.
 G6PD C563T 
 ----------------------------------------
+record_id: 109
 Luzzatto, L., et al.
 2014
 G6PD deficiency: a classic example of pharmacogenetics with on-going clinical implications
@@ -1209,6 +1319,7 @@ Infectious Disease
 acute hemolytic anemia due to G6PD deficiency
 G6PD  
 ----------------------------------------
+record_id: 110
 Illing, P.T., et al.
 2017
 The role of HLA genes in pharmacogenomics: unravelling HLA associated adverse drug reactions
@@ -1220,6 +1331,7 @@ Infectious Disease
 Dapsone hypersensitivity syndrome
 HLA-B*13:01
 ----------------------------------------
+record_id: 111
 Kerbusch, T., et al.
 2003
 Population pharmacokinetic modelling of darifenacin and its hydroxylated metabolite using pooled data, incorporating saturable first-pass metabolism, CYP2D6 genotype and formulation-dependent bioavailability
@@ -1231,6 +1343,7 @@ Urology
 Up to 90% increase in absolute bioavailability of darifenacin in poor CYP2D6 metabolizers; lower CYP2D acitivity in females
 Carries of poor metabolizer genotype
 ----------------------------------------
+record_id: 112
 Feld, J.J., et al.
 2015
 Sustained virologic response of 100% in HCV genotype 1b patients with cirrhosis receiving ombitasvir/paritaprevir/r and dasabuvir for 12 weeks
@@ -1242,6 +1355,7 @@ Infectious Disease
 fatigue, diarrhea, and headache
 Non-CC genotype
 ----------------------------------------
+record_id: 113
 Soverini, S., et al.
 2014
 Implications of BCR-ABL1 kinase domain-mediated resistance in chronic myeloid leukemia
@@ -1253,6 +1367,7 @@ Oncology
 Clinical resistance to dasatinib
 V299L, T315A, F317L/I/V/C
 ----------------------------------------
+record_id: 114
 Zabriskie, M.S., et al.
 2014
 BCR-ABL1 Compound Mutations Combining Key Kinase Domain Positions Confer Clinical Resistance to Ponatinib in Ph Chromosome-Positive Leukemia
@@ -1264,6 +1379,7 @@ Oncology
 Relapse of disease- Mutations in BCR-ABL1 may confer resistance and treatment failure leading to disease progression. T315I mutants are also found to confer high-level resistance to Tyrosine Kinase Inhibitors.
 BCR-ABL1:M244, G250, Q252, Y253, E255, V299, F311, T315, F317, M351, F359, and H396:T315I
 ----------------------------------------
+record_id: 115
 Anandakumar, P., et al.
 2014
 Drug induced hepatotoxicity - A Review
@@ -1275,6 +1391,7 @@ Cardiology
 Poor metabolism of drug
 -
 ----------------------------------------
+record_id: 116
 Jurkat-Rott, K., et al.
 1999
 Genetics and pathogenesis of malignant hyperthermia
@@ -1286,6 +1403,7 @@ Anesthesiology
 Suceptibility to malignant hyperthermia
 
 ----------------------------------------
+record_id: 117
 MoriNobu, S., et al.
 1997
 Effects of genetic defects in the CYP2C19 gene on the N-demethylation of irnipramine, and clinical outcome of imipramine therapy
@@ -1297,6 +1415,7 @@ Psychiatry
 Impaired N-demethylation of imipraniine
 CYP2C19M1, CYP2C19 M2
 ----------------------------------------
+record_id: 118
 Liu, J.F., et al.
 2017
 Chapter Fourteen - A Decade of Deuteration in Medicinal Chemistry
@@ -1308,6 +1427,7 @@ Neurology
 increase half life of active metabolites
 Poor metabolizers of CYP2D6 or strong inhibitors of CYP2D6
 ----------------------------------------
+record_id: 119
 Goldstein, J.A.
 2001
 Clinical relevance of genetic polymorphisms in the human CYP2C subfamily
@@ -1319,6 +1439,7 @@ Neurology/Anesthesiology
 Poor metabolisers of drug can experience toxicity.
 Poor metabolizer genotype
 ----------------------------------------
+record_id: 120
 Dean, L.
 2016
 Diazepam Therapy and CYP2C19 Genotype
@@ -1330,6 +1451,7 @@ Psychiatry
  Sedation, anxiolysis, anticonvulsant muscle relaxant, amnesic effects, as well as higher benzodiazepine withdrawal symptoms which may include seizures.
 CYP2C19*1 : CYP2C19*2 : CYP2C19*3 : CYP2C19*17
 ----------------------------------------
+record_id: 121
 Zanger, U., et al.
 2013
 Cytochrome P450 enzymes in drug metabolism: regulation of gene expression, enzyme activities, and impact of genetic variation.
@@ -1341,6 +1463,7 @@ Pain Management/Rheumotology/Neurology/Dermotology
 ? drug clearance & ? adverse events (NSAIDS)
 CYP2C9*3
 ----------------------------------------
+record_id: 122
 Daly, A., et al. 
 2007
 Genetic Susceptibility to Diclofenac-Induced Hepatotoxicity: Contribution of UGT2B7, CYP2C8, and ABCC2 Genotypes
@@ -1352,6 +1475,7 @@ Rheumatology
 Drug-induced liver injury that ranges from acute liver failure to nonspecific symptoms with transaminase elevation
 UGT2B7*2 :  ABCC2 C-24T
 ----------------------------------------
+record_id: 123
 Hoffmeyer, S., et al.
 2002
 Role of human MDR1 gene polymorphism in bioavailability and interaction of digoxin, a substrate of P-glycoprotein
@@ -1363,6 +1487,7 @@ Cardiology
 Increased digoxin plasma levels, altered absorption and/or disposition profiles of digoxin and P-glycoprotein-mediated drug interaction.
 C3435T
 ----------------------------------------
+record_id: 124
 Bertholee,  D., et al. 
 2017
 Genotypes Affecting the Pharmacokinetics of Anticancer Drugs
@@ -1374,6 +1499,7 @@ Oncology
 Neutropenia
 ABCB1 c.1236T>C rs1128203 : ABCB1 c.3435T>C rs1045642
 ----------------------------------------
+record_id: 125
 Chen, S., et al.
 2013
 Evaluation of the effect of UGT1A1 polymorphisms on dolutegravir pharmacokinetics
@@ -1385,6 +1511,7 @@ Infectious Disease
 decreased oral clearance
 *1/*6:*1/*28:*1/*37:*28/*36:*36/*37
 ----------------------------------------
+record_id: 126
 Haritos, V. S., et al.
 2000
 Role of cytochrome P450 2D6 (CYP2D6) in the stereospecific metabolism of E- and Z-doxepin
@@ -1396,6 +1523,7 @@ Psychiatry
 Doxepin increased hydroxylation with mutation
 
 ----------------------------------------
+record_id: 127
 Koski, A., et al.
 2007
 A Fatal Doxepin Poisoning Associated With a Defective CYP2D6 Genotype
@@ -1407,6 +1535,7 @@ Psychiatry
 Poor metabolizer
 *3/*4
 ----------------------------------------
+record_id: 128
 Bertholee,  D., et al. 
 2017
 Genotypes Affecting the Pharmacokinetics of Anticancer Drugs
@@ -1418,6 +1547,7 @@ Oncology
 Cardiotoxicity
 ABCB1 c.1236T>C rs1128203:  ABCB1 c.2677T>A/G rs2032582 : SLC22A16 c.146A>G  rs714368 : SLC22A16 c.312T>C rs6907567
 ----------------------------------------
+record_id: 129
 Dorado, P., et al. 
 2007
 CYP2D6 polymorphism: implications for antipsychotic drug response, schizophrenia and personality traits.
@@ -1429,6 +1559,7 @@ Psychiatry
 Personality characteristics of social cognitive anxiety and midl psychotic like symptoms - due to null CYP2D6 activity. This can be a risk of vulnerability to disease in schizophrenia patients.
 CYP2D6*3
 ----------------------------------------
+record_id: 130
 Sánchez, M.A., et al.
 2013
 Impact of pharmacogenetics on CNS side effects related to efavirenz.
@@ -1440,6 +1571,7 @@ Infectious Disease
 CNS toxicity- due to concentrations of efavirenz above the therapeutic range, mostly due to CYP2B6*6 (516G>T and 785A>G) polymorphysm. 
 CYP2B6*6 (516G>T and 785A>G) 
 ----------------------------------------
+record_id: 131
 Chonlaphat, S.
 2012
 Pharmacogenetic markers of CYP2B6 associated with efavirenz plasma concentrations in HIV-1 infected Thai adults
@@ -1451,6 +1583,7 @@ Infectious Disease
 GAC-CYP2B6 haplotype is associated with higher plasma efavirenz concentrations in HIV-infected Thai adults.
 GAC-CYP2B6
 ----------------------------------------
+record_id: 132
 Dhoro, M., et al.
 2015
 CYP2B6*6, CYP2B6*18, Body weight and sex are predictors of efavirenz pharmacokinetics and treatment response: population pharmacokinetic modeling in an HIV/AIDS and TB cohort in Zimbabwe.
@@ -1462,6 +1595,7 @@ Infectious Disease
 decreased efavirenz clearance in CYP2B6*6TT genotype, therefore it is recommended a dose reduction to 200 mg/day in this genotype. CYP2B6*18 and CYP2B6*6 both show increased efavirenz levels and study results demonstrate that these polymorphisms can have additive effects if both are present. 
 CYP2B6*6TT (516G?>?T and 785A?>?G) : CYP2B6*18
 ----------------------------------------
+record_id: 133
 Becquemont, L.
 2017
 Type 1 Gaucher disease (CYP2D6-eliglustat)
@@ -1473,6 +1607,7 @@ Genetic
 Contraindicated for ultra-rapid metabolizers (underdosing inefficacy) or slow metabolizer due to drug toxicity
 CYP2D6 ultra-rapid metabolizers: CYP2D6 slow metabolizers
 ----------------------------------------
+record_id: 134
 Rosenberg, H., et al. 
 2003
 Malignant Hyperthermia Susceptibility
@@ -1484,6 +1619,7 @@ Anesthesiology
 Malignant hyperthermia
 RYR1: CACNA1S (p.Arg174Trp)
 ----------------------------------------
+record_id: 135
 Wang, C., et al.
 2018
 Genetic Association of Drug Response to Erlotinib in Chinese Advanced Non-small Cell Lung Cancer Patients
@@ -1495,6 +1631,7 @@ Oncology
 Skin rash and/or digestive tract injury
 rs10045685
 ----------------------------------------
+record_id: 136
 Al-Abdi, S.Y.
 2017
 Prolonged indirect hyperbilirubinemia in a moderately preterm boy with Mediterranean glucose-6-phosphate dehydrogenase and glutathione S-transferase Mu 1 null mutations.
@@ -1506,6 +1643,7 @@ Infectious Disease
 Indirect hyberbilirubinemia
 G6PD
 ----------------------------------------
+record_id: 137
 Hicks, J.K., et al.
 2015
 Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for CYP2D6 and CYP2C19 genotypes and dosing of selective serotonin reuptake inhibitors.
@@ -1517,6 +1655,7 @@ Psychiatry
 Affects drug efficacy and safety
 CYP2C19 carriers with poor metabolizer genotypes
 ----------------------------------------
+record_id: 138
 Noehr?Jensen, L., et al.
 2009
 Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for CYP2D6 and CYP2C19 genotypes and dosing of selective serotonin reuptake inhibitors.
@@ -1528,6 +1667,7 @@ Psychiatry
 Affects drug efficacy and safety
 
 ----------------------------------------
+record_id: 139
 Dean, L. 
 2012
 Esomeprazole Therapy and CYP2C19 Genotype
@@ -1539,6 +1679,7 @@ Gastroenterology
 increased risk of C.difficile infections and osteoporosis-related fractures.
 CYP2C19*17 : CYP2C19*1/*1 : CYP2C19*1/*2 : CYP2C19*1/*3 :  CYP2C19*2/*17 : CYP2C19*3/*17 :  CYP2C19*2/*2 :  CYP2C19*2/*3 : CYP2C19*3/*3
 ----------------------------------------
+record_id: 140
 Kagami, T., et al.
 2016
 Potent acid inhibition by voNoprazan in comparison with esomeprazole, with reference to CYP2C19 genotype.
@@ -1550,6 +1691,7 @@ Gastroenterology
 Differences in metabolism of drug.
 CYP2C19*2
 ----------------------------------------
+record_id: 141
 MacKenzie, M., et al.
 2016
 Pharmacogenomics and pharmacogenetics for the intensive careunit: a narrative review
@@ -1561,6 +1703,7 @@ Gastroenterology
 ventilator acquired pneumonia (poor metabolizers). FM who are taking PPIs as part of H.pylori drug regime experience little or No benefit from PPIs.PM have increased drug efficacy and better clinical outcomes. However, prolonged hypochloridia associated w/increased risk of C. difficile infections and osteoporosis-related fractures.
 CYP2C19*2
 ----------------------------------------
+record_id: 142
 Felix, C.A., et al.
 1998
 Association of CYP3A4 genotype with treatment related leukemia
@@ -1572,6 +1715,7 @@ Oncology
 Increased metabolism of epipodophylotoxin to catechol and quiNone metabolites have potential genotoxic properties and MLL translocations
 CY3A4-W
 ----------------------------------------
+record_id: 143
 Rocha, J.C.C, et al.
 2017
 Pharmacogenetics of outcome in children with acute lymphoblastic leukemia
@@ -1583,6 +1727,7 @@ Oncology
 Drug resistance, hematological relapse 
 GTSM 1 deletion and interaction with TYMS and NR3C1 genotypes
 ----------------------------------------
+record_id: 144
 Malhotra, B., et al.
 2008
 Pharmacokinetic profile of fesoterodine.
@@ -1594,6 +1739,7 @@ Urology
 CYP2D6 status had no effect on time to reach Cmax (5 h), renal clearance (approximately 250 ml/min), or half-life (approximately 8 h).
 -
 ----------------------------------------
+record_id: 145
 FDA Drug Label 
 2017
 Annotation of FDA Label for flibanserin and CYP2C19,CYP2C9,CYP2D6 | PharmGKB
@@ -1605,6 +1751,7 @@ Gynecology
 Change in drug efficacy 
 CYP2C9
 ----------------------------------------
+record_id: 146
 FDA Drug Label 
 2017
 Annotation of FDA Label for flibanserin and CYP2C19,CYP2C9,CYP2D6 | PharmGKB
@@ -1616,6 +1763,7 @@ Gynecology
 syncope
 poor or extensive CYP2C19 metabolizers
 ----------------------------------------
+record_id: 147
 FDA Drug Label 
 2017
 Annotation of FDA Label for flibanserin and CYP2C19,CYP2C9,CYP2D6 | PharmGKB
@@ -1627,6 +1775,7 @@ Gynecology
 Lower clearance
 poor metabolizers of CYP2D6
 ----------------------------------------
+record_id: 148
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -1638,6 +1787,7 @@ Infectious Disease
 drug-induced liver injury
 HLA-B*5701
 ----------------------------------------
+record_id: 149
 Illing, P.T., et al.
 2017
 The role of HLA genes in pharmacogenomics: unravelling HLA associated adverse drug reactions
@@ -1649,6 +1799,7 @@ Infectious Disease
 DILI drug-induced liver injury
 HLA-B*57:01
 ----------------------------------------
+record_id: 150
 Meulendijks, D., et al. 
 2016
 Patients homozygous for DPYD c.1129-5923C>G/haplotype B3 have partial DPD deficiency and require a dose reduction when treated with fluoropyrimidines
@@ -1660,6 +1811,7 @@ Oncology
 Increase the risk of fluoropyrimidine-associated toxicity,
 DPYD variant c.1129-5923C>G/HapB3
 ----------------------------------------
+record_id: 151
 Boige, V., et al.
 2016
 DPYD Genotyping to predict Adverse Events Following Treatment With Fluorouracil-Based Adjuvant Chemotherapy in Patients With Stage III Colon Cancer: A Secondary Analysis of the PETACC-8 Randomized Clinical Trial.
@@ -1671,6 +1823,7 @@ Dermatology
 Hematologic
 DPYD*6
 ----------------------------------------
+record_id: 152
 Seck, K., et al.
 2005
 Analysis of the DPYD gene implicated in 5-fluorouracil catabolism in a cohort of Caucasian individuals.
@@ -1682,6 +1835,7 @@ Oncology
 Decreased enzyme activity in dihydropyrimidine dehydrogenase.
 1601G>A (Ser534Asn) and 2846A>T (Asp949Val)
 ----------------------------------------
+record_id: 153
 Haufroid, V., et al.
 2015
 CYP2D6 genetic polymorphisms and their relevance for poisoning due to amfetamines, opioid analgesics and antidepressants.
@@ -1693,6 +1847,7 @@ Psychiatry
 CYP2D6 poor metabolizers are generally more prone to adverse effects.
 CYP2D6 carriers with poor metabolizer genotypes
 ----------------------------------------
+record_id: 154
 Vogl, S., et al.
 2015
 CYP2C9 Genotype vs. Metabolic Phenotype for Individual Drug Dosing—A Correlation Analysis Using Flurbiprofen as Probe Drug.
@@ -1704,6 +1859,7 @@ Rheumatology
 Bleeding complications
 CYP2C9 alleles *2 and *3
 ----------------------------------------
+record_id: 155
 Arrigoni, E., et al. 
 2017
 Pharmacogenetic Foundations of Therapeutic Efficacy and Adverse Events of Statins
@@ -1715,6 +1871,7 @@ Cardiology
 Myopathy
 ABCG2 c.421A
 ----------------------------------------
+record_id: 156
 Mirosevic Skvrce, N., et al.
 2013
 CYP2C9 and ABCG2 polymorphisms as risk factors for developing adverse drug reactions in renaltransplant patients taking fluvastatin: a case-control study.
@@ -1726,6 +1883,7 @@ Cardiology
 Myotoxicity, cognitive loss, neuropathy, pancreatic, hepatic and sexual dysfunctions 
 CYP2C9*2 : CYP2C9*3
 ----------------------------------------
+record_id: 157
 Boér, K.
 2017
 Fulvestrant in advanced breast cancer: evidence to date and place in therapy
@@ -1737,6 +1895,7 @@ Oncology
 Decreased response to fulvestrant
 -
 ----------------------------------------
+record_id: 158
 Campbell, N.L., et al.
 2016
 Tolerability of acetylcholinesterase inhibitors by CYP2D6 activity.
@@ -1748,6 +1907,7 @@ Neurology
 Slow metabolisers may experience nausea, dissiness, insomnia
 Carriers with CYP2D6 slow metabolizer genotype
 ----------------------------------------
+record_id: 159
 Ruan, Y, et al.
 2016
 Genetic Association of Curative and Adverse Reactions to Tyrosine Kinase Inhibitors in Chinese advanced Non-Small Cell Lung Cancer patients.
@@ -1759,6 +1919,7 @@ Oncology
  Gefitinib-induced skin rash and diarrhea 
 EGFRm+ (L858R, exon 19 deletions [19 different mutations] and T790M)
 ----------------------------------------
+record_id: 160
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -1770,6 +1931,7 @@ Oncology
 Gefitinib-induced diarrhea
 Q141K variant of ABCG2
 ----------------------------------------
+record_id: 161
 Zanger, U., et al.
 2013
 Cytochrome P450 enzymes in drug metabolism: regulation of gene expression, enzyme activities, and impact of genetic variation.
@@ -1781,6 +1943,7 @@ Endocrinology
 ? drug clearance & ? adverse events (sulfonylurea hypoglycemic drugs)
 CYP2C9*3
 ----------------------------------------
+record_id: 162
 Zanger, U., et al.
 2013
 Cytochrome P450 enzymes in drug metabolism: regulation of gene expression, enzyme activities, and impact of genetic variation.
@@ -1792,6 +1955,7 @@ Endocrinology
 ? drug clearance & ? adverse events (sulfonylurea hypoglycemic drugs)
 CYP2C9*3
 ----------------------------------------
+record_id: 163
 Zanger, U., et al.
 2013
 Cytochrome P450 enzymes in drug metabolism: regulation of gene expression, enzyme activities, and impact of genetic variation.
@@ -1803,6 +1967,7 @@ Endocrinology
 ? drug clearance & ? adverse events (sulfonylurea hypoglycemic drugs)
 CYP2C9*3
 ----------------------------------------
+record_id: 164
 MacKenzie, M., et al.
 2016
 Pharmacogenomics and pharmacogenetics for the intensive careunit: a narrative review
@@ -1814,6 +1979,7 @@ Psychiatry
 Poor metabolizers have higher risk of pseudoparkinsonism and experience adverse effects on standard doses. 
 CYP2D6*3: CYP2D6*4: CYP2D6*5: CYP2D6*6
 ----------------------------------------
+record_id: 165
 Diaz-Sylvester, P.L., et al.
 2009
 Halothane modulation of skeletal muscle ryanodine receptors
@@ -1825,6 +1991,7 @@ Anesthesiology
 Malignant hyperthermia (MH
 Gly4932Ser 
 ----------------------------------------
+record_id: 166
 Spinasse, L.B., et al.
 2014
 Different phenotypes of the NAT2 gene influences hydralazine antihypertensive response in patients with resistant hypertension.
@@ -1836,6 +2003,7 @@ Cardiology
 Tachycardia, fluid retention, headache
 NAT2
 ----------------------------------------
+record_id: 167
 Lipsky, A.H., et al.
 2015
 Incidence and risk factors of bleeding-related adverse events in patients with chronic lymphocytic leukemia treated with ibrutinib.
@@ -1847,6 +2015,7 @@ Oncology
 Bleeding or bruising
 11q deletion
 ----------------------------------------
+record_id: 168
 O'Brien, S., et al.
 2016
 Ibrutinib for patients with relapsed or refractory chronic lymphocytic leukaemia with 17p deletion (RESONATE-17): a phase 2, open-label, multicentre study.
@@ -1858,6 +2027,7 @@ Oncology
 Death, Major bleeding, infections (pneumonia)
 17p deletion
 ----------------------------------------
+record_id: 169
 Miyako, M., et al.
 2017
 Hepatic IFNL4 expression is associated with Non-response to interferon-based therapy through the regulation of basal interferon-stimulated gene expression in chronic hepatitis C patients.
@@ -1869,6 +2039,7 @@ Infectious Disease
 poor response to IFN alpha-based therapy in HCV infection
 IFNL4-?G genotype
 ----------------------------------------
+record_id: 170
 Brennan, M.D.
 2014
 Pharmacogenetics of second-generation antipsychotics.Pharmacogenomics 15.6 (2014): 869-884
@@ -1880,6 +2051,7 @@ Psychiatry
 Weight gain and metabolic side effects, including diabetes and dyslipidemia. cardiac complications, most Notably dysrhythmias including prolongation of the QT interval. elevate serum prolactin levels, resulting in hypogonadism and dysregulation of hypothalamic–pituitary axis function.
 CYP2D6*3: CYP2D6*4: CYP2D6*5
 ----------------------------------------
+record_id: 171
 Eum, S., et al.
 2016
 Pharmacogenetic tests for antipsychotic medications: clinical implications and considerations
@@ -1891,6 +2063,7 @@ Psychiatry
 CNS depression, hypotension when used with other alpha-1 antagonist, 
 CYP2D6*9 :  CYP2D6*10 : CYP2D6*17 :  CYP2D6 *29 :  CYP2D6 *36 : CYP2D6*41
 ----------------------------------------
+record_id: 172
 David, M., et al.
 2007
 Durable responses to imatinib in patients with PDGFRB fusion gene-positive and BCR-ABL-negative chronic myeloproliferative disorders.
@@ -1902,6 +2075,7 @@ Oncology
 This is a positive effect on the treatment of Myelodysplastic Syndrome / Myeloproliferative Disease (MDS/MPD) with translocations of 5q31–35. Imatinib might be effective in the treatment of patients with this specific PDGFRB rearrangement.
 ETV6-PDGFRB fusion gene
 ----------------------------------------
+record_id: 173
 Lyu, X., et al. 
 2016
 A Novel BCR-ABL1 fusion gene identified by next-generation sequencing in chronic myeloid leukemia
@@ -1913,6 +2087,7 @@ Oncology
 Resistance to treatment with Imatinib 
 BCR-ABL1mutations: M244: G250: Q252: Y253: E255: V299: F311: T315: F317: M351: F359: H396: T315I 
 ----------------------------------------
+record_id: 174
 Pardanani, A., et al.
 2006
 FIP1L1-PDGFRA in eosinophilic disorders: prevalence in routine clinical practice, long-term experience with imatinib therapy, and a critical review of the literature
@@ -1924,6 +2099,7 @@ Oncology
 Imatinib treatment resistance in pts with Hypereosinophilic Syndrome/Chronic Eosinophilic Leukemia the FIP1 like 1–platelet-derived growth factor receptor alpha T674I mutation.
 FIP1L1-PDGFR? (T674I) mutant.
 ----------------------------------------
+record_id: 175
 Speight, R.A., et al.
 2013
 Rare, Germline Mutation of KIT With Imatinib-Resistant Multiple GI Stromal Tumors and Mastocytosis
@@ -1935,6 +2111,7 @@ Oncology
 D816V mutation of c-Kit are Not sensitive to Gleevec (imatinib mesylate).
 D816V c-Kit mutation
 ----------------------------------------
+record_id: 176
 Zabriskie, M.S., et al.
 2014
 BCR-ABL1 Compound Mutations Combining Key Kinase Domain Positions Confer Clinical Resistance to Ponatinib in Ph Chromosome-Positive Leukemia
@@ -1946,6 +2123,7 @@ Oncology
 Relapse of disease- Mutations in BCR-ABL1 may confer resistance and treatment failure leading to disease progression. T315I mutants are also found to confer high-level resistance to Tyrosine Kinase Inhibitors.
 BCR-ABL1:M244, G250, Q252, Y253, E255, V299, F311, T315, F317, M351, F359, and H396:T315I
 ----------------------------------------
+record_id: 177
 Bertholee,  D., et al. 
 2017
 Genotypes Affecting the Pharmacokinetics of Anticancer Drugs
@@ -1957,6 +2135,7 @@ Oncology
 Influence the pharmacokinetics of drug, Pulmomary fibrosis.
 ABCB1 c.1236T>C  rs1128203 : ABCB1 c.2677T>A/G rs2032582 :  ABCB1 c.3435T>C  rs1045642 :  ABCB1 Hap*4 : ABCG2 c.421C>A  rs2231142 : SLC22A1 c.480C>G  rs683369
 ----------------------------------------
+record_id: 178
 Zhou, Z.W., et al.
 2015
 Clinical Association Between Pharmacogenomics and Adverse Drug Reactions
@@ -1968,6 +2147,7 @@ Psychiatry
 Poor metabolizes have side effects due to high serum concentration of TCA (affects aplpha-1, H1, M1 receptors). Cardiovascular: Orthostatic hypotension, hypertension, tachycardia, palpitation, myocardial infarction, arrhythmias, heart block, ECG changes, precipitation of congestive heart failure, stroke. Psychiatric: Confusional states (especially in the elderly) with hallucinations, disorientation, delusions; anxiety, restlessness, agitation; insomnia and nightmares; hypomania; exacerbation of psychosis. Neurological: Numbness, tingling, paresthesias of extremities; incoordination, ataxia, tremors; peripheral neuropathy; extrapyramidal symptoms; seizures, alterations in EEG patterns; tinnitus. Anticholinergic: Dry mouth, and, rarely, associated sublingual adenitis; blurred vision, disturbances of accommodation, mydriasis; constipation, paralytic ileus; urinary retention, delayed micturition, dilation of the urinary tract. Allergic: Skin rash, petechiae, urticaria, itching, photosensitization; edema (general or of face and tongue); drug fever; cross-sensitivity with desipramine. Hematologic: Bone marrow depression including agranulocytosis; eosiNophilia; purpura; thrombocytopenia. Gastrointestinal: Nausea and vomiting, aNorexia, epigastric distress, diarrhea; peculiar taste, stomatitis, abdominal cramps, black tongue. Endocrine: Gynecomastia in the male; breast enlargement and galactorrhea in the female; increased or decreased libido, impotence; testicular swelling; elevation or depression of blood sugar levels; inappropriate antidiuretic hormone (ADH) secretion syndrome. Other: Jaundice (simulating obstructive); altered liver function; weight gain or loss; perspiration; flushing; urinary frequency; drowsiness, dizziness, weakness and fatigue; headache; parotid swelling; alopecia; proneness to falling. Withdrawal Symptoms: Though Not indicative of addiction, abrupt cessation of treatment after prolonged therapy may produce nausea, headache and malaise. 
 CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6, CYP2D6*7, CYP2D6*12, CYP2D6*10, CYP2D6*17, CYP2D6*29, CYP2D6*41
 ----------------------------------------
+record_id: 179
 Hui, C.K.M., et al.
 2011
 Indacaterol: pharmacologic profile, efficacy and safety in the treatment of adults with COPD.
@@ -1979,6 +2159,7 @@ Pulmonary
 No relevant effect of UGT1A1 genotype of indacaterol exposure. AEs: cough, oropharyngeal pain, nasopharyngitis, headache and nausea.
 UGT1A1 *28
 ----------------------------------------
+record_id: 180
 Asensi, V., et al.
 2015
 Can antiretroviral therapy be tailored to each human immunodeficiency virus-infected individual? Role of pharmacogenomics.
@@ -1990,6 +2171,7 @@ Infectious Disease
 Enhance unconjugated hyperbilirubinemia and jaundice- due to modified plasma levels of indinavir by UGT1A1*28            
 UGT1A1*28
 ----------------------------------------
+record_id: 181
 Bertholee,  D., et al. 
 2017
 Genotypes Affecting the Pharmacokinetics of Anticancer Drugs
@@ -2001,6 +2183,7 @@ Oncology
 Higher infliximab elimination rate constant leading to a faster infliximab under exposure and relapse of disease
 Fc?RIIIA-158V/V
 ----------------------------------------
+record_id: 182
 Farzan, N., et al.
 2017
 Pharmacogenomics of inhaled corticosteroids and leukotriene modifiers: a systematic review.
@@ -2012,6 +2195,7 @@ Pulmonary
 3 polymorphisms have elevated IgE levels and increased risk of severe asthma exacerbations in children while on inhaled corticosteroids.
 rs7249320: T2206C : rs4996974
 ----------------------------------------
+record_id: 183
 Kantarjian, H.M., et al.
 2017
 Hepatic adverse event profile of inotuzumab ozogamicin in adult patients with relapsed or refractory acute lymphoblastic leukaemia: results from the open-label, randomised, phase 3 INo-VATE study.
@@ -2023,6 +2207,7 @@ Oncology
 T315I mutation causes cross-resistant to most KIs.
 BCR-ABL1 T315I: BCR-ABL1 Y253H
 ----------------------------------------
+record_id: 184
 Bertholee,  D., et al. 
 2017
 Genotypes Affecting the Pharmacokinetics of Anticancer Drugs
@@ -2034,6 +2219,7 @@ Oncology
 Severe diarrhea, myelosuppression, and neutropenia
 UGT1A1*6 (c.211G>A) rs4148323 :  UGT1A1*28 rs8175347
 ----------------------------------------
+record_id: 185
 Bertholee,  D., et al. 
 2017
 Genotypes Affecting the Pharmacokinetics of Anticancer Drugs
@@ -2045,6 +2231,7 @@ Oncology
 Severe diarrhea, myelosuppression, and neutropenia
 ABCB1 c.1236T>C rs1128203 :  ABCB1 haloptype*2 c.1236C>T :  ABCB1 haloptype*2 c.2677G>T/A : ABCB1 haloptype*2  c. 3435C>T
 ----------------------------------------
+record_id: 186
 Dean, L.
 2015
 IriNotecan Therapy and UGT1A1 Genotype
@@ -2056,6 +2243,7 @@ Oncology
 Neutropenia
 UGT1A1 *28/*28
 ----------------------------------------
+record_id: 187
 Krasowski, M. 
 2015
 Current Diagnosis & Treatment : Family Medicine Chapter 49: Pharmacogenomics
@@ -2067,6 +2255,7 @@ Oncology
  Life-threatening neutropenia , diarrhea 
 UGT1A1?28
 ----------------------------------------
+record_id: 188
 Pirmohamed, M. 
 2010
 Pharmacogenetics of adverse drug reactions 
@@ -2078,6 +2267,7 @@ Oncology
 UDPGT-1A1 is implicated in irinotecan induced diarrhea and leukopenia
 UDP-glucoronytransferase 1A1
 ----------------------------------------
+record_id: 189
 Rodriguez-Antona, C.,et al.
 2014
 PharmacogeNomic biomarkers for personalized cancer treatment
@@ -2089,6 +2279,7 @@ Oncology
 Neutropenia- induced by irinotecan and uridine diphosphate glucoroNosyltransferase 1A1 (UGT1A1) variants
 UGT1A1 variants
 ----------------------------------------
+record_id: 190
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -2100,6 +2291,7 @@ Oncology
 Neutropenia
 UGT1A1*28
 ----------------------------------------
+record_id: 191
 Xu, C., et al.
 2016
 UGT1A1 gene polymorphism is associated with toxicity and clinical efficacy of iriNotecan-based chemotherapy in patients with advanced colorectal cancer
@@ -2111,6 +2303,7 @@ Oncology
 Increased risk for neutropenia
 UGT1A1*28
 ----------------------------------------
+record_id: 192
 Xu, C., et al.
 2016
 UGT1A1 gene polymorphism is associated with toxicity and clinical efficacy of iriNotecan-based chemotherapy in patients with advanced colorectal cancer
@@ -2122,6 +2315,7 @@ Oncology
 Shorter overall survival
 UGT1A1*28/*6
 ----------------------------------------
+record_id: 193
 Ando, Y., et al.
 2000
 Polymorphism of UDP GlucuroNosyltransferase Gene and IriNotecan Toxicity: A pharmacogenetic analysis
@@ -2133,6 +2327,7 @@ Oncology
 Diarrhea, myelosuppresion
 UGT1A*6:UGT1A*27:UGT1A*28
 ----------------------------------------
+record_id: 194
 Rosenberg, H., et al. 
 2015
 Malignant hyperthermia: a review
@@ -2144,6 +2339,7 @@ Anesthesiology
 Malignant hyperthermia
 mutations in RYR1: CACNA1S: STAC3: CACNA2D1, Tyrosine 522
 ----------------------------------------
+record_id: 195
 Chan, S.L., et al.
 2017
 Association and clinical utility of NAT2 in the prediction of isoniazid-induced liver injury in Singaporean patients
@@ -2155,6 +2351,7 @@ Infectious Disease
 Drug-induced liver injury with elevation in serum transaminases; Icteric hepatitis (serum bilirubin > 3.0 mg/dL)
  NAT2 rs1041983 :  NAT2 rs1495741 : NAT2*6/6 : NAT2*6/7 : NAT2*5/*7 
 ----------------------------------------
+record_id: 196
 Vuilleumier, N., et al.
 2006
 CYP2E1 genotype and isoniazid-induced hepatotoxicity in patients treated for latent tuberculosis.
@@ -2166,6 +2363,7 @@ Infectious Disease
 Drug-induced liver injury with elevation in serum transaminases
  CYP2E1 *1A/*1A 
 ----------------------------------------
+record_id: 197
 Wang, P., et al.
 2016
 Isoniazid metabolism and hepatotoxicity
@@ -2177,6 +2375,7 @@ Infectious Disease
 transient transaminase elevation, Drug Induced Liver injury
 GSTM1 *0/*0 : GSTT1*0/*0
 ----------------------------------------
+record_id: 198
 Wilke, R.A., et al.
 2007
 Identifying genetic risk factors for serious adverse drug reactions: current progress and challenges
@@ -2188,6 +2387,7 @@ Infectious Disease
 Drug-induced liver injury with elevation in serum transaminases, Icteric hepatitis
 DRB1*03:  Nonspecific  (NAT)
 ----------------------------------------
+record_id: 199
 Rehman, H.U.
 2001
 Evidence-Based Case Review: Methemoglobinemia
@@ -2199,6 +2399,7 @@ Cardiology
 Methemoglobinemia
 CYB5R1: CYB5R2: CYB5R3: CYB5R4 
 ----------------------------------------
+record_id: 200
 Abad-Pérez, D., et al. 
 2013
 Effect of oral nitrates on pulse pressure and arterial elasticity in patients aged over 65 years with refractory isolated systolic hypertension: study protocol for a randomized controlled trial
@@ -2210,6 +2411,7 @@ Cardiology
 Methemoglobinemia
 CYB5R1, CYB5R2, CYB5R3, CYB5R4
 ----------------------------------------
+record_id: 201
 Pettit, R., et al.
 2014
 CFTR Modulators for the Treatment of Cystic Fibrosis.
@@ -2221,6 +2423,7 @@ Pulmonary
 Not effective if homozygous for the F508del mutation in the CFTR gene
 F508del-CFTR, G1244E, G1349D, G178R, G551S, G970R, S1251N, S1255P, S549N, S549R, G551D.
 ----------------------------------------
+record_id: 202
 Li, Y., et al. 
 2013
 The CYP2B6*6 Allele Significantly Alters the N-Demethylation of Ketamine Enantiomers In Vitro
@@ -2232,6 +2435,7 @@ Anesthesiology
 Drug clearance reduction by significant impact of the CYP2B6*6 allele on enzyme-ketamine binding and catalytic activity.
 CYP2B6*6
 ----------------------------------------
+record_id: 203
 Bentué-Ferrer, D., et al.
 2012
 Therapeutic drug monitoring of lacosamide
@@ -2243,6 +2447,7 @@ Neurology
 plasma concentrations and amount excreted into urine of the O-desmethyl metabolite were about 70% reduced inPoor metabIL compared to EMs. 
 CYP2C19*2 : CYP2C19*3.
 ----------------------------------------
+record_id: 204
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -2254,6 +2459,7 @@ Neurology
 Steven Johnson Syndrome, toxic epidermal necrolysis
 HLA-B*3801
 ----------------------------------------
+record_id: 205
 MacKenzie, M., et al.
 2017
 Pharmacogenomics and pharmacogenetics for the intensive care unit: a narrative review.
@@ -2265,6 +2471,7 @@ Gastroenterology
 The blood concentration of tacrolimus in a patient who had a CYP2C19 gene mutation may have been elevated by decreased hepatic elimination of lansoprazol
 CYP2C19*2
 ----------------------------------------
+record_id: 206
 MacKenzie, M., et al.
 2016
 Pharmacogenomics and pharmacogenetics for the intensive careunit: a narrative review
@@ -2276,6 +2483,7 @@ Gastroenterology
 ventilator acquired pneumonia (poor metabolizers). 
 CYP2C19*2
 ----------------------------------------
+record_id: 207
 Miura, M., et al.
 2007
 Influence of rabeprazole and lansoprazole on the pharmacokinetics of tacrolimus in relation to CYP2C19, CYP3A5 and MDR1 polymorphisms in renal transplant recipients
@@ -2287,6 +2495,7 @@ Gastroenterology
 Patients with genetic polymorphisms need lower dosages of tacrolimus to achieve the target therapeutic index.
 CYP3A5*3/*3
 ----------------------------------------
+record_id: 208
 Miura, M., et al.
 2005
 Comparison of enantioselective disposition of rabeprazole versus lansoprazole in renal-transplant recipients who are CYP2C19 extensive metabolizers
@@ -2298,6 +2507,7 @@ Gastroenterology
 Renal-transplant recipients who are CYP2C19 extensive metabolizers, there is less stereoselective difference in the pharmacokinetic disposition between the (R)- and (S)-enantiomers of rabeprazole than those of lansoprazole.
 -
 ----------------------------------------
+record_id: 209
 Takahashi, K., et al.
 2004
 Lansoprazole—Tacrolimus Interaction in Japanese Transplant Recipient with CYP2C19 Polymorphism
@@ -2309,6 +2519,7 @@ Gastroenterology
 The blood concentration of tacrolimus in a patient who had a CYP2C19 gene mutation may have been elevated by decreased hepatic elimination of lansoprazole.
 exon 5 of the CYP2C19 gene (CYP2C19*1/*2)
 ----------------------------------------
+record_id: 210
 Cristofanilli, M., et al.
 2013
 A randomized phase II study of lapatinib + pazopanib versus lapatinib in patients with HER2+ inflammatory breast cancer
@@ -2320,6 +2531,7 @@ Oncology
 Decreases in Left Ventricular Ejection Fraction, potential cardiac toxicity
 ERBB2 Pro1170 Ala polymorphism in HER2-neu
 ----------------------------------------
+record_id: 211
 Finn, R.S., et al.
 2009
 Estrogen receptor, progesterone receptor, human epidermal growth factor receptor 2 (HER2), and epidermal growth factor receptor expression and benefit from lapatinib in a randomized trial of paclitaxel with lapatinib or placebo as first-line treatment in HER2-negative or unkNown metastatic breast cancer.
@@ -2331,6 +2543,7 @@ Oncology
 ESR1 PvuII, was associated with increased risk of breast cancer and decreased ER expression
 ESR1 PvuIl: , PGR (Hormone Receptor)
 ----------------------------------------
+record_id: 212
 Illing, P.T., et al.
 2017
 The role of HLA genes in pharmacogenomics: unravelling HLA associated adverse drug reactions
@@ -2342,6 +2555,7 @@ Oncology
 DILI drug-induced liver injury
 DRB1*07:01, DQA1*02:01
 ----------------------------------------
+record_id: 213
 Pirmohamed, M.
 2014
 Personalized Pharmacogenomics: predicting Efficacy and Adverse Drug Reactions
@@ -2353,6 +2567,7 @@ Oncology
 HLA alleles DQA1*02:01 and DRB1*07:01 carriers had incidence of severe liver injury of 8% versus 0.5% in Non-carriers.
 HLA DQA1*02:01:    HLADRB1*07:01 
 ----------------------------------------
+record_id: 214
 Dean, L. 
 2017
 Sofosbuvir Therapy and IFNL4 Genotype
@@ -2364,6 +2579,7 @@ Infectious Disease
 Homozygosity for the rs12979860-C allele (IL28B-CC genotype) assoc. w/faster viral kinetic (VK) decline and higher odds of achieving SVR with IFN-?/RBV therapy. The genetic variant rs12979860, located in the INFL4 gene, is a strong predictor of response to peginterferon-based therapies. The variant is a C to T change—individuals with the favorable “C/C” genotype have about a 2-fold higher likelihood of achieving SVR compared to individuals with CT or TT genotypes
 The rs12979860 allele is located in the INFL4 gene. The variant is a C to T change. Individuals can have  IL28B-CC, IL28B-CT or IL28B-TT genotypes
 ----------------------------------------
+record_id: 215
 List, A., et al.
 2006
 Lenalidomide in the Myelodysplastic Syndrome with Chromosome 5q Deletion
@@ -2375,6 +2591,7 @@ Hematology
 EMBRYO-FETAL TOXICITY, HEMATOLOGIC TOXICITY, and VENoUS and ARTERIAL THROMBOEMBOLISM Hematologic Toxicity (Neutropenia and Thrombocytopenia) REVLIMID- neutropenia and thrombocytopenia. AE related to blood and lymphatic system disorders, skin and subcutaneous tissue disorders, GI disorders, and general disorders and administrative site conditions
 Chromosome 5q
 ----------------------------------------
+record_id: 216
 Gupta, A., et al.
 2016
 Lesinurad: A significant advancement or just aNother addition to existing therapies of gout?
@@ -2386,6 +2603,7 @@ Rheumatology
 Lesinurad exposure is increased
 CYP2C9 *2: CYP2C9 *3
 ----------------------------------------
+record_id: 217
 Krainick-Strobel, U.E., et al.
 2008
 Neoadjuvant letrozole in postmenopausal estrogen and/or progesterone receptor positive breast cancer: a phase IIb/III trial to investigate optimal duration of preoperative endocrine therapy.
@@ -2397,6 +2615,7 @@ Oncology
 Hot flashes, arthralgia; flushing, asthenia, edema, arthralgia, headache, dizziness, hypercholesterolemia, sweating increased, bone pain; and musculoskeletal
 ESR, PGR (Hormone Receptor)
 ----------------------------------------
+record_id: 218
 Barash, M., et al.
 2015
 Lidocaine-Induced Methemoglobinemia: A Clinical Reminder
@@ -2408,6 +2627,7 @@ Anesthesiology
 The soluble isoform of cytochrome b5 reductase 3 changes ferric iron back to ferrous iron so hemoglobin can function. G6PD deficiency or congenital or idiopathic methemoglobinemia more susceptible to drug?induced methemoglobinemia.
 CYB5R3 gene mutations
 ----------------------------------------
+record_id: 219
 Elyassi, C.A.R., et al.
 2009
 Perioperative Management of the Glucose-6-Phosphate Dehydrogenase Deficient Patient: A Review of Literature
@@ -2419,6 +2639,7 @@ Anesthesiology
 Glucose?6?phosphate dehydrogenase deficiencies and pts taking oxidizing drugs (antimalarials and sulfonamides) more susceptible to drug?induced methemoglobinemia.
 G6PD, glucose?6?phosphate dehydrogenase deficiencies 
 ----------------------------------------
+record_id: 220
 Arrigoni, E., et al. 
 2017
 Pharmacogenetic Foundations of Therapeutic Efficacy and Adverse Events of Statins
@@ -2430,6 +2651,7 @@ Cardiology
 Higher LDL cholesterol levels due to decreased efficacy
 CYP3A5*1 c.6986A>G rs776746
 ----------------------------------------
+record_id: 221
 Marsicano, A.R., et al.B271
 1973
 Fatal hemolysis from mafenide treatment of burns in a patient with glucose-6-phosphate dehydrogenase deficiency. Case report.
@@ -2441,6 +2663,7 @@ Infectious Disease
 Fatal hemolytic anemia with disseminated intravascular coagulation
 G6PD, glucose-6-phosphate dehydrogenase deficiency
 ----------------------------------------
+record_id: 222
 Goldstein, J.A.
 2001
 Clinical relevance of genetic polymorphisms in the human CYP2C subfamily
@@ -2452,6 +2675,7 @@ Neurology
 Poor metabolisers of drug can experience toxicity.
 Poor metabolizer genotype
 ----------------------------------------
+record_id: 223
 Evans, W.E.
 2001
 preponderance of Thiopurine S-Methyltransferase Deficiency and Heterozygosity Among Patients Intolerant to Mercaptopurine or Azathioprine
@@ -2463,6 +2687,7 @@ Oncology
 Azathioprine :PM have higher rates of profound bone marrow toxicity; 6-MP: PM have higher rates of profound bone marrow toxicity/ suppression. Genetic polymorphisms and loss of function of TPMT (thiopurine S-methyltransferase) results and severe and life threatening hematopoietic toxicity
 genetic polymorphisms and loss of function of TPMT (thiopurine S-methyltransferase) 
 ----------------------------------------
+record_id: 224
 Dujic, T., et al.
 2016
 Effect of Serotonin Transporter 5-HTTLPR Polymorphism on Gastrointestinal Intolerance to Metformin: A GoDARTS Study.
@@ -2474,6 +2699,7 @@ Endocrinology
 Gastrointestinal intolerance to metformin due to OCT1 and SERT gene polymorphisms. 
 SERT 5-HTTLPR/rs25531 L*L*: 0 or 1 deficient allele carriers of OCT1
 ----------------------------------------
+record_id: 225
 Shu, Y., et al.
 2007
 Effect of genetic variation in the organic cation transporter 1 (OCT1) on metformin action
@@ -2485,6 +2711,7 @@ Endocrinology
 Impaired glucose absorption and control
 OCT1 R61C : OCT1  G410S : OCT1  420del : OCT1 G465R
 ----------------------------------------
+record_id: 226
 Kharasch, E.D.
 2015
 Methadone pharmacogenetics: CYP2B6 polymorphisms determine plasma concentrations, clearance and metabolism
@@ -2496,6 +2723,7 @@ Anesthesiology
 CYP2B6 genotype affects methadone plasma concentrations, clearance, and metabolism. CYP2B6*6 allows for higher methadone plasma concentrations and low methadone clearance.
 CYP2B6*6
 ----------------------------------------
+record_id: 227
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -2507,6 +2735,7 @@ Ophthalmology
 Steven Johnson Syndrome, toxic epidermal necrolysis
 HLA-B*5901 
 ----------------------------------------
+record_id: 228
 Bertholee,  D., et al. 
 2017
 Genotypes Affecting the Pharmacokinetics of Anticancer Drugs
@@ -2518,6 +2747,7 @@ Oncology
 Stomatitis, malaise, nausea, diarrhea, headaches and mild alopecia, hepatic, renal, pulmonary and bone marrow disorders
 ABCC2 c.1234A>G rs765027508 : MTHFR c.665C>T  C677T : MTHFR c.1286A>C rs1801133  rs1801131 :  ARID5B c.1200-6044T>C  rs4948502 : ARID5B c.734-5030T>C  rs4948496 : ARID5B c.276+7693C>A  rs4948487
 ----------------------------------------
+record_id: 229
 Kishi, S., et al.
 2017
 Ancestry and pharmacogenetics of antileukemic drug toxicity
@@ -2529,6 +2759,7 @@ Oncology
 Hyperbilirubinemia, neurotoxicity
 RFC 80A
 ----------------------------------------
+record_id: 230
 Lopez-Lopez, E., et al.
 2011
 Polymorphisms of the SLCO1B1 Gene Predict Methotrexate-Related Toxicity in Childhood Acute Lymphoblastic Leukemia
@@ -2540,6 +2771,7 @@ Oncology
 Gastrointestinal, hepatic toxicity
 G80A
 ----------------------------------------
+record_id: 231
 Vujkovic, M., et al.
 2015
 Association between genetic variants in folate and drug metabolizing pathways and relapse risk in pediatric acute lymphoid leukemia on CCG-1952
@@ -2551,6 +2783,7 @@ Oncology
 Risk of relapse after pediatric ALL treatment 
 rs2842947:rs1801131:rs1801133:rs10925235:rs1805088
 ----------------------------------------
+record_id: 232
 Relling, M.V., et al.
 2004
 Pharmacogenetic Risk Factors for Osteonecrosis of the Hip Among Children With Leukemia
@@ -2562,6 +2795,7 @@ Oncology
 Osteonecrosis 
 TYMS 2/2
 ----------------------------------------
+record_id: 233
 Qiu, Q., et al.
 2017
 Polymorphisms and pharmacogenomics for the toxicity of methotrexate monotherapy in patients with rheumatoid arthritis: A systematic review and meta-analysis.
@@ -2573,6 +2807,7 @@ Oncology
 Gastrointestinal, hepatic toxicity 
 rs1051266
 ----------------------------------------
+record_id: 234
 Sikka, P., et al.
 2011
 Blue cures blue but be cautious
@@ -2584,6 +2819,7 @@ Hematology
 severe hemolysis and severe anemia risk for G6PD deficiency. contraindicated in pts w/ glucose-6-phosphate dehydrogenase deficiency (G6PD) due to the risk of hemolytic anemia
 glucose-6-phosphate dehydrogenase deficiency (G6PD) 
 ----------------------------------------
+record_id: 235
 Luzzatto, L., et al.
 2014
 G6PD deficiency: a classic example of pharmacogenetics with on-going clinical implications
@@ -2595,6 +2831,7 @@ Infectious Disease
 acute hemolytic anemia due to G6PD deficiency
 G6PD  
 ----------------------------------------
+record_id: 236
 Karadsheh, N.S., et al.
 2001
 Metoclopramide-induced methemoglobinemia in a patient with co-existing deficiency of glucose-6-phosphate dehydrogenase and NADH-cytochrome b5 reductase: failure of methylene blue treatment.
@@ -2606,6 +2843,7 @@ Gastroenterology
 Methemoglobinemia
 CYB5R1: CYB5R2: CYB5R3: CYB5R4
 ----------------------------------------
+record_id: 237
 Özmen, I, et al.
 2004
 Effects of antiemetic drugs on glucose 6-phosphate dehydrogenase and some antioxidant enzymes.
@@ -2617,6 +2855,7 @@ Gastroenterology
 Methemoglobinemia
 glucose?6?phosphate dehydrogenase deficiencies
 ----------------------------------------
+record_id: 238
 MacKenzie, M., et al.
 2016
 Pharmacogenomics and pharmacogenetics for the intensive careunit: a narrative review
@@ -2628,6 +2867,7 @@ Cardiology
 Bradyarrythmia and heart failure in poor metabolizers
 CYP2D6*3: CYP2D6*4: CYP2D6*5: CYP2D6*6
 ----------------------------------------
+record_id: 239
 MacKenzie, M., et al.
 2017
 Pharmacogenomics and pharmacogenetics for the intensive care unit: a narrative review.
@@ -2639,6 +2879,7 @@ Cardiology
 Tiredness, dizziness, depression, shortness of breath, bradycardia, hypotension, diarrhea, pruritus, rash.
 CYP2D6 *3, *4, *5, *6, *7, *8, *11, *12, *13, *14, *15, *16, *18, *19, *20, *21, *38, *40, *42, *44, *56 and *62 
 ----------------------------------------
+record_id: 240
 Lymperopoulos, A., et al.
 2015
 Impact of CYP2D6 Genetic Variation on the Response of the Cardiovascular Patient to Carvedilol and Metoprolol.
@@ -2650,6 +2891,7 @@ Cardiology
 Bradycardia, hypotension,decreased therapeutic effect. 
 CYP2D6*1:  CYP2D6*2 : CYP2D6*3 : CYP2D6*4 : CYP2D6*5 : CYP2D6*6 :  CYP2D6*9 : CYP2D6*10 : CYP2D6*17 : CYP2D6*41 : CYP2D6*1XN : CYP2D6*2XN
 ----------------------------------------
+record_id: 241
 MacKenzie, M., et al.
 2016
 Pharmacogenomics and pharmacogenetics for the intensive careunit: a narrative review
@@ -2661,6 +2903,7 @@ Anesthesiology
 Reduced metabolism leading to increased sedation in poor metabolizer
 CYP3A4*3
 ----------------------------------------
+record_id: 242
 De Kouchkovsky, I., et al.
 2016
 Acute myeloid leukemia: a comprehensive review and 2016 update
@@ -2672,6 +2915,7 @@ Oncology
 AML: The most common adverse effect (AEs) were febrile neutropenia, nausea, mucositis, vomiting, headache, petechiae, musculoskeletal pain, epistaxis, device-related infection, hyperglycemia, and upper respiratory tract infection. ASM, SM-AHN, or MCL: most common AEs were nausea, vomiting, diarrhea, edema, musculoskeletal pain, abdominal pain, fatigue, upper respiratory tract infection, constipation, pyrexia, headache, and dyspnea.
 NPM1 mutations
 ----------------------------------------
+record_id: 243
 Jawhar, M., et al. 
 2017
 Response and progression on midostaurin in advanced systemic mastocytosis: KIT D816V and other molecular markers.
@@ -2683,6 +2927,7 @@ Oncology
 AML: The most common AEs were febrile neutropenia, nausea, mucositis, vomiting, headache, petechiae, musculoskeletal pain, epistaxis, device-related infection, hyperglycemia, and upper respiratory tract infection. ASM, SM-AHN, or MCL: most common AEs were nausea, vomiting, diarrhea, edema, musculoskeletal pain, abdominal pain, fatigue, upper respiratory tract infection, constipation, pyrexia, headache, and dyspnea.
 KIT D816V mutation
 ----------------------------------------
+record_id: 244
 Levis, M.
 2017
 Midostaurin approved for FLT3-mutated AML
@@ -2694,6 +2939,7 @@ Oncology
 Febrile neutropenia, nausea, mucositis, vomiting, headache, petechiae, musculoskeletal pain, epistaxis, device-related infection, hyperglycemia, and upper respiratory tract infection.
 FLT3-mutated AML
 ----------------------------------------
+record_id: 245
 Bondy, B., et al.
 2004
 Pharmacogenetics and psychopharmacology
@@ -2705,6 +2951,7 @@ Psychiatry
 Reversibly inhibits CYP2C19 leading to potential interaction with drugs such as diazepam, propraNolol, phenytoin, and TCAs which are metabolized by this enzyme.
 CYP2D6?4 : CYP2D6 ?10 : CYP2D6 ?14
 ----------------------------------------
+record_id: 246
 Crews, K.R., et al.
 2014
 Clinical Pharmacogenetics Implementation Consortium guidelines for cytochrome P450 2D6 genotype and codeine therapy: 2014 update.
@@ -2716,6 +2963,7 @@ Anesthesiology
 Toxic systemic concentrations of morphine, which increases the risk of morphie adverse reactions (eg. Respiratory depression, shock, respiratory arrest, cardiac arrest, and circulatory depression) due to extensive or ultrarapid CYP2D6 metabolizers. Meanwhile, there's reduced morphine formation in intermediate and poormetabolizers,which lead to insufficient pain relief.
 CYP2D6 *1/*1xN, *1/*2xN(ultrarapid metabolizer): CYP2D6 *1/*1, *1/*2, *2/*2, *1/*41, *1/*4, *2/*5, *1/*10 (extensive metabolizer): CYP2D6 *4/*10, *5/*41 (intermediate metabolizer): CYP2D6 *4/*4, *4/*5, *5/*5, *4/*6 (poor metabolizer)
 ----------------------------------------
+record_id: 247
 Venkatasubramanian, R.
 2014
 ABCC3 and OCT1 genotypes influence pharmacokinetics of morphine in children
@@ -2727,6 +2975,7 @@ Anesthesiology
 OCT1 homozygous genotypes are associated with lower morphine CL in this extended cohort; well supported by corresponding observations of lower morphine glucuronide formation. In addition, it shows that children with the ABCC3 ?211C>T poly morphism C/C genotype have significantly higher (~40%) metabolite transformation than C/T+T/T genotypes.
 ABCC3 ?211C : OCT1*2–*5
 ----------------------------------------
+record_id: 248
 Sadhasivam, S., et al.
 2015
 Novel Associations between FAAH Genetic Variants and postoperative Central Opioid related Adverse Effects
@@ -2738,6 +2987,7 @@ Anesthesiology
 Refractory post-op nausea and vomiting, opioid-related respiratory depression
 FAAH rs4141964:  FAAH rs3766246 : FAAH rs324420 : FAAH rs2295632 : FAAH kgp12517369
 ----------------------------------------
+record_id: 249
 MacKenzie, M., et al.
 2016
 Pharmacogenomics and pharmacogenetics for the intensive careunit: a narrative review
@@ -2749,6 +2999,7 @@ neurology
 Reduced metabolism leading to Increased incidence of nausea in poor metabolizer
 UGT2B7*2
 ----------------------------------------
+record_id: 250
 MacKenzie, M., et al.
 2016
 Pharmacogenomics and pharmacogenetics for the intensive careunit: a narrative review
@@ -2760,6 +3011,7 @@ neurology
 Reduced analgesic effect and less postoperative nausea and vomiting in subjects with AG or GG alleles
 A118A/G
 ----------------------------------------
+record_id: 251
 Ji, Y.S., et al.
 2006
 Regulation of the Interaction of Inosine Monophosphate Dehydrogenase with Mycophenolic Acid by GTP
@@ -2771,6 +3023,7 @@ Oncology
 overproduction and accumulation of uric acid. acute arthritis, tophi, nephrolithiasis or urolithiasis and renal disease including renal failure. Mutations in HPRT1 gene result in Lesch-Nyhan syndrome or gout.
 Hereditary deficiency of HGPRT
 ----------------------------------------
+record_id: 252
 Youngster, I., et al.
 2010
 Medications and glucose-6-phosphate dehydrogenase deficiency: an evidence-based review.
@@ -2782,6 +3035,7 @@ Infectious Disease
 tendon rupture, cholestasis, paresthesia, metabolic acidosis, thrombocytopenia, leukopenia, or hemolytic anemia, sometimes associated with glucose 6- phosphate dehydrogenase deficiency and peripheral neuropathy.
 G6PD deficiency due to mutation in the G6PD gene.
 ----------------------------------------
+record_id: 253
 Cavallari, L.H., et al.
 2011
 Role of cytochrome P450 genotype in the steps toward personalized drug therapy
@@ -2793,6 +3047,7 @@ Infectious Disease
 Trend towards decreased virologic failure - CYP2C19*2 allele can influence the bioavailability of nelfinavir. 
 CYP2C19*2
 ----------------------------------------
+record_id: 254
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -2804,6 +3059,7 @@ Infectious Disease
 delayed-type hypersensitivity reaction
 HLA-Cw8-B14
 ----------------------------------------
+record_id: 255
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -2815,6 +3071,7 @@ Infectious Disease
 delayed-type hypersensitivity reaction
 HLA-B*3505
 ----------------------------------------
+record_id: 256
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -2826,6 +3083,7 @@ Infectious Disease
 delayed-type hypersensitivity reaction
 HLA-DRB1*0101 
 ----------------------------------------
+record_id: 257
 Asensi, V., et al.
 2015
 Can antiretroviral therapy be tailored to each human immunodeficiency virus-infected individual? Role of pharmacogenomics.
@@ -2837,6 +3095,7 @@ Infectious Disease
 Nevirapine-induced hypersensitivity and hepatotoxicity - due to HALDRB*0101 polymorphism in HIV patients receivig nevirapine. HLA-cw8 mutation showed increased hypersensitivity in Italian and Japanese polpulations. CYP2B6983T>C(SNP28399499) polymorphism showed increased risk of hypersensitivity in Malawian and Ugandan populations.
 HALDRB*0101:HLA-cw8:CYP2B6983T>C(SNP28399499)
 ----------------------------------------
+record_id: 258
 Singer, J.B.
 2007
 UGT1A1 promoter polymorphism increases risk of nilotinib-induced hyperbilirubinemia.
@@ -2848,6 +3107,7 @@ Oncology
 Hyperbilirubinemia
 UGT1A1*28
 ----------------------------------------
+record_id: 259
 Zabriskie, M.S., et al.
 2014
 BCR-ABL1 Compound Mutations Combining Key Kinase Domain Positions Confer Clinical Resistance to Ponatinib in Ph Chromosome-Positive Leukemia
@@ -2859,6 +3119,7 @@ Oncology
 Relapse of disease- Mutations in BCR-ABL1 may confer resistance and treatment failure leading to disease progression. T315I mutants are also found to confer high-level resistance to Tyrosine Kinase Inhibitors.
 BCR-ABL1:M244, G250, Q252, Y253, E255, V299, F311, T315, F317, M351, F359, and H396:T315I
 ----------------------------------------
+record_id: 260
 Ormerod, J., et al.
 2017
 endothelial dysfunction- Homozygous ALDH2*2 was neither stimulated Nor inhibited by nitrite, therefore did Not display protection for endothelial damage when compared to ALDH2*1 or Heterozygous ALDH2*2 
@@ -2870,6 +3131,7 @@ Cardiology
 Endothelial dysfunction
 ALDH2*2
 ----------------------------------------
+record_id: 261
 Luzzatto, L., et al.
 2014
 G6PD deficiency: a classic example of pharmacogenetics with on-going clinical implications
@@ -2881,6 +3143,7 @@ Infectious Disease
 acute hemolytic anemia due to G6PD deficiency
 G6PD 
 ----------------------------------------
+record_id: 262
 Lavelle, K.J.
 2006
 Hyperlactatemia and hemolysis in G6PD deficiency after nitrofurantoin ingestion.
@@ -2892,6 +3155,7 @@ Infectious Disease
 Hyperlactatemia and Hemolysis in susceptible subjects and hepatocellular injury.
 G6PD deficiency
 ----------------------------------------
+record_id: 263
 Nagele, P., et al.
 2008
 Influence of Methylenetetrahydrofolate Reductase Gene Polymorphisms on Homocysteine Concentrations after Nitrous Oxide Anesthesia
@@ -2903,6 +3167,7 @@ Anesthesiology
 Nitrous oxide administration with an undelying MTHFR mutation caused an induced hyperhomocysteinemia and inhibition of folate metabolism which lead to apoptosis, megaloblastic anemia, bone marrow disorders, myelopathy, peripheral neuropathy, hemiparesis, death 
 MTHFR 677C>T:MTHFR 1298A>C
 ----------------------------------------
+record_id: 264
 Selzer R., et al.
 2003
 Adverse Effect of Nitrous Oxide in a Child with 5,10-Methylenetetrahydrofolate Reductase Deficiency
@@ -2914,6 +3179,7 @@ Anesthesiology
 Neurologic deterioration and death
 MTHFR mutation (1755G?A) : MTHFR polymorphisms (677C?T and 1298A?C: 
 ----------------------------------------
+record_id: 265
 Nomizo, T., et al.
 2017
 Clinical Impact of Single Nucleotide Polymorphism in PD-L1 on Response to Nivolumab for Advanced Non-Small-Cell Lung Cancer Patients
@@ -2925,6 +3191,7 @@ Oncology
 Decreased response to drug and decreased mean survival
 PD-L1 rs4143815 G/G : PD-L1 rs2282055 T/T
 ----------------------------------------
+record_id: 266
 Hicks, J.K., et al.
 2013
 Clinical Pharmacogenetics Implementation Consortium Guideline for CYP2D6and CYP2C19 Genotypes and Dosing of Tricyclic Antidepressants
@@ -2936,6 +3203,7 @@ Psychiatry
 Coma, respiratory depression, tachycardia, QRS prolongation, decreased cardiac contractility , decreased GI motility, torsades de pointes
 CYP2D6*1:  CYP2D6*2 : CYP2D6*3 : CYP2D6*4 : CYP2D6*5 : CYP2D6*6 :  CYP2D6*9 : CYP2D6*10 :  CYP2D6*1XN : CYP2D6*2XN : CYP2C19*1 : CYP2C19*2 : CYP2C19*3 : CYP2C19*17 
 ----------------------------------------
+record_id: 267
 Tobinai, K.
 2016
 A Review of Obinutuzumab (GA101), a Novel Type II Anti-CD20 Monoclonal Antibody, for the Treatment of Patients with B-Cell Malignancies
@@ -2947,6 +3215,7 @@ Oncology
 Decreased response to treatment
 V158/V158 or F158/F158 Fc?RIIIa receptor
 ----------------------------------------
+record_id: 268
 Bigos, K., et al.
 2011
  Genetic Variation in CYP3A43 Explains Racial Difference in Olanzapine Clearance
@@ -2958,6 +3227,7 @@ Psychiatry
  Higher prevalence of positive symptoms.
 CYP3A43 rs472660
 ----------------------------------------
+record_id: 269
 MacKenzie, M., et al.
 2016
 Pharmacogenomics and pharmacogenetics for the intensive careunit: a narrative review
@@ -2969,6 +3239,7 @@ Psychiatry
 Increased sedation in poor metabolizers
 CYP2D6*3: CYP2D6*4: CYP2D6*5: CYP2D6*6
 ----------------------------------------
+record_id: 270
 Teyssonneau, D., et al.
 2017
 Olaratumab for Soft Tissue Sarcoma
@@ -2980,6 +3251,7 @@ Oncology
 Anemia and Neutropenia
 PDGFR-alpha
 ----------------------------------------
+record_id: 271
 Chen, Y.
 2014
 Omacetaxine mepesuccinate in the treatment of intractable chronic myeloid leukemia
@@ -2991,6 +3263,7 @@ Oncology
 Decreased response to treatment
 BCR-ABL-T315I
 ----------------------------------------
+record_id: 272
 Michael, S., et al. 
 2015
 Profile of paritaprevir/ritonavir/ombitasvir plus dasabuvir in the treatment of chronic hepatitis C virus genotype 1 infection.
@@ -3002,6 +3275,7 @@ Infectious Disease
 Decreases response to treatment
 IL-28B
 ----------------------------------------
+record_id: 273
 MacKenzie, M., et al.
 2016
 Pharmacogenomics and pharmacogenetics for the intensive careunit: a narrative review
@@ -3013,6 +3287,7 @@ Gastroenterology
 ventilator acquired pneumonia (poor metabolizers). Omeprazole: Reports of decreases in cure rates at low dosage in homozygous or heterozygous EMs 
 CYP2C19*2
 ----------------------------------------
+record_id: 274
 Goldstein, J.A.
 2001
 Clinical relevance of genetic polymorphisms in the human CYP2C subfamily
@@ -3024,6 +3299,7 @@ Gastroenterology
 Poor metabolisers of drug can experience toxicity.
 Poor metabolizer genotype
 ----------------------------------------
+record_id: 275
 Ando, T., et al. 
 2005
 A Comparative Study on Endoscopic Ulcer Healing of Omeprazole Versus Rabeprazole with Respect to CYP2C19 GeNotypic Differences
@@ -3035,6 +3311,7 @@ Gastroenterology
 effect on ulcer healing
 -
 ----------------------------------------
+record_id: 276
 Behrooz, A.
 2015
 Pharmacogenetics and anaesthetic drugs: Implications for perioperative practice
@@ -3046,6 +3323,7 @@ Gastroenterology
 Individuals with two of these variants, the CG haplotype (C3435T and G2677T) were more likely to experience chemotherapy induced nausea and vomiting despite receiving ondansetron. CG haplotype was associated with greater ABCB1 expression, those individuals might have a decrease in levels of CNS accumulation of ondansetron 
 C3435T : G2677T
 ----------------------------------------
+record_id: 277
 MacKenzie, M., et al.
 2016
 Pharmacogenomics and pharmacogenetics for the intensive careunit: a narrative review
@@ -3057,6 +3335,7 @@ Gastroenterology
 Increased nausea and vomiting in Ultra Metabolizers. ABCB1 gene polymorphisms are associated with antiemetic efficacy of ondansetron in the acute phase after high-dose cytarabine chemotherapy in AML patients.        C3435T and G2677T
 CYP2D6*3: CYP2D6*4: CYP2D6*5
 ----------------------------------------
+record_id: 278
 He, H.
 2014
 Association of ABCB1 polymorphisms with the efficacy of ondansetron in chemotherapy-induced nausea and vomiting.
@@ -3068,6 +3347,7 @@ Oncology
 ABCB1 gene polymorphisms are associated with variation of antiemetic efficacy of ondansetron.
 C3435T :G2677T
 ----------------------------------------
+record_id: 279
 Odogwu, L.
 2017
 FDA Benefit-Risk Assessment of Osimertinib for the Treatment of Metastatic Non-Small Cell Lung Cancer Harboring Epidermal Growth Factor Receptor T790M Mutation
@@ -3079,6 +3359,7 @@ Oncology
 ILD/pneumonitis, prolonged QTc interval, or decrease in cardiac contractility
 EGFR T790M 
 ----------------------------------------
+record_id: 280
 Inada, M., et al.
 2010
 Associations between oxaliplatin-induced peripheral neuropathy and polymorphisms of the ERCC1 and GSTP1 genes
@@ -3090,6 +3371,7 @@ Oncology
 Grade 1 chronic neuropathy was found to be induced earlier in those who had ERCC1(C118T) and GSTP1(Ile105Val) polymorphisms.  Polymorphisms are shown cause an increased sensitivity to neuropathy in these patients.
 ERCC1(C118T)C/T,T/T>C/C:GSTP1(Ile105Val)
 ----------------------------------------
+record_id: 281
 Chen, Y.
 2008
 Oxcarbazepine-induced Stevens–Johnson syndrome in a patient with HLA-B*1502genotype
@@ -3101,6 +3383,7 @@ Neurology
 Steven Johnson
 HLA-B*1502
 ----------------------------------------
+record_id: 282
 Illing, P.T., et al.
 2017
 The role of HLA genes in pharmacogenomics: unravelling HLA associated adverse drug reactions
@@ -3112,6 +3395,7 @@ Neurology
 DRESS, MPE, SJS/TEN
 HLA-B*15:02
 ----------------------------------------
+record_id: 283
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -3123,6 +3407,7 @@ Rheumatology
 Steven Johnson Syndrome, toxic epidermal necrolysis
 HLA-B*7301 
 ----------------------------------------
+record_id: 284
 Samer, C.F., et al.
 2011
 Genetic polymorphisms and drug interactions modulating CYP2D6 and CYP3A activities have a major effect on oxycodone analgesic efficacy and safety
@@ -3134,6 +3419,7 @@ Anesthesiology
 Polymorphisms in CYP2D6 lead to higher concentration of active metabolities leading to toxicities. CYP2D6 under metabolizers are also at increased risk of a drug-drug itneraction with a CYP3A inhibitor.
 CYP2D6*5/*35 :  CYP2D6*41/*41xN :  CYP2D6*1/*41:  CYP2D6*5/*41 :  CYP2D6*4/*35 :  CYP2D6*2/*41 :  CYP2D6*1/*4 : CYP2D6*1/*2xN :  CYP2D6*1/*6 :  CYP2D6*4/*4 
 ----------------------------------------
+record_id: 285
 MacKenzie, M., et al.
 2016
 Pharmacogenomics and pharmacogenetics for the intensive careunit: a narrative review
@@ -3145,6 +3431,7 @@ Psychiatry
 Increased analgesia and sedative effect because of higher concentration of active metabolities leading to toxicities.
 CYP2D6*3: CYP2D6*4: CYP2D6*5: CYP2D6*6
 ----------------------------------------
+record_id: 286
 Bertholee,  D., et al. 
 2017
 Genotypes Affecting the Pharmacokinetics of Anticancer Drugs
@@ -3156,6 +3443,7 @@ Oncology
 Neurotoxicity and peripheral neuropathy
 ABCB1 c.1236T>C  rs1128203 : ABCB1 c.2677T>A/G rs2032582
 ----------------------------------------
+record_id: 287
 Rodriguez-Antona, C.,et al.
 2014
 PharmacogeNomic biomarkers for personalized cancer treatment
@@ -3167,6 +3455,7 @@ Oncology
 High risk of severe neuropathy with patients that carry loss-of-function CYP3A4 alleles and use paclitaxel.
 CYP3A*20 (rs67666821)
 ----------------------------------------
+record_id: 288
 Lynce, F.
 2017
 A phase II safety study of palbociclib in combination with letrozole in African American women with hormone receptor positive HER2 negative advanced breast cancer
@@ -3178,6 +3467,7 @@ Oncology
 Neutropenia and Leucopenia
 HER-2 Noncodified polymorphism
 ----------------------------------------
+record_id: 289
 Ane, J.
 2014
 Association between EGFR gene polymorphisms, skin rash and response to anti-EGFR therapy in metastatic colorectal cancer patients
@@ -3189,6 +3479,7 @@ Oncology
 Skin Rash
 Four EGFR polymorphisms (?216, ?191, CA-SSR, R521K)
 ----------------------------------------
+record_id: 290
 MacKenzie, M., et al.
 2016
 Pharmacogenomics and pharmacogenetics for the intensive careunit: a narrative review
@@ -3200,6 +3491,7 @@ Gastroenterology
 ventilator acquired pneumonia (poor metabolizers).
 CYP2C19*2
 ----------------------------------------
+record_id: 291
 Gex-Fabry, M.
 2008
 CYP2D6 and ABCB1 Genetic Variability: Influence on Paroxetine Plasma Level and Therapeutic Response
@@ -3211,6 +3503,7 @@ Psychiatry
 Influence on plasma levels and therapeutic response
 CYP2D6 *3: *4: *5: *6:*xN : ABCB161A>G: 2677G>T: 3435C>T
 ----------------------------------------
+record_id: 292
 Illing, P.T., et al.
 2017
 The role of HLA genes in pharmacogenomics: unravelling HLA associated adverse drug reactions
@@ -3222,6 +3515,7 @@ Oncology
 DILI drug-induced liver injury
 HLA-B*57:01
 ----------------------------------------
+record_id: 293
 Relling, M.V.
 2014
 Clinical Pharmacogenetics Implementation Consortium (CPIC) Guidelines for Rasburicase Therapy in the Context of G6PD Deficiency Genotype
@@ -3233,6 +3527,7 @@ Rheumatology
 Acute Hemolytic anemia and methemoglobinemia.
 G6PD deficiency
 ----------------------------------------
+record_id: 294
 Wu, J.
 2017
 PD-1 inhibitors increase the incidence and risk of pneumonitis in cancer patients in a dose-independent manner: a meta-analysis
@@ -3244,6 +3539,7 @@ Oncology
 Immune-mediated pneumonitis may be associated with autoimmune process
 PD-1.1 G/A and PD-1.3 GA
 ----------------------------------------
+record_id: 295
 Jerling, M.
 1996
 The CYP2D6 genotype predicts the oral clearance of the neuroleptic agents perphenazine and zuclopenthixol
@@ -3255,6 +3551,7 @@ Psychiatry
 Alteration to oral clearance
 CYP2D6 poor metabolizers 
 ----------------------------------------
+record_id: 296
 Gianni, L
 2012
 Efficacy and safety of neoadjuvant pertuzumab and trastuzumab in women with locally advanced, inflammatory, or early HER2-positive breast cancer (NeoSphere): a randomised multicentre, open-label, phase 2 trial.
@@ -3266,6 +3563,7 @@ Oncology
 Neutropenia and Leucopenia
 ERBB2
 ----------------------------------------
+record_id: 297
 Gianni, L
 2012
 Efficacy and safety of neoadjuvant pertuzumab and trastuzumab in women with locally advanced, inflammatory, or early HER2-positive breast cancer (NeoSphere): a randomised multicentre, open-label, phase 2 trial.
@@ -3277,6 +3575,7 @@ Oncology
 Neutropenia and Leucopenia
 any polymorphism wont allow the antibody to attach to the receptor.
 ----------------------------------------
+record_id: 298
 Luzzatto, L., et al.
 2014
 G6PD deficiency: a classic example of pharmacogenetics with on-going clinical implications
@@ -3288,6 +3587,7 @@ Anesthesiology
 Acute hemolytic anemia due to G6PD deficiency
 G6PD  
 ----------------------------------------
+record_id: 299
 Illing, P.T., et al.
 2017
 The role of HLA genes in pharmacogenomics: unravelling HLA associated adverse drug reactions
@@ -3299,6 +3599,7 @@ Neurology
 SJS/TEN. pts w/ HLA-B*15:02 variant kNown to be susceptible to phenytoin-induced SJS/TEN
 HLA-B*15:02 
 ----------------------------------------
+record_id: 300
 Krasowski, M. 
 2015
 Current Diagnosis & Treatment : Family Medicine Chapter 49: Pharmacogenomics
@@ -3310,6 +3611,7 @@ Neurology
 Steven-Johnson syndrome, toxic epidermal necrolysis, DRESS syndrome
 HLA-B*1502
 ----------------------------------------
+record_id: 301
 MacKenzie, M., et al.
 2016
 Pharmacogenomics and pharmacogenetics for the intensive careunit: a narrative review
@@ -3321,6 +3623,7 @@ Neurology
 toxic symptoms caused by excessive phenytoin levels at a ‘lower than standard’ dosage in a patient carrying the polymlrphisms.
 CYP2C9*2: CYP2C9*3: CYP2C19*2
 ----------------------------------------
+record_id: 302
 Saruwatari, J., et al. 
 2010
 The clinical impact of cytochrome P450 polymorphisms on anti-epileptic drug therapy
@@ -3332,6 +3635,7 @@ Neurology
 Steven Johnson Syndrome, toxic epidermal necrolysis
 CYP2C9*2 :  CYP2C9*3 :  CYP2C19*2 : CYP2C19*3
 ----------------------------------------
+record_id: 303
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -3343,6 +3647,7 @@ Neurology
 Steven Johnson Syndrome, toxic epidermal necrolysis
 HLA-B*1502
 ----------------------------------------
+record_id: 304
 Caudle, K.E., et al.
 2014
 Clinical Pharmacogenetics Implementation Consortium Guidelines for CYP2C9 and HLA-B Genotypes and Phenytoin Dosing
@@ -3354,6 +3659,7 @@ Neurology
 Increased risk of Hematologic toxicity, hepatic toxicity, leukopenia, pancytopenia, Steven Johnson Syndrome, and Toxic Epidermal Necrolysis - Due to HLA-B*15:02 polymorphism, reduced phenytonin metabolism will increase its plasma concentration which will increase the chance of toxicities. Increased risk of Cerebellar atrophy, Steven Johnson Syndrome, and Toxic Epidermal Necrolysis- Phenytoin toxicity is further increased due to the reduced function of the alleles of CYP2C9, this leads to a decrease in enzyme function and consequently decreased phenytoin metabolism. If both HLA?B*15:02 and CYP2C9 genotypes are present, the risk for adverse effect is further increased.
 HLA-B*15:02:CYP2C9*2:CYP2C9*3
 ----------------------------------------
+record_id: 305
 Eum, S., et al.
 2016
 Pharmacogenetic tests for antipsychotic medications: clinical implications and considerations
@@ -3365,6 +3671,7 @@ Psychiatry
 prolongation of the QT interval
 CYP2D6*9 :  CYP2D6 *10 :  CYP2D6*17 :  CYP2D6 *29 :  CYP2D6 *36 :  CYP2D6  *41 
 ----------------------------------------
+record_id: 306
 Preskorn, S., et al.
 2012
 Changes in the Product Label for Pimozide Illustrate Both the Promises and the Challenges of Personalized Medicine
@@ -3376,6 +3683,7 @@ Psychiatry
 QT-prolongation, fatal ventricular arrhythmias (such as torsades de pointes)- Higher systemic concentrations of pimozide are developed by CYP2D6 poor metabolizers. Since pimozide inhibits potassium channels, the repoarization of myocytes is greatky affected by poor metabolizers.  
 CYP2D6 Poor Metabolizers
 ----------------------------------------
+record_id: 307
 Jaja, C., et al.
 2015
 Preemptive Genotyping of CYP2C8 and CYP2C9 Allelic Variants Involved in NSAIDs Metabolism for Sickle Cell Disease Pain Management
@@ -3387,6 +3695,7 @@ Rheumatology
 Gastrointestinal toxicity, gastric bleeding, gastroduodenal bleeding- NSAID therapeutic failure or decreased pain management due to decreased or null enzyme metabolism. 
 CYP2C9*2:CYP2C9*3:CYP2C8*3:CYP2C9*1/*3:CYP2C9*1/*2 genotypes
 ----------------------------------------
+record_id: 308
 Zabriskie, M.S., et al.
 2014
 BCR-ABL1 Compound Mutations Combining Key Kinase Domain Positions Confer Clinical Resistance to Ponatinib in Ph Chromosome-Positive Leukemia
@@ -3398,6 +3707,7 @@ Oncology
 Relapse of disease- Mutations in BCR-ABL1 may confer pronatinib resistance and treatment failure leading to disease progression. T315I mutants are also found to confer high-level resistance to pronatinib and other Tyrosine Kinase Inhibitors.
 BCR-ABL1M244:BCR-ABL1G250:BCR-ABL1Q252:BCR-ABL1Y253:BCR-ABL1E255:BCR-ABL1V299:BCR-ABL1F311:BCR-ABL1F311:BCR-ABL1T315:BCR-ABL1F317:BCR-ABL1M351:BCR-ABL1F359:BCR-ABL1H396: Y253H/E255V, E255V/V299L and F317L/F359V, E255V/T315I, T315I/F359C, T315I/F359V, Y253H/T315I, Y253H/T315I, T315I/H396R, T315I/E453K 
 ----------------------------------------
+record_id: 309
 Ward, R., et al.
 2013
 Proton Pump Inhibitors in Pediatrics
@@ -3409,6 +3719,7 @@ Gastroenterology
  increased risk of C.difficile infections and osteoporosis-related fractures.
 CYP2C19*17: CYP3A5*3
 ----------------------------------------
+record_id: 310
 Ahmed, S., et al.
 2016
 Pharmacogenomics of Drug Metabolizing Enzymes and Transporters: Relevance to precision Medicine
@@ -3420,6 +3731,7 @@ Cardiology
 Myopathy
 OATPC*5 , OATPC*9
 ----------------------------------------
+record_id: 311
 Arrigoni, E., et al. 
 2017
 Pharmacogenetic Foundations of Therapeutic Efficacy and Adverse Events of Statins
@@ -3431,6 +3743,7 @@ Cardiology
 Myotocxicity
 SLCO1B1*5 : SLCO1B1*15
 ----------------------------------------
+record_id: 312
 Hoosain, N., et al.
 2016
 Mapping SLCO1B1 Genetic Variation for Global precision Medicine in Understudied Regions in Africa: A Focus on Zulu and Cape Admixed Populations.
@@ -3442,6 +3755,7 @@ Cardiology
 Myopathy
 OATP1B1*5 RS4149056C : OATP1B1*15 RS4149056T 
 ----------------------------------------
+record_id: 313
 Cheok, M., et al.
 2009
 Pharmacogenetics in Acute Lymphoblastic Leukemia
@@ -3453,6 +3767,7 @@ Cardiology
 Hypertension in children with ALL
 
 ----------------------------------------
+record_id: 314
 Barash, M., et al.
 2015
 Lidocaine-Induced Methemoglobinemia: A Clinical Reminder
@@ -3464,6 +3779,7 @@ Anesthesiology
 G6PD deficiency or congenital or idiopathic methemoglobinemia more susceptible to drug?induced methemoglobinemia.
 CYB5R3 gene mutations
 ----------------------------------------
+record_id: 315
 Elyassi, C.A.R., et al.
 2009
 Perioperative Management of the Glucose-6-Phosphate Dehydrogenase Deficient Patient: A Review of Literature
@@ -3475,6 +3791,7 @@ Anesthesiology
 glucose?6?phosphate dehydrogenase deficiencies and pts taking oxidizing drugs (antimalarials and sulfonamides) more susceptible to drug?induced methemoglobinemia.
 G6PD, glucose?6?phosphate dehydrogenase deficiencies 
 ----------------------------------------
+record_id: 316
 Baird, K.
 2015
 Origins and implications of neglect of G6PD deficiency and primaquine toxicity in Plasmodium vivax malaria
@@ -3486,6 +3803,7 @@ Infectious Disease
 acute haemolitic anemia, dark urine, death- primaquine increases the risk for mild to severe anaemia when there is G6PD deficiency. 
 G6PD deficiency 
 ----------------------------------------
+record_id: 317
 Luzzatto, L., et al.
 2014
 G6PD deficiency: a classic example of pharmacogenetics with on-going clinical implications
@@ -3497,6 +3815,7 @@ Infectious Disease
 acute hemolytic anemia due to G6PD deficiency
 G6PD 
 ----------------------------------------
+record_id: 318
 Pirmohamed, M. 
 2010
 Pharmacogenetics of adverse drug reactions 
@@ -3508,6 +3827,7 @@ Infectious Disease
 G6PD is implicated in primaquine hemolytic anemia
 Glucose-6-phosphate dehydrogenase deficiency
 ----------------------------------------
+record_id: 319
 Zanger, U., et al.
 2013
 Cytochrome P450 enzymes in drug metabolism: regulation of gene expression, enzyme activities, and impact of genetic variation.
@@ -3519,6 +3839,7 @@ Infectious Disease
 ? clearance & ? risk of ADRs for antimalarials (proguanil)
 CYP2C19*3
 ----------------------------------------
+record_id: 320
 Leung, N., et al.
 2009
 Acute Kidney Injury in Patients with Inactive Cytochrome P450 Polymorphisms
@@ -3530,6 +3851,7 @@ Anesthesiology
 Acute kidney injury, and CYP2D6 poor metabolizers exhibit greater sedation for a given promethazine dose.
 CYP2C9*3:CYP2C9*3: 
 ----------------------------------------
+record_id: 321
 Cai, W.M., et al.
 1999
 The influence of CYP2D6 activity on the kinetics of propafenone enantiomers in Chinese subjects
@@ -3541,6 +3863,7 @@ Cardiology
 Dizziness, nausea, gastric irritation - 2~3 fold higher plasma propafenone concentration seen in poor metabolizers of CYP2D6 when compared to extensive metabolizers. Consequently, a lower clearance of propafenone was observed. Therefore, mutations of CYP2D6 affects the variability of propafeNone pharmacokinetics. 
 CYP2D6 Poor Metabolizers
 ----------------------------------------
+record_id: 322
 Pirmohamed, M., et al.
 2003
 Cytochrome P450 enzyme polymorphisms and adverse drug reactions
@@ -3552,6 +3875,7 @@ Cardiology
 Arrhytmia
 CYP2D6*4:CYP2D6*5:CYP2D6*10:CYP2D6*17
 ----------------------------------------
+record_id: 323
 Lymperopoulos, A., et al.
 2015
 Impact of CYP2D6 Genetic Variation on the Response of the Cardiovascular Patient to Carvedilol and Metoprolol.
@@ -3563,6 +3887,7 @@ Cardiology
 Bradycardia, hypotension,decreased therapeutic effect. 
 CYP2D6*1:  CYP2D6*2 : CYP2D6*3 : CYP2D6*4 : CYP2D6*5 : CYP2D6*6 :  CYP2D6*9 : CYP2D6*10 : CYP2D6*17 : CYP2D6*41 : CYP2D6*1XN : CYP2D6*2XN
 ----------------------------------------
+record_id: 324
 Wang, Y., et al.
 2017
 Relationship between UGT1A9 gene polymorphisms, efficacy, and safety of propofol in induced abortions amongst Chinese population: a population-based study.
@@ -3574,6 +3899,7 @@ Anesthesiology
 Higher induction dose required.
 1887 T/G
 ----------------------------------------
+record_id: 325
 Sowinkski, K.M., et al.
 2012
 Impact of CYP2D6 Poor Metabolizer Phenotype on PropraNolol Pharmacokinetics and Response
@@ -3585,6 +3911,7 @@ Cardiology
 Increased plasma concentration due to poor metabolism - PropraNolol hydrochloride existed in three different crystalline forms, deNoted as forms I, II and III, according to their decreasing melting temperatures. CYP2D6
 CYP2D6 Poor metabolizers
 ----------------------------------------
+record_id: 326
 Cavallari, L.H., et al.
 2011
 Role of cytochrome P450 genotype in the steps toward personalized drug therapy
@@ -3596,6 +3923,7 @@ Psychiatry
 Increased plasma concentration - due to CYP2D6 poor metabolizer, lower doses of protriptyline are recommended 
 CYP2D6 Poor metabolizers
 ----------------------------------------
+record_id: 327
 Hogan, D.B.
 2015
 Quinine: Not a safe drug for treating Nocturnal leg cramps
@@ -3607,6 +3935,7 @@ Infectious Disease
 arrhythmias and haemolysis - due to G6PD deficiency 
 G6PD 
 ----------------------------------------
+record_id: 328
 Luzzatto, L., et al.
 2014
 G6PD deficiency: a classic example of pharmacogenetics with on-going clinical implications
@@ -3618,6 +3947,7 @@ Infectious Disease
 acute hemolytic anemia due to G6PD deficiency
 G6PD  
 ----------------------------------------
+record_id: 329
 MacKenzie, M., et al.
 2016
 Pharmacogenomics and pharmacogenetics for the intensive careunit: a narrative review
@@ -3629,6 +3959,7 @@ Gastroenterology
 ventilator acquired pneumonia (poor metabolizers).
 CYP2C19*2
 ----------------------------------------
+record_id: 330
 Miura, M., et al.
 2007
 Influence of rabeprazole and lansoprazole on the pharmacokinetics of tacrolimus in relation to CYP2C19, CYP3A5 and MDR1 polymorphisms in renal transplant recipients
@@ -3640,6 +3971,7 @@ Gastroenterology
 Patients with genetic polymorphisms need lower dosages of tacrolimus to achieve the target therapeutic index.
 CYP3A5*3/*3
 ----------------------------------------
+record_id: 331
 Miura, M., et al.
 2005
 Comparison of enantioselective disposition of rabeprazole versus lansoprazole in renal-transplant recipients who are CYP2C19 extensive metabolizers
@@ -3651,6 +3983,7 @@ Gastroenterology
 Renal-transplant recipients who are CYP2C19 extensive metabolizers, there is less stereoselective difference in the pharmacokinetic disposition between the (R)- and (S)-enantiomers of rabeprazole than those of lansoprazole.
 -
 ----------------------------------------
+record_id: 332
 Mahajan, P. 
 2016
 Recent Advances in Application of Pharmacogenomics for Biotherapeutics
@@ -3662,6 +3995,7 @@ Oncology
 increased hemolysis.
 CYB5R1-4
 ----------------------------------------
+record_id: 333
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -3673,6 +4007,7 @@ Oncology
 hemolytic anemia in patients with G6PD deficiency.
 G6PD C563T 
 ----------------------------------------
+record_id: 334
 Mahajan, P.B.
 2016
 Recent Advances in Application of Pharmacogenomics for Biotherapeutics
@@ -3684,6 +4019,7 @@ Oncology
 Exhibit increased hemolysis- Due to reduced CYB5R1-4 activity and G6PD deficiency 
 CYB5R*1,*2,*3,*4:G6PD deficiency
 ----------------------------------------
+record_id: 335
 Relling, M.V., et al.
 2014
 Clinical Pharmacogenetics Implementation Consortium (CPIC) Guidelines for Rasburicase Therapy in the Context of G6PD Deficiency Genotype
@@ -3695,6 +4031,7 @@ Oncology
 Acute hemolytic anemia and methemoglobinemia (apply to neonates , children, and adults) -It is concluded that rasburicase is contraindicated in patients with G6PD  deficiency.
 G6PD 
 ----------------------------------------
+record_id: 336
 Luzzatto, L., et al.
 2014
 G6PD deficiency: a classic example of pharmacogenetics with on-going clinical implications
@@ -3706,6 +4043,7 @@ Rheumatology
 Acute hemolytic anemia due to G6PD deficiency
 G6PD 
 ----------------------------------------
+record_id: 337
 Zabriskie, M.S., et al.
 2014
 BCR-ABL1 Compound Mutations Combining Key Kinase Domain Positions Confer Clinical Resistance to Ponatinib in Ph Chromosome-Positive Leukemia
@@ -3717,6 +4055,7 @@ Oncology
 Relapse of disease- Mutations in BCR-ABL1 may confer resistance and treatment failure leading to disease progression. T315I mutants are also found to confer high-level resistance to Tyrosine Kinase Inhibitors.
 BCR-ABL1:M244, G250, Q252, Y253, E255, V299, F311, T315, F317, M351, F359, and H396:T315I
 ----------------------------------------
+record_id: 338
 Nishimura, T., et al.
 2012
 Polymorphism of the inosine triphosphate pyrophosphatase gene predicts ribavirin-induced anemia in chronic hepatitis C patients.
@@ -3728,6 +4067,7 @@ Infectious Disease
 Ribavirin induced anemia - seen in Hepatitis C patients that use ribavirin and ITPA polymorphism
 ITPA(CC) rs1127354 
 ----------------------------------------
+record_id: 339
 Ramappa, V., et al.
 2013
 Hepatotoxicity Related to Anti-tuberculosis Drugs: Mechanisms and Management
@@ -3739,6 +4079,7 @@ Infectious Disease
 Drug induced hepatotoxicity
 HLA-DQB1*0201
 ----------------------------------------
+record_id: 340
 Eum, S., et al.
 2016
 Pharmacogenetic tests for antipsychotic medications: clinical implications and considerations
@@ -3750,6 +4091,7 @@ Psychiatry
  Weight gain and hyperprolactinemia
 CYP2D6 *9 :  CYP2D6 *10 :  CYP2D6*17 : CYP2D6*29 : CYP2D6*36 :  CYP2D6 *41 
 ----------------------------------------
+record_id: 341
 MacKenzie, M., et al.
 2016
 Pharmacogenomics and pharmacogenetics for the intensive careunit: a narrative review
@@ -3761,6 +4103,7 @@ Psychiatry
 Increased sedation in poor metabolizers
 CYP2D6*3: CYP2D6*4: CYP2D6*5: CYP2D6*6
 ----------------------------------------
+record_id: 342
 Puangpetch, A., et al.
 2016
 CYP2D6 polymorphisms and their influence on risperidone treatment
@@ -3772,6 +4115,7 @@ Psychiatry
 Hyperprolactinemia, weight gain, extrapiramidal adverse reactions - CYP2D6 metabolizes risperidone to the active metabolite of 9-hydroxyrisperidone. Studies explain that risperidone may be more toxic than its active metabolite. Polymorphisms that lead to decreased CYP2D6 activity lead to increased risperidone concentrations. Some adverse effects are due to increased dopamine D2 receptor blockage in the anterior pituitary that lead to increased prolactin.  
 CYP2D6*3:CYP2D6*4:CYP2D6*5 (No enzymatic activity). CYP2D6*10:CYP2D6*41(reduced enzymatic activity):CYP2D6*1:CYP2D6*2:CYP2D6*33:CYP2D6*35 (Normal enzymatic activity).
 ----------------------------------------
+record_id: 343
 Asahina, Y., et al.
 2013
 Polymorphism Near the Interleukin-28B Gene and Anti-Hepatitis C Viral Response
@@ -3783,6 +4127,7 @@ Infectious Disease
 Higher gamma-glutamyltranspeptidase levels, higher frequency of hepatic steatosis, lower low density lipoprotein cholesterol levels, No response or resistance to PEG-IFNa/RBV treatment.
 IL28B rs12979860 CT and TT or IL28B rs8099917 TG and GG genotypes 
 ----------------------------------------
+record_id: 344
 Birmingham, B.K., et al.
 2015
 Rosuvastatin pharmacokinetics and pharmacogenetics in Caucasian and Asian subjects residing in the United States.
@@ -3794,6 +4139,7 @@ Cardiology
 Myopathy
 SLCO1B1 T521>C 
 ----------------------------------------
+record_id: 345
 Birmingham, B.K., et al.
 2015
 Rosuvastatin pharmacokinetics and pharmacogenetics in Caucasian and Asian subjects residing in the United States.
@@ -3805,6 +4151,7 @@ Cardiology
 Myopathy
 ABCG2 C421>A  
 ----------------------------------------
+record_id: 346
 DeGorter, M.K., et al.
 2013
 Clinical and Pharmacogenetic predictors of Circulating Atorvastatin and Rosuvastatin Concentration in Routine Clinical Care
@@ -3816,6 +4163,7 @@ Endocrinology
 Increase plasma concentarations, reduced LDL-C lowering response to rosuvastatin therapy - SLCO1B1 polymorphisms lead to reduced function in the uptake transporters and mutations in the efflux transporter ABCG2. 
 SLCO1B1c.521T>C (rs4149056):ABCG2c.421C>A
 ----------------------------------------
+record_id: 347
 Dockery, L.E., et al.
 2017
 Rucaparib: the past, present, and future of a newly approved PARP inhibitor for ovarian cancer
@@ -3827,6 +4175,7 @@ Oncology
 Resistance to rucaparib- reversion mutations lead to the regained function of the proteins in the tumor cells and therefore resistance to treatment. 
 BRCA1:RAD51C:RAD51D:NHEJ
 ----------------------------------------
+record_id: 348
 Drew, Y., et al.
 2016
 Phase 2 multicentre trial investigating intermittent and continuous dosing schedules of the poly(ADP-ribose) polymerase inhibitor rucaparib in germline BRCA mutation carriers with advanced ovarian and breast cancer
@@ -3838,6 +4187,7 @@ Oncology
 Most patients had reduced clinical efficacy during intermitent dosing- continous dosing may be required to sustain PARP inhibition and obtain optimal response
 BRCA1:BRCA2
 ----------------------------------------
+record_id: 349
 Turhan, K.S., et al.
 2013
 Delayed Onset Malignant Hyperthermia after Sevoflurane
@@ -3849,6 +4199,7 @@ Anesthesiology
 Maliginant hyperthermia - ryanodine receptor mutation has shown to cause malignant hyperthermia after anesthesia with sevoflurane. Patients symptoms have shown to improove after discontinuation of sevoflurane. It is recommended to evaluate the patient for clinical signs of King-Denborough syndrome during the preoperative period. 
 Gly4932Ser ,RYR1 CYP2E1
 ----------------------------------------
+record_id: 350
 Harrison-Woolrych, M., et al. 
 2006
 QT interval prolongation associated with sibutramine treatment
@@ -3860,6 +4211,7 @@ Gastroenterology
  Torsades de Pointes due to QTc prolongation.
 KCNQ T265I 
 ----------------------------------------
+record_id: 351
 Arrigoni, E., et al. 
 2017
 Pharmacogenetic Foundations of Therapeutic Efficacy and Adverse Events of Statins
@@ -3871,6 +4223,7 @@ Cardiology
 Higher LDL cholesterol levels due to decreased efficacy
  CYP3A5*1 c.6986A>G rs776746
 ----------------------------------------
+record_id: 352
 Arrigoni, E., et al. 
 2017
 Pharmacogenetic Foundations of Therapeutic Efficacy and Adverse Events of Statins
@@ -3882,6 +4235,7 @@ Cardiology
 Myopathy
 SLCO1B1 c.521T>C
 ----------------------------------------
+record_id: 353
 Brunham, L.R., et al.
 2012
 Differential effect of the rs4149056 variant in SLCO1B1 on myopathy associated with simvastatin and atorvastatin.
@@ -3893,6 +4247,7 @@ Cardiology
 Simvastatin-associated myopathy
 SLCO1B1*5, SLCO1B1*15, SLCO1B1*17)
 ----------------------------------------
+record_id: 354
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -3904,6 +4259,7 @@ Cardiology
 Myopathy or fatal rhabdomyolysis
 SLCO1B1 rs4363657 : SLCO1B1 rs4149056
 ----------------------------------------
+record_id: 355
 CostantiNo, A., et al.
 2015
 Naturally occurring mutations associated with resistance to HCV NS5B polymerase and NS3 protease inhibitors in treatment-naïve patients with chronic hepatitis C
@@ -3915,6 +4271,7 @@ Infectious Disease
 poor response to sofosfuvir treatment in genotype 1b HCV chronically infected patients. 
 C316N/H in NS5B region
 ----------------------------------------
+record_id: 356
 Meissner, E.G., et al.
 2013
 IFNL4-?G Genotype Is Associated With Slower Viral Clearance in Hepatitis C, Genotype-1 Patients Treated With Sofosbuvir and Ribavirin
@@ -3926,6 +4283,7 @@ Infectious Disease
 decreased drug efficacy and slower early viral decline for HCV genotype1- infected patients - if Sofosfuvir is given along with ribavirin and IFNL4-?G variant. This is due to ecreased drug efficacy and slower loss of the free virus. 
 IFNL4-?G variant unfavorable heterozygous TT/?G rs368234815 genotype: heterozygous CT rs12979860 genotype: homozygous ?G/?G rs368234815 genotype
 ----------------------------------------
+record_id: 357
 Dean, L. 
 2017
 Sofosbuvir Therapy and IFNL4 Genotype
@@ -3937,6 +4295,7 @@ Infectious Disease
 Homozygosity for the rs12979860-C allele (IL28B-CC genotype) assoc. w/faster viral kinetic (VK) decline and higher odds of achieving SVR with IFN-?/RBV therapy. The genetic variant rs12979860, located in the INFL4 gene, is a strong predictor of response to peginterferon-based therapies. The variant is a C to T change—individuals with the favorable “C/C” genotype have about a 2-fold higher likelihood of achieving SVR compared to individuals with CT or TT genotypes
 The rs12979860 allele is located in the INFL4 gene. The variant is a C to T change. Individuals can have  IL28B-CC, IL28B-CT or IL28B-TT genotypes
 ----------------------------------------
+record_id: 358
 El Rouby, N., et al.
 2015
 Genetics of Resistant Hypertension: a Novel Pharmacogenomics Phenotype
@@ -3948,6 +4307,7 @@ Cardiology
 Increased risk of volume-dependent renal hypertension as a consequence of sodium and water retention - due to reduced activity of CYP4A11
 CYP4A11 rs3890011
 ----------------------------------------
+record_id: 359
 Hicks, J.K., et al.
 2015
 Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for CYP2D6 and CYP2C19 Genotypes and Dosing of Selective Serotonin Reuptake Inhibitors
@@ -3959,6 +4319,7 @@ Psychiatry
  Vomiting, diarrhea, hypertension, tachycardia, and prolonged QTc interval
 CYP2D6*1:  CYP2D6*2 : CYP2D6*3 : CYP2D6*4 : CYP2D6*5 : CYP2D6*6 :  CYP2D6*9 : CYP2D6*10 : CYP2D6*17 : CYP2D6*41 : CYP2D6*1XN : CYP2D6*2XN : CYP2C19*1 : CYP2C19*2 : CYP2C19*3 : CYP2C19*17 
 ----------------------------------------
+record_id: 360
 SEARCH Collaborative Group.
 2008
 SLCO1B1 variants and statin-induced myopathy--a geNomewide study.
@@ -3970,6 +4331,7 @@ Cardiology
 Increased risk of statin-induced myopathy
 SLCO1B1*5
 ----------------------------------------
+record_id: 361
 Arrigoni, E., et al. 
 2017
 Pharmacogenetic Foundations of Therapeutic Efficacy and Adverse Events of Statins
@@ -3981,6 +4343,7 @@ Cardiology
 Myalgia, increase in total  and HDL cholesterol levels
 ABCB1c.3435C>T.
 ----------------------------------------
+record_id: 362
 Oh, J., et al.
 2007
 Genetic determinants of statin intolerance
@@ -3992,6 +4355,7 @@ Cardiology
 Myopathy
 COQ2 rs6535454: COQ2 rs4693075
 ----------------------------------------
+record_id: 363
 Gerr, F., et al.
 1994
 Hemolytic Anemia Following Succimer Administration in a Glucose-6-Phosphate Dehydrogenase Deficient Patient
@@ -4003,6 +4367,7 @@ Hematology
 hemolytic anemia
 G6PD
 ----------------------------------------
+record_id: 364
 Alvarellos, M.L., et al.
 2015
 PharmGKB Summary: Succinylcholine Pathway, Pharmacokinetics/Pharmacodynamics
@@ -4014,6 +4379,7 @@ Anesthesiology
 Increased duration prolonged apnea in presence of succinylcholine - the increased duration depends on the type and amount of variants existing
 BCHE (rs28933389:rs28933390:rs1799807:rs121918558:rs104893684:rs121918557:rs121918556:rs1803274)
 ----------------------------------------
+record_id: 365
 Alvarellos, M.L., et al.
 2015
 PharmGKB Summary: Succinylcholine Pathway, Pharmacokinetics/Pharmacodynamics
@@ -4025,6 +4391,7 @@ Anesthesiology
 Malignant hyperthermia - Possibly due to elevated basal calcium in skeletal muscle. In polymorphisms such as NP_000060.2: p.Arg1086His; rs1800559 C>T, an arginine residue is substituted by histidine. In polymorphisms such as NP_000060.2: Arg174Trp c.520 C>T; rs772226819, and arginine residue is substituted by tryptophan.
 CACNA1S (rs772226819: rs1800559)
 ----------------------------------------
+record_id: 366
 Alvarellos, M.L., et al.
 2017
 PharmGKB Summary: Succinylcholine Pathway, Pharmacokinetics/Pharmacodynamics
@@ -4036,6 +4403,7 @@ Anesthesiology
 Malignant hyperthermia
  Chromosome 3q13.1 RYR1 : Chromosome 7q21.11 CACNA2D1
 ----------------------------------------
+record_id: 367
 Luzzatto, L., et al.
 2014
 G6PD deficiency: a classic example of pharmacogenetics with on-going clinical implications
@@ -4047,6 +4415,7 @@ Infectious Disease
 acute hemolytic anemia due to G6PD deficiency
 G6PD  
 ----------------------------------------
+record_id: 368
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -4058,6 +4427,7 @@ Infectious Disease
 Steven Johnson Syndrome, toxic epidermal necrolysis
 HLA-B*3802 
 ----------------------------------------
+record_id: 369
 Wang, D., et al.
 2012
 Polymorphism in glutamate cysteine ligase catalytic subunit (GCLC) is associated with sulfamethoxazole-induced hypersensitivity in HIV/AIDS patients
@@ -4069,6 +4439,7 @@ Infectious Disease
 SMX-induced hypersensitivity in HIV/AIDS patients- the miNor G allele of the polymorphism rs761142 showed reduced GCLC mRNA expression in both B-lymphocytes and livers. 
 rs761142 
 ----------------------------------------
+record_id: 370
 Tanaka, E., et al.
 2002
 Adverse effects of sulfasalazine in patients with rheumatoid arthritis are associated with diplotype configuration at the N-acetyltransferase 2 gene
@@ -4080,6 +4451,7 @@ Gastroenterology
 The slow acetylators who had No NAT2*4 haplotype had experienced adverse effects more frequently (62.5%) than the fast acetylators who had at least one NAT2*4 haplotype
 NAT*4
 ----------------------------------------
+record_id: 371
 Richardson, S.R.
 2017
 Glucose 6 Phosphate Dehydrogenase (G6PD) Deficiency.
@@ -4091,6 +4463,7 @@ Infectious Disease
 Risk of hemolytic anemia for G6PD deficient individuals 
 G6PD
 ----------------------------------------
+record_id: 372
 Delacour, H., et al. 
 2014
 Characterization of a Novel BCHE “Silent” Allele: Point Mutation (p.Val204Asp) Causes Loss of Activity and Prolonged Apnea with Suxamethonium
@@ -4102,6 +4475,7 @@ Anesthesiology
 Prolonged neuromuscular blockade and apnoea due to increasing the drug duration of action.
 BCHE  p.Val204Asp
 ----------------------------------------
+record_id: 373
 Simon, T., et al.
 2000
 Combined glutathione-S -transferase M1 and T1 genetic polymorphism and tacrine hepatotoxicity
@@ -4113,6 +4487,7 @@ Neurology
 Increases tacrine hepatotoxicity.
 GST-T1 (?/?) null genotype
 ----------------------------------------
+record_id: 374
 Okada, R., et al.
 2010
 Direct and Rapid Genotyping of Glutathione-S-transferase M1 and T1 from Human Blood Specimens Using the SmartAmp2 Method
@@ -4124,6 +4499,7 @@ Neurology
 Elevation in serum transaminases
 GST-M1 (?/?) null genotype
 ----------------------------------------
+record_id: 375
 Miura, M., et al.
 2007
 Influence of rabeprazole and lansoprazole on the pharmacokinetics of tacrolimus in relation to CYP2C19, CYP3A5 and MDR1 polymorphisms in renal transplant recipients
@@ -4135,6 +4511,7 @@ Gastroenterology
 Patients with genetic polymorphisms need lower dosages of tacrolimus to achieve the target therapeutic index.
 CYP3A5*3/*3
 ----------------------------------------
+record_id: 376
 StefaNovic, N., et al
 2015
 Investigation of CYP 3A5 and ABCB1 gene polymorphisms in the long-term following renal transplantation: Effects on tacrolimus exposure and kidney function
@@ -4146,6 +4523,7 @@ Oncology
 nephrotoxocity, chronic allograft nephropathy 
 ABCB1 3435C>T :  CYP3A5*1/*1 :  CYP3A5*1/*3 :  CYP 3A5*3/*3
 ----------------------------------------
+record_id: 377
 MacKenzie, M., et al.
 2016
 Pharmacogenomics and pharmacogenetics for the intensive careunit: a narrative review
@@ -4157,6 +4535,7 @@ Oncology
 Reduced metabolism leading to enhanced immune effect instead of immune supression (poor metabolizer)
 CYP3A4*3
 ----------------------------------------
+record_id: 378
 O’Sullivan Coyne, G., et al.
 2017
 PARP Inhibitors in Reproductive System Cancers: Current Use and Developments
@@ -4168,6 +4547,7 @@ Oncology
 Resistance to talazoparib- SLFN11 inactivation can predispose to a mechanism of PARPi resistance. It is suggested that talazoparib therapy resistance can be overcome when combined with ATR inhibitors VE-821.
 SLFN11
 ----------------------------------------
+record_id: 379
 Brauch, H., et al.
 2014
 Prediction of tamoxifen outcome by genetic variation of CYP2D6 in post-menopausal women with early breast cancer
@@ -4179,6 +4559,7 @@ Gynecology
 Less tamoxifen benefit and higher odds of disease event in poor metabolizers CYP2D6*4,*6 - Endoxifen concentrations are foud to be higher in ultrarapid and extensive metabilizers and lowest in poor metabolizers. Therefore, tamoxifen benefits of Extensive metabolizers over poor metabolizers. 
 CYP2D6*3,*4,*5,*6 (poor metabolizers): CYP2D6*10,*17,*41(intermediate metabolizers): CYP2D6*1xN,*2xN(ultra-rapid metabolizers)
 ----------------------------------------
+record_id: 380
 Cavallari, L.H., et al.
 2011
 Role of cytochrome P450 genotype in the steps toward personalized drug therapy
@@ -4190,6 +4571,7 @@ Oncology
 Increased estrogen receptor-positive breast cancer reccurence (Neary twofold higher incidence)- Caused by reduced or loss of function of CYP2D6.
 CYP2D6*3:CYP2D6*4:CYP2D6*5
 ----------------------------------------
+record_id: 381
 Li, J., et. al.
 2013
 Association of CYP2D6 metabolizer status with mammographic density change in response to tamoxifen treatment
@@ -4201,6 +4583,7 @@ Oncology
  Mammographic density change in patients with breast cancer
 CYP2D6*10 : CYP2D6*41:  CYP2D6*3 : CYP2D6*4 : CYP2D6*5
 ----------------------------------------
+record_id: 382
 Rodriguez-Antona, C.,et al.
 2015
 PharmacogeNomic biomarkers for personalized cancer treatment 
@@ -4212,6 +4595,7 @@ Oncology
 Patients who were Factor V Leiden carriers had increased toxicity with tamoxifen than patients without this mutation. 
 F5 Factor V Leiden carriers
 ----------------------------------------
+record_id: 383
 Rodriguez-Antona, C.,et al.
 2015
 PharmacogeNomic biomarkers for personalized cancer treatment 
@@ -4223,6 +4607,7 @@ Oncology
 Patients with the prothrombin mutation G20210A were more likely to have toxicity with tamoxifen. 
 F2 G20210A
 ----------------------------------------
+record_id: 384
 Yan, J., et al. 
 2008
 Estrogen Receptor Genotypes Influence Hot Flash prevalence and Composite Score Before and After Tamoxifen Therapy 
@@ -4234,6 +4619,7 @@ Oncology
 In premenopausal women, increased number of the ESR1 PvuII and XbaI CG alleles were associated with increased numbers of hot flashes. Women who had the ESR2-02 AA genotype were less likely to experience tamoxifen induced hot flashes. 
 ESR-02AA
 ----------------------------------------
+record_id: 385
 Bertholee,  D., et al. 
 2017
 Genotypes Affecting the Pharmacokinetics of Anticancer Drugs
@@ -4245,6 +4631,7 @@ Oncology
 Neurotoxicity, diarrhea, and myelosuppresion. 
 CYP2A6*1A : CYP2A6*4A  del :  CYP2A6*4A-H del : CYP2A6*7 : CYP2A6*9 : DPYD c.1905+1G>A : DPYD c.1679T>G : DPYD c.2846A>T  : DPYD c.2579delA  : DPYD c.1129-5923C>G 
 ----------------------------------------
+record_id: 386
 Muir, A., et al. 
 2013
 Clinical Phamacogenetics Implementation Consortium (CPIC) Guidelines for IFNL3 (IL28B) Genotype and Peg Interferon-alpha-Based Regiments 
@@ -4256,6 +4643,7 @@ Infectious Disease
 IFNL3 genotype is the strongest predictor of treatment response to PEG-IFN-alpha and RBV therapy in patients with hepatitis C infection. 
 IFNL3 rs12979860 rs8099917
 ----------------------------------------
+record_id: 387
 Mehanna, R., et. al. 
 2012
 Analysis of CYP2D6 genotype and response to tetrabenazine 
@@ -4267,6 +4655,7 @@ Neurology
 Ultra-rapid metabolizers required a longer titration to recieve optimal benefits of the medication and requires a higher average daily dose when compared to other patients. 
 CYP2D6 ultrarapid metabolizers 
 ----------------------------------------
+record_id: 388
 Lennard, L., et al. 
 1987
 Thiopurine pharmacogenetics in leukemia: correlation of erythrocyte thiopurine methyltransferase activity and 6-thioguanine nucloetide concentrations 
@@ -4278,6 +4667,7 @@ Oncology
 Low TPMT activity is a risk factor for elevated 6-TGN concentrations and the development of severe leukopenia in patients on thiopurine drugs 
 low TPMT activity 
 ----------------------------------------
+record_id: 389
 Rodriguez-Antona, C.,et al.
 2014
 PharmacogeNomic biomarkers for personalized cancer treatment
@@ -4289,6 +4679,7 @@ Oncology
 Neutropenia and toxicity - due to polymorphisms in TPMT
 TPMT polymorphisms
 ----------------------------------------
+record_id: 390
 Higgs, J.E., et al.
 2010
 Are patients with intermediate TPMT activity at increased risk of myelosuppression when taking thiopurine medications?
@@ -4300,6 +4691,7 @@ Oncology
 Increased risk of myelosuppression 
 TPMT *2: TPMT *3A: TPMT *3B: TPMT *3C: TPMT *4
 ----------------------------------------
+record_id: 391
 Cavallari, L.H., et al.
 2011
 Role of cytochrome P450 genotype in the steps toward personalized drug therapy
@@ -4311,6 +4703,7 @@ Psychiatry
 Risk for ventricular arrhytmia - due to loss-of-function of CYP2D6 genotype
 CYP2D6 loss-of-function
 ----------------------------------------
+record_id: 392
 Eum, S., et al.
 2016
 Pharmacogenetic tests for antipsychotic medications: clinical implications and considerations
@@ -4322,6 +4715,7 @@ Psychiatry
 QTc interval prolongation
 CYP2D6 *9 :  CYP2D6 *10 :  CYP2D6*17 : CYP2D6*29 : CYP2D6*36 :  CYP2D6 *41 
 ----------------------------------------
+record_id: 393
 Bertholee,  D., et al. 
 2017
 Genotypes Affecting the Pharmacokinetics of Anticancer Drugs
@@ -4333,6 +4727,7 @@ Oncology
 Hematological toxicity, mucositis ,myelodysplastic syndromes and acute Non-lymphocytic leukemia 
 GSTP1 (c.341C>T) rs1138272
 ----------------------------------------
+record_id: 394
 Beitelshees, A.L., et al.
 2015
 Personalized antiplatelet and anticoagulation therapy: applications and significance of pharmacogenomics
@@ -4344,6 +4739,7 @@ Cardiology
  SLC01B1*5 loss of function variant were associated with higher ticagrelor and active metabolite levels. 
 SLC01B1*5
 ----------------------------------------
+record_id: 395
 Evans, W.E., et al.
 2003
 Pharmacogenomics — Drug Disposition, Drug Targets, and Side Effects
@@ -4355,6 +4751,7 @@ Cardiology
 KCNE2 variants have been associated with the development of a very long QT interval after therapy with trimethoprim–sulfamethoxazole, with sulfamethoxazole inhibiting potassium channels encoded by the KCNE2 (8T?A) variant
 KCNE2 (8T-A)
 ----------------------------------------
+record_id: 396
 Hansen, T., et al.
 1998
 Decreased tolbutamide-stimulated insulin secretion in healthy subjects with sequence variants in the high-affinity sulfonylurea receptor gene
@@ -4366,6 +4763,7 @@ Endocrinology
 Decreased insulin response
 Asp673Asn:Ser1369Ala:Thr759Thr
 ----------------------------------------
+record_id: 397
 Ingelman-Sundberg, M. 
 2005
 Genetic polymorphisms of cytochrome P450 2D6 (CYP2D6): clinical consequences, evolutionary aspects and functional diversity 
@@ -4377,6 +4775,7 @@ Urology
 Different mutations of the CYP2D6 gene affect the rate of metabolism of tolterodine. 
 CYP2D6*10
 ----------------------------------------
+record_id: 398
 Luzzatto, L., et al.
 2014
 G6PD deficiency: a classic example of pharmacogenetics with on-going clinical implications
@@ -4388,6 +4787,7 @@ Oncology
 Acute hemolytic anemia due to G6PD deficiency
 G6PD 
 ----------------------------------------
+record_id: 399
 Cavallari, L.H., et al.
 2011
 Role of cytochrome P450 genotype in the steps toward personalized drug therapy
@@ -4399,6 +4799,7 @@ Anesthesiology
 Decreased plasma levels of O-desmethyltramado and reduced analgesic effects in patients woth polymorphic poor metabolizer CYP2D6.
 
 ----------------------------------------
+record_id: 400
 MacKenzie, M., et al.
 2016
 Pharmacogenomics and pharmacogenetics for the intensive careunit: a narrative review
@@ -4410,6 +4811,7 @@ Neurology
 Increased analgesic effect in poor metabolizer
 CYP2D6*3: CYP2D6*4: CYP2D6*5: CYP2D6*6
 ----------------------------------------
+record_id: 401
 Pratt, V., et al. 
 2017
 Dabrafenib Therapy and BRAF and G6PD Genotype.
@@ -4421,6 +4823,7 @@ Oncology
 Dabrafenib can be used as a single agent to treat melanoma with the BRAF V600E variant, or in combination with the MEK inhibitor trametinib to treat melanoma with BRAF V600E or V600K variants.
 BRAF 600E/ 600K 
 ----------------------------------------
+record_id: 402
 Pratt, V., et al. 
 2017
 Dabrafenib Therapy and BRAF and G6PD Genotype.
@@ -4432,6 +4835,7 @@ Oncology
 Patients with G6PD deficiency can have hemolytic anemia while uisng dabrafenib
 G6PD deficiency 
 ----------------------------------------
+record_id: 403
 Robert, C., et al. 
 2015
 Improved Overall Survival in Melanoma with Combined Dabrafenib and Trametinib
@@ -4443,6 +4847,7 @@ Oncology
 The combination of dabrafenib with trametinib was superior to vemurafenib monotherapy in melanoma patients with BRAF V600E or C600K mutations 
 BRAF V600E or V600K
 ----------------------------------------
+record_id: 404
 Katoh, M., et al.
 2007
 Glucuronidation of Antiallergic Drug, Tranilast: Identification of Human UDP-Glucuronosyltransferase Isoforms and Effect of Its Phase I Metabolite
@@ -4454,6 +4859,7 @@ Pulmonary
 Unconjugated hyper-bilirubinaemia in Gilbert's syndrome
 UGT1A1*28
 ----------------------------------------
+record_id: 405
 CoNolly, R., et al.
 2009
 The role of pharmacogenetics in selection of breast cancer treatment 
@@ -4465,6 +4871,7 @@ Oncology
 Genetic polymorphisms in the CYP2D6 gene and pharmacologic inhibition of the enzyme have been associated with altered tamoxifen metabolism, adverse event profile, and clinical benefit.
 CYP2D6 intermediate and poor metabolizers
 ----------------------------------------
+record_id: 406
 Piccart-Gebhard, et. al. 
 2005
 Trastuzumab after Adjuvant Chemotherapy in HER2-Positive Breast Cancer
@@ -4476,6 +4883,7 @@ Oncology
 Trastuzumab was beneficial in woman with HER-2 positive breast cancer after completion of adjuvant chemotherapy 
 HER2-positive
 ----------------------------------------
+record_id: 407
 Warrell, R., et al. 
 1991
 Differentiation Therapy of Acute Promyelocytic Leukemia with TretiNoin (All-trans-RetiNoic Acid)
@@ -4487,6 +4895,7 @@ Oncology
 All patients who responded to treatment with tretinoin who were tested by Northern blot analysis had expression of aberrant RAR-?.
 RAR-alpha q22;ql2–21
 ----------------------------------------
+record_id: 408
 Hicks, et al. 
 2013
 Clinical Pharmacogenetics Implementation Consortium Guideline for CYP2D6 and CYP2C19 Genotypes and Dosing of Tricyclic Antidepressants
@@ -4498,6 +4907,7 @@ Psychiatry
 Polymorphisms in CYP2C19 affect the efficacy and safety of tricyclics,
 CYP2C19*3/*3
 ----------------------------------------
+record_id: 409
 Della-Morte, D., et al.
 2014
 Pharmacogenomics and pharmacogenetics of thiazolidinediones: role in diabetes and cardiovascular risk factors.
@@ -4509,6 +4919,7 @@ Endocrinology
 Abnormal increase in ALT levels - due to the combined null polymorphism of GSTT1*600436 and GSTM1*138350. Troglitazone induced liver injury - in patients with CYP2C19*1,*2,*3:CYP2D6*1,*2,*5,*10 polymorphisms. Weight gain - in Pro12Ala polymorphism. 
 GSTT1*600436:GSTM1*138350:CYP2C19*1,*2,*3:CYP2D6*1,*2,*5,*10:Pro12Ala
 ----------------------------------------
+record_id: 410
 Okada, R., et al.
 2010
 Direct and Rapid Genotyping of Glutathione-S-transferase M1 and T1 from Human Blood Specimens Using the SmartAmp2 Method
@@ -4520,6 +4931,7 @@ Endocrinology
 Elevation in serum transaminases
 GST-T1 (?/?) null genotype
 ----------------------------------------
+record_id: 411
 Okada, R., et al.
 2010
 Direct and Rapid Genotyping of Glutathione-S-transferase M1 and T1 from Human Blood Specimens Using the SmartAmp2 Method
@@ -4531,6 +4943,7 @@ Endocrinology
 Elevation in serum transaminases
 GST-M1 (?/?) null genotype
 ----------------------------------------
+record_id: 412
 Basile, V. et. al
 2000
 A functional polymorphism of the cytochrome P450 1A2 (CYP1A2) gene: association with tardive dyskinesia in schizophrenia 
@@ -4542,6 +4955,7 @@ Psychiatry
 Polymorphism in CYP1A2 may serve as a risk factor for the development of tardive dyskinesia in patients with schizophrenia taking typical antipsychotics 
 CYP1A2 C/C genotype
 ----------------------------------------
+record_id: 413
 Basile, V. et. al
 2000
 A functional polymorphism of the cytochrome P450 1A2 (CYP1A1) gene: association with tardive dyskinesia in schizophrenia
@@ -4553,6 +4967,7 @@ Psychiatry
 Tardive dyskinesia
 Bsp120I
 ----------------------------------------
+record_id: 414
 Alvarellos, M.L., et al.
 2015
 PharmGKB Summary: Succinylcholine Pathway, Pharmacokinetics/Pharmacodynamics
@@ -4564,6 +4979,7 @@ Anesthesiology
 Malignant hyperthermia - elevated basal calcium in skeletal muscle
 RYR1 (rs193922747:rs118192161:rs193922753: rs1801086: rs121918592: rs118192116: rs118192162: Rs111888148:  rs193922770: rs193922772: rs118192172: rs118192175: rs118192163: rs118192176: rs118192177: rs118192177: rs112563513: rs193922802: rs193922807: rs193922809: rs121918593: rs28933396: rs193922816: rs118192122: rs28933397:  rs121918594: rs118192178: rs118192167: rs121918595: rs193922876: rs193922878: rs63749869: rs118192170)
 ----------------------------------------
+record_id: 415
 Galluzzo, M., et al. 
 2016
 IL12B (p40) Gene Polymorphisms Contribute to Ustekinumab Response prediction in Psoriasis
@@ -4575,6 +4991,7 @@ Dermatology
 The presence of the GG genotype on the IL12B rs6887695 SNP and absence of the AA genotype on the IL12B rs3212227 SNP significantly increase the probability of therapeutic success in HLA-Cw6 positive patients.
 CG genotype on IL12B rs6887695 SNP
 ----------------------------------------
+record_id: 416
 Cornett, E., et al. 
 2017
 Medication-Induced Tardive Dyskinesia: A Review and Update
@@ -4586,6 +5003,7 @@ Neurology
 This review highlights the need for a prevention-based focus of TD treatment that starts with a clinical consideration of pharmacologic choices related to each individual patient's history.
 CYP2D6 slow, intermediate and ultrarapid metabolizers
 ----------------------------------------
+record_id: 417
 Lheureux, P., et al. 
 2009
 Carnitine in the treatment of vaploric-acid induced toxicity 
@@ -4597,6 +5015,7 @@ Neurology
 Urea cycle disorders increase the risk of valproic acid toxicity. 
 
 ----------------------------------------
+record_id: 418
 Su, F., et al. 
 2012
 RAS mutations in cutaneous squamous-cell carincomas in patients treated with BRAF inhibitors 
@@ -4608,6 +5027,7 @@ Oncology
 The anti-tumor activit of vemurafenib is against BRAF V600E mutant cells
 BRAF V600E 
 ----------------------------------------
+record_id: 419
 Jang, S., et al.
 2013
 Which drug, and when, for patients with BRAF-mutant melanoma?
@@ -4619,6 +5039,7 @@ Oncology
 growth of cutaneous squamous-cell carcinomas
 BRAF, mainly at codon 600, which result in constitutive activation of the MAPK pathway
 ----------------------------------------
+record_id: 420
 William, L. 
 2016
 Venetoclax Shows Efficacy In Refractory 17p[del] CLL
@@ -4630,6 +5051,7 @@ Oncology
 Patients with hard to treat CLL with a 17p deletion benefit from BCL2 inhibitor venetoclax treatment 
 Chromosome 17p deletion
 ----------------------------------------
+record_id: 421
 Lessard, E., et al. 
 1999
 Influence of CYP2D6 activity on the disposition and cardiovascular toxicity of the antidepressant agent venlafaxine in humans 
@@ -4641,6 +5063,7 @@ Psychiatry
 Poor metabolizers have decreased venlafaxine clearance and this mutation may also be associated with cardiovascular toxicity. 
 CYP2D6 poor metabolizers 
 ----------------------------------------
+record_id: 422
 Vinetti, M., et al.
 2011
 Severe acute cardiomyopathy associated with venlafaxine overdose and possible role of CYP2D6 and CYP2C19 polymorphisms.
@@ -4652,6 +5075,7 @@ Psychiatry
 Cardiotoxixity- due to prolonged or absent metabolism of Venlafaxine and therefore an increase in the medication concentration caused by CYP2C19 and CYP2D6 polymorphisms.
 CYP2D6*5
 ----------------------------------------
+record_id: 423
 Rocha, J.C.C, et al.
 2017
 Pharmacogenetics of outcome in children with acute lymphoblastic leukemia
@@ -4663,6 +5087,7 @@ Oncology
 Drug resistance, hematological relapse 
 TYMS 3/3
 ----------------------------------------
+record_id: 424
 MacKenzie, M., et al.
 2016
 Pharmacogenomics and pharmacogenetics for the intensive careunit: a narrative review
@@ -4674,6 +5099,7 @@ Infectious Disease
 therapeutic failure with Voriconazole in Ultra metabolizers
 CYP2C19*2
 ----------------------------------------
+record_id: 425
 Gopisankar, M. 
 2017
 CYP2D6 pharmacogenomics 
@@ -4685,6 +5111,7 @@ Psychiatry
 Mutations in CYP2D6 can alter the metabolism of vortioxetine which may increase the risk of side effects in poor metabolizers. 
 CYP2D6 poor metabolizers 
 ----------------------------------------
+record_id: 426
 Dean, L.
 2016
 Warfarin Therapy and the Genotypes CYP2C9 and VKORC1
@@ -4696,6 +5123,7 @@ Cardiology/Hematology
 Increased bleeding risk
 CYP2C9*2 :  CYP2C9*3 
 ----------------------------------------
+record_id: 427
 Dean, L.
 2016
 Warfarin Therapy and the Genotypes CYP2C9 and VKORC1
@@ -4707,6 +5135,7 @@ Cardiology/Hematology
 Increased bleeding risk
 VKORC1-1639G>A
 ----------------------------------------
+record_id: 428
 Krasowski, M. 
 2015
 Current Diagnosis & Treatment : Family Medicine Chapter 49: Pharmacogenomics
@@ -4718,6 +5147,7 @@ Cardiology/Hematology
 Increased risk of bleeding at standard doses
 CYP2C9?2 : CYP2C9?3
 ----------------------------------------
+record_id: 429
 Loebstein, R., et al.
 2007
 A coding VKORC1 Asp36Tyr polymorphism predisposes to warfarin resistance.
@@ -4729,6 +5159,7 @@ Cardiology/Hematology
 Increased resistance to anticoagulation 
 VKORC1 Asp36Tyr
 ----------------------------------------
+record_id: 430
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -4740,6 +5171,7 @@ Cardiology/Hematology
 Higher risk of thrombus formation, increased risk of severe bleeding
 CYP2C9*1:  CYP2C9*2 :  CYP2C9*3 : VKORC1  G?A ?1639 
 ----------------------------------------
+record_id: 431
 Wei, C., et al.
 2012
 Pharmacogenomics of adverse drug reactions: implementing personalized medicine
@@ -4751,6 +5183,7 @@ Cardiology/Hematology
 Higher risk of thrombus formation
 VKORC1 G?A ?1639
 ----------------------------------------
+record_id: 432
 Cavallari, L.H., et al.
 2011
 Role of cytochrome P450 genotype in the steps toward personalized drug therapy
@@ -4762,6 +5195,7 @@ Cardiology/Hematology
 Increased risk of thrombosis and bleeding with subtherapeutic anticoagulation - The CYP2C9 genotype variability and reduced function allele leads to a decrease warfarin clearance. 
 CYP2C9*3:CYP2C9*2:CYP2C9*5:CYP2C9*6:CYP2C9*8:CYP2C9*11
 ----------------------------------------
+record_id: 433
 D'Andrea, G., et al.
 2005
 A polymorphism in the VKORCI gene is associated with an interindividual variability in the dose-anticoagulant effect of warfarin
@@ -4773,6 +5207,7 @@ Cardiology/Hematology
 To prevent bleeding, the mean adjusted dose of Warfarin should be adjusted depending on the present polymorphism. Mean adjusted dose of Warfarin was found to be lower when the following polymorphic genes present: 1173TT, 3730GG, CYP2C9*2, and CYP2C9*3, when compared to the following polymorphisms which need a higher dose of warfarin: 1173CT, 1173CC, and CYP2C9*1.
 VKORC1*1173CC>T(rs9934438):VKORC1*3730G>A(rs7294):CYP2C9*2:CYP2C9*3
 ----------------------------------------
+record_id: 434
 Guruprasad, P.A., et al.
 1999
 Association of of polymorphisms in the cytochrome P450 CYP269 with warfarin dose requirement and risk of bleeding complications
@@ -4784,6 +5219,7 @@ Cardiology/Hematology
 Hemorhage in patients with CYP2C9 allelic variant inducing lower than average warfarin dose requirement
 CYP2C9*1:CYP2C9*2:CYP2C9*3
 ----------------------------------------
+record_id: 435
 MacKenzie, M., et al.
 2016
 Pharmacogenomics and pharmacogenetics for the intensive careunit: a narrative review
@@ -4795,6 +5231,7 @@ Cardiology/Hematology
 Patients with one or more variant CYP2C9 alleles (CYP2C9*2, CYP2C9*3) are at increased risk of excessive anticoagulation (INR exceeding 3) and bleeding. They require lower dosages of warfarin, particularly during initiation of therapy.
 CYP2C9*2:CYP2C9*3
 ----------------------------------------
+record_id: 436
 Rieder, M.J., et al.
 2005
 Effect of VKORC1 Haplotypes on Transcriptional Regulation and Warfarin Dose
@@ -4806,6 +5243,7 @@ Cardiology/Hematology
 VKORC1 haplotypes can be used to stratify patients into low-, intermediate-, and high-dose warfarin groups and may explain differences in dose requirements among patients of different ancestries. 
  VKORC1 rs9923231 (3673G?A)
 ----------------------------------------
+record_id: 437
 Reiner, A., et al. 
 2010
 PROC, PROCR, and PROS1 polymorphisms, plasma anticoagulant phenotypes, and risk of cardiovascular disease and mortality in older adults: the Cardiovascular Health Study
@@ -4817,6 +5255,7 @@ Cardiology/Hematology
 Mutations in PROS1 were associated with slightly lower protein S levels 
 PROS1 rs4857343
 ----------------------------------------
+record_id: 438
 Reiner, A., et al. 
 2010
 PROC, PROCR, and PROS1 polymorphisms, plasma anticoagulant phenotypes, and risk of cardiovascular disease and mortality in older adults: the Cardiovascular Health Study
@@ -4828,6 +5267,7 @@ Cardiology/Hematology
 Mutations in PROC were associated with lower protein C levels
 PROC rs2069901 
 ----------------------------------------
+record_id: 439
 Asensi, V., et al.
 2015
 Can antiretroviral therapy be tailored to each human immunodeficiency virus-infected individual? Role of pharmacogenomics.
@@ -4839,6 +5279,7 @@ Infectious Disease
 Increased risk of peripheral neuropathy and lipodystrophy in Spanish populations - due to Stavudine intake in patient with decreases TS expression and MTHFR polymorphism
 TS:MTHFR1298(sn1801131)
 ----------------------------------------
+record_id: 440
 Haroldsen, P., et al.
 2014
 Genetic variation in aryl N-acetyltransferase results in significant differences in the pharmacokinetic and safety profiles of amifampridine (3,4-diaminopyridine) phosphate
@@ -4850,6 +5291,7 @@ Neurology
 Adverse reactions such as seizures and hypersensitivity was seen in people with genetic variants in N-acetyltransferase gene 2 (NAT2) (poor metabolizers/ slow acetylators  )
 
 ----------------------------------------
+record_id: 441
 Cruz, M. P., et al.  
 2016
 Aripiprazole Lauroxil (Aristada): An Extended-Release, Long-Acting Injection For the Treatment of Schizophrenia.
@@ -4861,6 +5303,7 @@ Psychiatry
 To avoid adverse reaction, dosage adjustments are required when aripiprazole lauroxil is administered to CYP2D6 poor metabolizers. Adverse side effects include: cerebrovascular adverse reactions, including stroke, in elderly patients with dementia-related psychosis; neuroleptic malignant syndrome; tardive dyskinesia; metabolic abnormalities, such as hyperglycemia/diabetes mellitus, dyslipidemia, and weight gain; orthostatic hypotension; leukopenia, neutropenia, and agranulocytosis; seizures; potential for cognitive and motor impairment; disruption of body temperature regulation; and dysphagia. 
 CYP2D6*9,*10, and *41, CYP2D6*3?*6
 ----------------------------------------
+record_id: 442
 Danese, E.
 2012
 Impact of the CYP4F2 p.V433M Polymorphism on Coumarin Dose Requirement: Systematic Review and Meta-Analysis
@@ -4872,6 +5315,7 @@ Hematology
 CYP4F2 p.V433M polymorphism affects daily maintenance coumarin dose, is highly significantly associated with increased daily dosage of coumarin anticoagulant.
 CYP4F2 p.V433M
 ----------------------------------------
+record_id: 443
 Jacobson, I.M., et al. 
 2016
 Prevalence and Impact of Baseline NS5A Resistance-Associated Variants (RAVs) on the Efficacy of Elbasvir/Grazoprevir (EBR/GZR) Against GT1a Infection - 16 Weeks vs 12 weeks
@@ -4883,6 +5327,7 @@ Infectious Disease
 Lower the efficacy of the drug. 
 NS5A*30:NS5A*31:NS5A*93 
 ----------------------------------------
+record_id: 444
 Pascual, T.
 2017
 Everolimus pharmacokinetics and its exposure–toxicity relationship in patients with thyroid cancer
@@ -4894,6 +5339,7 @@ Oncology
 Mucositis
 ABCB1 rs1045642
 ----------------------------------------
+record_id: 445
 Pascual, T.
 2017
 Everolimus pharmacokinetics and its exposure–toxicity relationship in patients with thyroid cancer
@@ -4905,6 +5351,7 @@ Oncology
 Hyperglycemia
 PIK3R1 rs10515074
 ----------------------------------------
+record_id: 446
 Pascual, T.
 2017
 Everolimus pharmacokinetics and its exposure–toxicity relationship in patients with thyroid cancer
@@ -4916,6 +5363,7 @@ Oncology
 Non-infectious pneumonitis
 RAPTORrs9906827
 ----------------------------------------
+record_id: 447
 Pascual, T.
 2017
 Everolimus pharmacokinetics and its exposure–toxicity relationship in patients with thyroid cancer
@@ -4927,6 +5375,7 @@ Oncology
 Causes higher everolimus blood concentration
 CYP3A4 rs35599367
 ----------------------------------------
+record_id: 448
 Dezentjé, V.O., et al.
 2014
 CYP2D6 genotype in relation to hot flashes as tamoxifen side effect in a Dutch cohort of the tamoxifen exemestane adjuvant multinational (TEAM)trial.
@@ -4938,6 +5387,7 @@ Oncology
 Hot flashes
 -
 ----------------------------------------
+record_id: 449
 MacKenzie, M., et al.
 2016
 Pharmacogenomics and pharmacogenetics for the intensive careunit: a narrative review
@@ -4949,6 +5399,7 @@ Anesthesiology
 Reduced metabolism leading to increased analgesic effect in poor metabolizer
 CYP3A4*3
 ----------------------------------------
+record_id: 450
 Zhang, W., et al. 
 2011
 Influence of CYP3A5*3 polymorphism and interaction between CYP3A5*3 and CYP3A4*1G polymorphisms on post-operative fentanyl analgesia in Chinese patients undergoing gynaecological surgery.
@@ -4960,6 +5411,7 @@ Anesthesiology
 Variation of post-operative fentanyl analgesic effect
 CYP3A5*3 : CYP3A4*1G
 ----------------------------------------
+record_id: 451
 Hicks, J.K., et al.
 2015
 Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for CYP2D6 and CYP2C19 genotypes and dosing of selective serotonin reuptake inhibitors.
@@ -4971,6 +5423,7 @@ Psychiatry
 Approximately 7% of the Normal population has a genetic code that leads to reduced levels of activity of CYP2D6 enzyme. Such individuals have been referred to as “poor metabolizers” (PM) of drugs such as debrisoquin, dextromethorphan, and tricyclic antidepressants. While None of the drugs studied for drug interactions significantly affected the pharmacokinetics of fluvoxamine, an in vivo study of fluvoxamine single-dose pharmacokinetics in 13 PM subjects demonstrated altered pharmacokinetic properties compared to 16 “extensive metabolizers” (EM): mean Cmax, AUC, and half-life were increased by 52%, 200%, and 62%, respectively, in the PM compared to the EM group. This suggests that fluvoxamine is metabolized, at least in part, by CYP2D6. Caution is indicated in patient kNown to have reduced levels of cytochrome P450 2D6 activity and those receiving concomitant drugs kNown to inhibit this cytochrome P450 isoenzyme (e.g., quinidine).
 Carriers of poor metabolizer genotype
 ----------------------------------------
+record_id: 452
 Jacobson, I.M., et al. 
 2016
 Prevalence and Impact of Baseline NS5A Resistance-Associated Variants (RAVs) on the Efficacy of Elbasvir/Grazoprevir (EBR/GZR) Against GT1a Infection - 16 Weeks vs 12 weeks
@@ -4982,6 +5435,7 @@ Infectious Disease
 Lower the efficacy of the drug. 
 NS5A*30:NS5A*31:NS5A*94
 ----------------------------------------
+record_id: 453
 Campa, D. 
 2007
 Association of ABCB1/MDR1 and OPRM1 Gene Polymorphisms with Morphine Pain Relief 
@@ -4993,6 +5447,7 @@ Anesthesiology
 Variation of pain relief in patients with corresponding genes' polymorphism  
 ABCB1/MDR1: SNPC3435TOPRM1: A80G SNP
 ----------------------------------------
+record_id: 454
 Bins, S.,
 2016
 Association between single nucleotide polymorphisms and side effects in nivolumab treated NSCLC patients
@@ -5004,6 +5459,7 @@ Oncology
 Higher odds of grade >3 toxicity and elevated liver enzymes
 PTPN11 333-223A>G 
 ----------------------------------------
+record_id: 455
 Dalén, P., et al. 
 2000
 Inhibition of debrisoquine hydroxylation with quinidine in subjects with three or more functional CYP2D6 genes
@@ -5015,6 +5471,7 @@ Cardiology
 Treatment resistance - CYP2D6 ultrarapid metabolic activity due to duplication/amplification of the functional genes leads to inadequate drug plasma concentrations and undesirable side-effects. Since quinidine has shown to be a CYP2D6 inhibitor when given in low doses. It is thought that ultrarapid metabolizers should receive low doses of quinidine instead of higher doses of the drug (which further decrease the therapeutic effect of quinidine by increasing its metabolism and create toxic metabolites).
 CYP2D*3:CYP2D*4:CYP2D*13 (ultrarapid metabolizers)
 ----------------------------------------
+record_id: 456
 Qingtao, H., et al.
 2015
 Association Between SLCO1B1 Gene T521C Polymorphism and Statin-Related Myopathy Risk
@@ -5026,6 +5483,7 @@ Cardiology
 Statin-related myopathy after taking simvastatin along with SLCO1B1 Gene T521C Polymorphism
 SLCO1B1 (T521C)
 ----------------------------------------
+record_id: 457
 Maggo, S.D., et al.
 2011
 Clinical implications of pharmacogenetic variation on the effects of statins.
@@ -5037,6 +5495,7 @@ Cardiology
 Statin induced myopathy- Due to polymorphisms in CYP2D6, CYP3A4, CYP3A5, and also SLCO1B1. SLCO1B1 gene encodes an anion transport protein responsible for hepatic uptake of statins. The pharmacodynamic profile of statins is also affected by polymorphisms in APO-E, CETP, and the HMG-CoA reductase genes.
 Variants in CYP2D6:CYP3A4:CYP3A5:SLCO1B1:APO-E:CETP:HMG-CoA reductase
 ----------------------------------------
+record_id: 458
 Asensi, V., et al.
 2015
 Can antiretroviral therapy be tailored to each human immunodeficiency virus-infected individual? Role of pharmacogenomics.
@@ -5048,6 +5507,7 @@ Infectious Disease
 Increased risk of peripheral neuropathy and lipodystrophy in Spanish populations - due to Stavudine intake in patient with decreases TS expression and MTHFR polymorphism
 TS:MTHFR1298(sn1801131)
 ----------------------------------------
+record_id: 459
 Asensi, V., et al.
 2015
 Can antiretroviral therapy be tailored to each human immunodeficiency virus-infected individual? Role of pharmacogenomics.
@@ -5059,6 +5519,7 @@ Infectious Disease
 Renal proximal tubulopathy increased risk in French populations - due to ABCC2 (MRP2)1249G>A polymorphism and TeNofovir administration 
 ABCC2 (MRP2)1249G>A
 ----------------------------------------
+record_id: 460
 Ghodke-Puranik, Y., et al. 
 2014
 Valproic acid pathway: pharmacokinetics and pharmacodynamics
