@@ -3137,7 +3137,7 @@ Luzzatto, L., et al.
 G6PD deficiency: a classic example of pharmacogenetics with on-going clinical implications
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4153881/
 Nitrofurantoin
-G6PD deficiency
+G6PD 
 pre/post
 Infectious Disease
 acute hemolytic anemia due to G6PD deficiency
