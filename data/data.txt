@@ -9,7 +9,7 @@ DPD
 pre/post
 Oncology
 Myelosuppression, central neurotoxicity, and diarhea
-DPYD c.1905+1G>A rs3918290 :  DPYD c.1679T>G  rs55886062 :  DPYD c.2846A>T rs67376798 : DPYD c.2579delA rs746991079 : DPYD c.1129-5923C>G  rs75017182
+DPD c.1905+1G>A rs3918290 :  DPD c.1679T>G  rs55886062 :  DPD c.2846A>T rs67376798 : DPD c.2579delA rs746991079 : DPD c.1129-5923C>G  rs75017182
 ----------------------------------------
 record_id: 1
 Gross, E., et al. 
@@ -17,7 +17,7 @@ Gross, E., et al.
 Strong association of common dihydropyrimidine dehydrogenase gene polymorphism with Fluoropyrimidine-Related Toxicity in Cancer Patients
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0004003
 5-Fluorouracil
-DPYD
+DPD
 pre/post
 Oncology
 Neutropenia, thrombopenia, mucositis, diarrhea, nausea and vomiting, neurotoxicity, cardiac toxicity, alopecia and hand-foot-syndrome 
@@ -26,14 +26,14 @@ c.496A>G (p.Met166Val)
 record_id: 2
 Meulendijks, D., et al.
 2015
-Clinical relevance of DPYD variants c.1679T>G, c.1236G>A/HapB3, and c.1601G>A as predictors of severe fluoropyrimidine-associated toxicity: a systematic review and meta-analysis of individual patient data.
+Clinical relevance of DPD variants c.1679T>G, c.1236G>A/HapB3, and c.1601G>A as predictors of severe fluoropyrimidine-associated toxicity: a systematic review and meta-analysis of individual patient data.
 https://www.ncbi.nlm.nih.gov/pubmed/26603945
 5-fluorouracil
-DPYD
+DPD
 pre/post
 Oncology
 Myelosuppression, central neurotoxicity, and diarhea
-DPYD c.1679T>G :  DPYD c.1236G>A/HapB3
+DPD c.1679T>G :  DPD c.1236G>A/HapB3
 ----------------------------------------
 record_id: 3
 Van Kuilenburg, A. 
@@ -41,7 +41,7 @@ Van Kuilenburg, A.
 Dihydropyrimidine dehydrogenase and the efficacy and toxicity of 5-fluorouracil
 http://www.ejcancer.com/article/S0959-8049(03)01069-4/fulltext
 5-fluorouracil
-DPYD 
+DPD 
 pre/post
 Oncology
 Myelosuppression, central neurotoxicity and diarrhea
