@@ -5118,7 +5118,7 @@ Warfarin Therapy and the Genotypes CYP2C9 and VKORC1
 https://www.ncbi.nlm.nih.gov/books/NBK84174/
 Warfarin
 CYP2C9
-pre/post
+post
 Cardiology/Hematology
 Increased bleeding risk
 CYP2C9*2 :  CYP2C9*3 
@@ -5130,7 +5130,7 @@ Warfarin Therapy and the Genotypes CYP2C9 and VKORC1
 https://www.ncbi.nlm.nih.gov/books/NBK84174/
 Warfarin
 VKORC1
-pre/post
+post
 Cardiology/Hematology
 Increased bleeding risk
 VKORC1-1639G>A
@@ -5142,7 +5142,7 @@ Current Diagnosis & Treatment : Family Medicine Chapter 49: Pharmacogenomics
 http://accessmedicine.mhmedical.com/content.aspx?bookid=1415&sectionid=77060357
 Warfarin
 CYP2C9 
-pre/post
+post
 Cardiology/Hematology
 Increased risk of bleeding at standard doses
 CYP2C9*2 : CYP2C9*3
@@ -5154,7 +5154,7 @@ A coding VKORC1 Asp36Tyr polymorphism predisposes to warfarin resistance.
 http://www.bloodjournal.org/content/109/6/2477.long?sso-checked=true
 Warfarin
 VKORC1
-pre/post
+post
 Cardiology/Hematology
 Increased resistance to anticoagulation 
 VKORC1 Asp36Tyr
@@ -5166,7 +5166,7 @@ Pharmacogenomics of adverse drug reactions: implementing personalized medicine
 https://academic.oup.com/hmg/article/21/R1/R58/657865/Pharmacogenomics-of-adverse-drug-reactions
 Warfarin
 CYP2C9 : VKORC1
-pre/post
+post
 Cardiology/Hematology
 Higher risk of thrombus formation, increased risk of severe bleeding
 CYP2C9*1:  CYP2C9*2 :  CYP2C9*3 : VKORC1  G->A -1639 
@@ -5178,7 +5178,7 @@ Pharmacogenomics of adverse drug reactions: implementing personalized medicine
 https://academic.oup.com/hmg/article/21/R1/R58/657865/Pharmacogenomics-of-adverse-drug-reactions
 Warfarin
 VKORC1
-pre/post
+post
 Cardiology/Hematology
 Higher risk of thrombus formation
 VKORC1 G->A -1639
@@ -5214,7 +5214,7 @@ Association of of polymorphisms in the cytochrome P450 CYP269 with warfarin dose
 https://www.ncbi.nlm.nih.gov/pubmed/10073515
 Warfarin
 CYP2C9
-pre/post 
+post 
 Cardiology/Hematology
 Hemorhage in patients with CYP2C9 allelic variant inducing lower than average warfarin dose requirement
 CYP2C9*1:CYP2C9*2:CYP2C9*3
@@ -5226,7 +5226,7 @@ Pharmacogenomics and pharmacogenetics for the intensive careunit: a narrative re
 https://www.ncbi.nlm.nih.gov/pubmed/27752976
 Warfarin
 CYP2C9
-pre/post
+post
 Cardiology/Hematology
 Patients with one or more variant CYP2C9 alleles (CYP2C9*2, CYP2C9*3) are at increased risk of excessive anticoagulation (INR exceeding 3) and bleeding. They require lower dosages of warfarin, particularly during initiation of therapy.
 CYP2C9*2:CYP2C9*3
@@ -5250,7 +5250,7 @@ PROC, PROCR, and PROS1 polymorphisms, plasma anticoagulant phenotypes, and risk 
 https://search.proquest.com/openview/49ff31618ed85f64ae23ae1addba8e6f/1?pq-origsite=gscholar&cbl=27990
 Warfarin
 PROS1
-pre/post
+post
 Cardiology/Hematology
 Mutations in PROS1 were associated with slightly lower protein S levels 
 PROS1 rs4857343
@@ -5262,7 +5262,7 @@ PROC, PROCR, and PROS1 polymorphisms, plasma anticoagulant phenotypes, and risk 
 https://search.proquest.com/openview/49ff31618ed85f64ae23ae1addba8e6f/1?pq-origsite=gscholar&cbl=27990
 Warfarin
 PROC
-pre/post
+post
 Cardiology/Hematology
 Mutations in PROC were associated with lower protein C levels
 PROC rs2069901 
