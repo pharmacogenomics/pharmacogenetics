@@ -5531,3 +5531,16 @@ Neurology
 POLG polymorphisms are associated with mirgrane, epilepsy and Parkinson's disease; all of which are indications for the use of valproic acid. Additionally, functional POLG polymorphisms may increase the risk of liver failure in patients on VPA. 
 POLG rs226957
 ----------------------------------------
+record_id: 461
+Relling, M., et al. 
+2018
+Clinical Pharmacogenetics Implementation Consortium Guideline for Thiopurine Dosing Based on TPMT and NUDT 15 Genotypes: 2018 Update
+https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/cpt.1304
+Azathioprine
+TPMT
+pre/post
+Oncology
+Increased risk of thiopurine‐related leukopenia, neutropenia, myelosuppression.
+Intermediate metabolizer: *1/*2 , *1/*3A , *1/*3B , *1/*3C , *1/*4, *2/*8 , *3A/*7
+Poor metabolizer: *3A/*3A , *2/*3A , *3A/*3C , *3C/*4 , *2/*3C , *3A/*4Increased risk of thiopurine‐related leukopenia, neutropenia, myelosuppression.
+----------------------------------------
