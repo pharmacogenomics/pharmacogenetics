@@ -509,7 +509,7 @@ Asensi, V., et al.
 Can antiretroviral therapy be tailored to each human immunodeficiency virus-infected individual? Role of pharmacogenomics.
 https://www.ncbi.nlm.nih.gov/pubmed/?term=nevirapine+side+effect+pharmacogenetic
 Atazanavir
-UGT1A1:ABCD1
+UGT1A1:ABCB1
 pre/post
 Infectious Disease
 Enhance unconjugated hyperbilirubinemia and jaundice- due to modified plasma levels of atazanavir by UGT1A1*28 and ABCB1 (MDR1) 3435C > T SNPs 
@@ -1049,7 +1049,7 @@ Simon, T., et. al.
 Genetic Determinants of Response to Clopidogrel and Cardiovascular Events
 https://www.ncbi.nlm.nih.gov/pubmed/19106083
 Clopidogrel
-ABCD1
+ABCB1
 pre/post
 Cardiology/Hematology
 Increased risk of death, Nonfatal myocardial infarction, or stroke
@@ -2225,7 +2225,7 @@ Bertholee,  D., et al.
 Genotypes Affecting the Pharmacokinetics of Anticancer Drugs
 https://link.springer.com/article/10.1007/s40262-016-0450-z#Sec12
 Irinotecan
-ABCD1
+ABCB1
 pre/post
 Oncology
 Severe diarrhea, myelosuppression, and neutropenia
