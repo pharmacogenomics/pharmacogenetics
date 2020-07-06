@@ -5541,8 +5541,7 @@ TPMT
 pre/post
 Oncology
 Increased risk of thiopurine‐related leukopenia, neutropenia, myelosuppression.
-Intermediate metabolizer: *1/*2 , *1/*3A , *1/*3B , *1/*3C , *1/*4, *2/*8 , *3A/*7
-Poor metabolizer: *3A/*3A , *2/*3A , *3A/*3C , *3C/*4 , *2/*3C , *3A/*4
+Intermediate metabolizer: *1/*2 , *1/*3A , *1/*3B , *1/*3C , *1/*4, *2/*8 , *3A/*7. Poor metabolizer: *3A/*3A , *2/*3A , *3A/*3C , *3C/*4 , *2/*3C , *3A/*4
 ----------------------------------------
 record_id: 462
 Relling, M., et al. 
@@ -5554,8 +5553,7 @@ NUDT15
 pre/post
 Oncology
 Increased risk of thiopurine‐related leukopenia, neutropenia, myelosuppression.
-Intermediate metabolizer: *1/*2 , *1/*3, *2/*5 , *3/*6
-Poor metabolizer: *2/*2 , *2/*3 , *3/*3
+Intermediate metabolizer: *1/*2 , *1/*3, *2/*5 , *3/*6. Poor metabolizer: *2/*2 , *2/*3 , *3/*3
 ----------------------------------------
 record_id: 463
 Relling, M., et al. 
@@ -5567,8 +5565,7 @@ TPMT
 pre/post
 Oncology
 Increased risk of thiopurine‐related leukopenia, neutropenia, myelosuppression.
-Intermediate metabolizer: *1/*2 , *1/*3A , *1/*3B , *1/*3C , *1/*4, *2/*8 , *3A/*7
-Poor metabolizer: *3A/*3A , *2/*3A , *3A/*3C , *3C/*4 , *2/*3C , *3A/*4
+Intermediate metabolizer: *1/*2 , *1/*3A , *1/*3B , *1/*3C , *1/*4, *2/*8 , *3A/*7. Poor metabolizer: *3A/*3A , *2/*3A , *3A/*3C , *3C/*4 , *2/*3C , *3A/*4
 ----------------------------------------
 record_id: 464
 Relling, M., et al. 
@@ -5580,8 +5577,7 @@ NUDT15
 pre/post
 Oncology
 Increased risk of thiopurine‐related leukopenia, neutropenia, myelosuppression.
-Intermediate metabolizer: *1/*2 , *1/*3, *2/*5 , *3/*6
-Poor metabolizer: *2/*2 , *2/*3 , *3/*3
+Intermediate metabolizer: *1/*2 , *1/*3, *2/*5 , *3/*6. Poor metabolizer: *2/*2 , *2/*3 , *3/*3
 ----------------------------------------
 record_id: 465
 Relling, M., et al. 
@@ -5593,10 +5589,21 @@ TPMT
 pre/post
 Oncology
 Increased risk of thiopurine‐related leukopenia, neutropenia, myelosuppression.
-Intermediate metabolizer: *1/*2 , *1/*3A , *1/*3B , *1/*3C , *1/*4, *2/*8 , *3A/*7
-Poor metabolizer: *3A/*3A , *2/*3A , *3A/*3C , *3C/*4 , *2/*3C , *3A/*4
+Intermediate metabolizer: *1/*2 , *1/*3A , *1/*3B , *1/*3C , *1/*4, *2/*8 , *3A/*7. Poor metabolizer: *3A/*3A , *2/*3A , *3A/*3C , *3C/*4 , *2/*3C , *3A/*4
 ----------------------------------------
 record_id: 466
+Relling, M., et al. 
+2018
+Clinical Pharmacogenetics Implementation Consortium Guideline for Thiopurine Dosing Based on TPMT and NUDT 15 Genotypes: 2018 Update
+https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/cpt.1304
+Thioguanine
+NUDT15  
+pre/post
+Oncology
+Increased risk of thiopurine‐related leukopenia, neutropenia, myelosuppression.
+Intermediate metabolizer: *1/*2 , *1/*3, *2/*5 , *3/*6. Poor metabolizer: *2/*2 , *2/*3 , *3/*3
+----------------------------------------
+record_id: 467
 Liu, Y., et al.
 2020
 Association Between Genetic Polymorphisms and Steady-State Plasma Concentration of Warfarin Optical Isomers
@@ -5608,3 +5615,26 @@ Cardiology/Hematology
 Increases the plasma concentrations of Warfarin, major bleeding and elevated INR
 CYP4F2 p. V433M (rs2108622) 
 ----------------------------------------
+record_id: 468
+Gillian, C., et al. 
+2017
+Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for CYP2D6 Genotype and Use of Ondansetron and Tropisetron
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5479760/
+Ondansetron 
+CYP2D6
+post
+Gastroenterology/ Oncology 
+For ultrarapid metabolizer: decrease response to ondansetron (i.e. vomiting). For intermediate or poor CYP2D6 metabolism, potentially elevated blood levels of ondansetron would suggest these patients might be at an even greater risk for torsades de pointes even with the 16 mg maximum dose.
+CYP2D6 ultrarapid metabolizer:*1/*1xN, *1/*2xN, *2/*2xNc. CYP2D6 intermediate metabolizer: *4/*10,*4/*41, *5/*9  CYP2D6 poor metabolizer: *3/*4,*4/*4, *5/*5, *5/*6
+----------------------------------------
+record_id: 469
+Gillian, C., et al. 
+2017
+Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for CYP2D6 Genotype and Use of Ondansetron and Tropisetron
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5479760/
+Tropisetron  
+CYP2D6
+post
+Gastroenterology/ Oncology 
+For ultrarapid metabolizer: decrease response to Tropisetron (i.e. vomiting). For intermediate or poor CYP2D6 metabolism, potentially elevated blood levels of Tropisetron would suggest these patients might be at an even greater risk for torsades de pointes even with the 16 mg maximum dose.
+CYP2D6 ultrarapid metabolizer:*1/*1xN, *1/*2xN, *2/*2xNc. CYP2D6 intermediate metabolizer: *4/*10,*4/*41, *5/*9  CYP2D6 poor metabolizer: *3/*4,*4/*4, *5/*5, *5/*6
