@@ -317,7 +317,7 @@ Daly, A., et al.
 Pharmacogenomics of adverse drug reactions
 https://genomemedicine.biomedcentral.com/articles/10.1186/gm409
 Amiodarone
-NOS1AP 
+NOS1AP 
 pre/post
 Cardiology
 Drug nduced QT prolongation
@@ -710,7 +710,7 @@ CYP2C9*2 (c.430C>T) rs1799853 : GSTA1*B (c.-135T>C)  rs3957357
 record_id: 59
 Zanini Maciel, L.M., et al.
 2017
-Medullary thyroid carciNoma  Adverse events during systemic treatment: risk-benefit ratio
+Medullary thyroid carciNoma ? Adverse events during systemic treatment: risk-benefit ratio
 http://www.scielo.br/scielo.php?script=sci_arttext&pid=S2359-39972017005004103&lng=en&nrm=iso&tlng=en
 Cabozantinib
 RET
@@ -1118,7 +1118,7 @@ BRAFV600
 record_id: 93
 Dean, L.
 2012
-Codeine Therapy and CYP2D6 Genotype
+Codeine Therapy and CYP2D6 Genotype
 https://www.ncbi.nlm.nih.gov/books/NBK100662/
 Codeine
 CYP2D6
@@ -1137,19 +1137,19 @@ ALK
 post
 Oncology
 Diarrhea, constipation, nausea, vomiting and visual side-effects
-EML4ALK
+EML4?ALK
 ----------------------------------------
 record_id: 95
 Awad, M.M., et al.
 2013
-Acquired Resistance to Crizotinib from a Mutation in CD74ROS1
+Acquired Resistance to Crizotinib from a Mutation in CD74?ROS1
 https://www.nejm.org/doi/full/10.1056/NEJMoa1215530
 Crizotinib
 ROS1
 post
 Oncology
 Acquired mutation affecting the ROS1 kinase domain that confers resistance to crizotinib
-CD74ROS1
+CD74?ROS1
 ----------------------------------------
 record_id: 96
 Nagasundaram, N., et al.
@@ -1269,7 +1269,7 @@ IFNL4
 post
 Infectious Disease
 flulike syndrome, aminotransferase level elevation, HCV clearance
-ss469415590, IFNL4 TT/ΔG genotype or IFNL4 ΔG/ΔG genotype in in older patients
+ss469415590, IFNL4 TT/DG genotype or IFNL4 DG/DG genotype in in older patients
 ----------------------------------------
 record_id: 106
 Abouraya, M., et al.
@@ -1460,7 +1460,7 @@ Diclofenac
 CYP2C9
 peri
 Pain Management/Rheumotology/Neurology/Dermotology
-↑ Drug clearance & ↑ adverse events (NSAIDS)
+^ Drug clearance & ^ adverse events (NSAIDS)
 CYP2C9*3
 ----------------------------------------
 record_id: 122
@@ -1560,7 +1560,7 @@ Personality characteristics of social cognitive anxiety and midl psychotic like 
 CYP2D6*3
 ----------------------------------------
 record_id: 130
-Sánchez, M.A., et al.
+Sanchez, M.A., et al.
 2013
 Impact of pharmacogenetics on CNS side effects related to efavirenz.
 https://www.ncbi.nlm.nih.gov/pubmed/23859571
@@ -1850,7 +1850,7 @@ CYP2D6 carriers with poor metabolizer genotypes
 record_id: 154
 Vogl, S., et al.
 2015
-CYP2C9 Genotype vs. Metabolic Phenotype for Individual Drug DosingA Correlation Analysis Using Flurbiprofen as Probe Drug.
+CYP2C9 Genotype vs. Metabolic Phenotype for Individual Drug Dosing?A Correlation Analysis Using Flurbiprofen as Probe Drug.
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120403
 Flurbiprofen
 CYP2C9
@@ -1875,7 +1875,7 @@ record_id: 156
 Mirosevic Skvrce, N., et al.
 2013
 CYP2C9 and ABCG2 polymorphisms as risk factors for developing adverse drug reactions in renaltransplant patients taking fluvastatin: a case-control study.
-https://www.ncbi.nlm.nih.gov/pubmed/?term=CYP2C9+and+ABCG2+polymorphisms+as+risk+factors+for+developing+adverse+drug+reactions+in+renal+transplant+patients+taking+fluvastatin%3A+a+casecontrol+study
+https://www.ncbi.nlm.nih.gov/pubmed/?term=CYP2C9+and+ABCG2+polymorphisms+as+risk+factors+for+developing+adverse+drug+reactions+in+renal+transplant+patients+taking+fluvastatin%3A+a+case?control+study
 Fluvastatin
 CYP2C9
 pre/post
@@ -1884,7 +1884,7 @@ Myotoxicity, cognitive loss, neuropathy, pancreatic, hepatic and sexual dysfunct
 CYP2C9*2 : CYP2C9*3
 ----------------------------------------
 record_id: 157
-Boér, K.
+Boer, K.
 2017
 Fulvestrant in advanced breast cancer: evidence to date and place in therapy
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5502950/
@@ -1940,7 +1940,7 @@ Glimepiride
 G6PD
 pre/post
 Endocrinology
-↑ Drug clearance and ↑ adverse events (sulfonylurea hypoglycemic drugs)
+^ Drug clearance and ^ adverse events (sulfonylurea hypoglycemic drugs)
 CYP2C9*3
 ----------------------------------------
 record_id: 162
@@ -1952,7 +1952,7 @@ Glipizide
 G6PD
 pre/post
 Endocrinology
-↑  Drug clearance and ↑  adverse events (sulfonylurea hypoglycemic drugs)
+^  Drug clearance and ^  adverse events (sulfonylurea hypoglycemic drugs)
 CYP2C9*3
 ----------------------------------------
 record_id: 163
@@ -1964,7 +1964,7 @@ Glyburide
 G6PD
 pre/post
 Endocrinology
-↑ Drug clearance and ↑ adverse events (sulfonylurea hypoglycemic drugs)
+^ Drug clearance and ^ adverse events (sulfonylurea hypoglycemic drugs)
 CYP2C9*3
 ----------------------------------------
 record_id: 164
@@ -1984,12 +1984,12 @@ Diaz-Sylvester, P.L., et al.
 2009
 Halothane modulation of skeletal muscle ryanodine receptors
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2465464/
-Halothane 
+Halothane 
 RYR1
 intra
 Anesthesiology
 Malignant hyperthermia (MH
-Gly4932Ser 
+Gly4932Ser 
 ----------------------------------------
 record_id: 166
 Spinasse, L.B., et al.
@@ -2037,7 +2037,7 @@ IFNL4
 peri
 Infectious Disease
 poor response to IFN alpha-based therapy in HCV infection
-IFNL4-unfavorable genotypes ( rs368234815TT/ΔG or ΔG/ΔG and rs12979860-C/T or T/T)
+IFNL4-unfavorable genotypes ( rs368234815TT/DG or DG/DG and rs12979860-C/T or T/T)
 ----------------------------------------
 record_id: 170
 Brennan, M.D.
@@ -2048,7 +2048,7 @@ Iloperidone
 CYP2D6
 pre
 Psychiatry
-Weight gain and metabolic side effects, including diabetes and dyslipidemia. cardiac complications, most Notably dysrhythmias including prolongation of the QT interval. elevate serum prolactin levels, resulting in hypogonadism and dysregulation of hypothalamicpituitary axis function.
+Weight gain and metabolic side effects, including diabetes and dyslipidemia. cardiac complications, most Notably dysrhythmias including prolongation of the QT interval. elevate serum prolactin levels, resulting in hypogonadism and dysregulation of hypothalamic?pituitary axis function.
 CYP2D6*3: CYP2D6*4: CYP2D6*5
 ----------------------------------------
 record_id: 171
@@ -2072,7 +2072,7 @@ Imatinib
 PDGFRB
 pre/post 
 Oncology
-This is a positive effect on the treatment of Myelodysplastic Syndrome / Myeloproliferative Disease (MDS/MPD) with translocations of 5q3135. Imatinib might be effective in the treatment of patients with this specific PDGFRB rearrangement.
+This is a positive effect on the treatment of Myelodysplastic Syndrome / Myeloproliferative Disease (MDS/MPD) with translocations of 5q31?35. Imatinib might be effective in the treatment of patients with this specific PDGFRB rearrangement.
 ETV6-PDGFRB fusion gene
 ----------------------------------------
 record_id: 173
@@ -2096,7 +2096,7 @@ Imatinib
 FIP1L1-PDGFRA
 pre/post 
 Oncology
-Imatinib treatment resistance in pts with Hypereosinophilic Syndrome/Chronic Eosinophilic Leukemia the FIP1 like 1platelet-derived growth factor receptor alpha T674I mutation.
+Imatinib treatment resistance in pts with Hypereosinophilic Syndrome/Chronic Eosinophilic Leukemia the FIP1 like 1?platelet-derived growth factor receptor alpha T674I mutation.
 FIP1L1-PDGFRA (T674I) mutant.
 ----------------------------------------
 record_id: 175
@@ -2181,7 +2181,7 @@ FccRIIIA
 pre/post
 Oncology 
 Higher infliximab elimination rate constant leading to a faster infliximab under exposure and relapse of disease
-FcγRIIIA-158V/V
+FcgRIIIA-158V/V
 ----------------------------------------
 record_id: 182
 Farzan, N., et al.
@@ -2400,7 +2400,7 @@ Methemoglobinemia
 CYB5R1: CYB5R2: CYB5R3: CYB5R4 
 ----------------------------------------
 record_id: 200
-Abad-Pérez, D., et al. 
+Abad-Perez, D., et al. 
 2013
 Effect of oral nitrates on pulse pressure and arterial elasticity in patients aged over 65 years with refractory isolated systolic hypertension: study protocol for a randomized controlled trial
 https://trialsjournal.biomedcentral.com/articles/10.1186/1745-6215-14-388
@@ -2436,7 +2436,7 @@ Drug clearance reduction by significant impact of the CYP2B6*6 allele on enzyme-
 CYP2B6*6
 ----------------------------------------
 record_id: 203
-Bentué-Ferrer, D., et al.
+Bentue-Ferrer, D., et al.
 2012
 Therapeutic drug monitoring of lacosamide
 https://www.ncbi.nlm.nih.gov/pubmed/22850102
@@ -2510,7 +2510,7 @@ Renal-transplant recipients who are CYP2C19 extensive metabolizers, there is les
 record_id: 209
 Takahashi, K., et al.
 2004
-LansoprazoleTacrolimus Interaction in Japanese Transplant Recipient with CYP2C19 Polymorphism
+Lansoprazole?Tacrolimus Interaction in Japanese Transplant Recipient with CYP2C19 Polymorphism
 http://journals.sagepub.com/doi/abs/10.1345/aph.1D366
 Lansoprazole
 CYP2C19
@@ -2844,7 +2844,7 @@ Methemoglobinemia
 CYB5R1: CYB5R2: CYB5R3: CYB5R4
 ----------------------------------------
 record_id: 237
-Özmen, I, et al.
+Ozmen, I, et al.
 2004
 Effects of antiemetic drugs on glucose 6-phosphate dehydrogenase and some antioxidant enzymes.
 https://www.ncbi.nlm.nih.gov/pubmed/15458770
@@ -2973,7 +2973,7 @@ ABCC3 : OCT1
 intrapost
 Anesthesiology 
 OCT1 homozygous genotypes are associated with lower morphine CL in this extended cohort; well supported by corresponding observations of lower morphine glucuronide formation. In addition, it shows that children with the ABCC3-211C>T polymorphism C/C genotype have significantly higher (~40%) metabolite transformation than C/T+T/T genotypes.
-ABCC3-211C>T : OCT1*2–*5/*2–*5
+ABCC3-211C>T : OCT1*2-*5/*2-*5
 ----------------------------------------
 record_id: 248
 Sadhasivam, S., et al.
@@ -3213,7 +3213,7 @@ MS4A1
 pre/post
 Oncology
 Decreased response to treatment
-V158/V158 or F158/F158 FcγRIIIa receptor
+V158/V158 or F158/F158 FcgRIIIa receptor
 ----------------------------------------
 record_id: 268
 Bigos, K., et al.
@@ -3374,7 +3374,7 @@ ERCC1(C118T)C/T,T/T>C/C:GSTP1(Ile105Val)
 record_id: 281
 Chen, Y.
 2008
-Oxcarbazepine-induced StevensJohnson syndrome in a patient with HLA-B*1502genotype
+Oxcarbazepine-induced Stevens?Johnson syndrome in a patient with HLA-B*1502genotype
 http://onlinelibrary.wiley.com/doi/10.1111/j.1468-3083.2008.02988.x/full
 Oxcarbazepine
 HLA-B
@@ -3620,7 +3620,7 @@ Phenytoin
 CYP2C9: CYP2C19
 pre
 Neurology
-toxic symptoms caused by excessive phenytoin levels at a lower than standard dosage in a patient carrying the polymlrphisms.
+toxic symptoms caused by excessive phenytoin levels at a ?lower than standard? dosage in a patient carrying the polymlrphisms.
 CYP2C9*2: CYP2C9*3: CYP2C19*2
 ----------------------------------------
 record_id: 302
@@ -3836,7 +3836,7 @@ proguanil
 CYP2C19
 pre/post
 Infectious Disease
-↑ Clearance and ↑ risk of ADRs for antimalarials (proguanil)
+^ Clearance and ^ risk of ADRs for antimalarials (proguanil)
 CYP2C19*3
 ----------------------------------------
 record_id: 320
@@ -3893,11 +3893,11 @@ Wang, Y., et al.
 Relationship between UGT1A9 gene polymorphisms, efficacy, and safety of propofol in induced abortions amongst Chinese population: a population-based study.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5653915/
 Propofol
-UGT1A9 
+UGT1A9 
 intra
 Anesthesiology
 Higher induction dose required.
-1887 T/G
+1887 T/G
 ----------------------------------------
 record_id: 325
 Sowinkski, K.M., et al.
@@ -4262,7 +4262,7 @@ SLCO1B1 rs4363657 : SLCO1B1 rs4149056
 record_id: 355
 CostantiNo, A., et al.
 2015
-Naturally occurring mutations associated with resistance to HCV NS5B polymerase and NS3 protease inhibitors in treatment-naïve patients with chronic hepatitis C
+Naturally occurring mutations associated with resistance to HCV NS5B polymerase and NS3 protease inhibitors in treatment-naive patients with chronic hepatitis C
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4650141/
 Sofosbuvir
 HCV NS5B polymerase
@@ -4277,11 +4277,11 @@ Meissner, E.G., et al.
 IFNL4-?G Genotype Is Associated With Slower Viral Clearance in Hepatitis C, Genotype-1 Patients Treated With Sofosbuvir and Ribavirin
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4017364/
 Sofosbuvir
-IFNL4-ΔG
+IFNL4-DG
 pre/post
 Infectious Disease
-decreased drug efficacy and slower early viral decline for HCV genotype1- infected patients - if Sofosfuvir is given along with ribavirin and IFNL4-ΔG variant. This is due to ecreased drug efficacy and slower loss of the free virus. 
-IFNL4-ΔG variant unfavorable heterozygous TT/?G rs368234815 genotype: heterozygous CT rs12979860 genotype: homozygous ΔG/ΔG rs368234815 genotype
+decreased drug efficacy and slower early viral decline for HCV genotype1- infected patients - if Sofosfuvir is given along with ribavirin and IFNL4-DG variant. This is due to ecreased drug efficacy and slower loss of the free virus. 
+IFNL4-DG variant unfavorable heterozygous TT/?G rs368234815 genotype: heterozygous CT rs12979860 genotype: homozygous DG/DG rs368234815 genotype
 ----------------------------------------
 record_id: 357
 Dean, L. 
@@ -4466,7 +4466,7 @@ G6PD
 record_id: 372
 Delacour, H., et al. 
 2014
-Characterization of a Novel BCHE Silent Allele: Point Mutation (p.Val204Asp) Causes Loss of Activity and Prolonged Apnea with Suxamethonium
+Characterization of a Novel BCHE "Silent" Allele: Point Mutation (p.Val204Asp) Causes Loss of Activity and Prolonged Apnea with Suxamethonium
 https://www.ncbi.nlm.nih.gov/pubmed/25054547
 Suxamethonium (Succinylcholine)
 BCHE
@@ -4536,7 +4536,7 @@ Reduced metabolism leading to enhanced immune effect instead of immune supressio
 CYP3A4*3
 ----------------------------------------
 record_id: 378
-OSullivan Coyne, G., et al.
+O?Sullivan Coyne, G., et al.
 2017
 PARP Inhibitors in Reproductive System Cancers: Current Use and Developments
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5266774/
@@ -4742,13 +4742,13 @@ SLC01B1*5
 record_id: 395
 Evans, W.E., et al.
 2003
-Pharmacogenomics  Drug Disposition, Drug Targets, and Side Effects
+Pharmacogenomics ? Drug Disposition, Drug Targets, and Side Effects
 http://www.nejm.org/doi/10.1056/NEJMra020526
 TMP/SMX
 KCNE2
 pre/post
 Cardiology
-KCNE2 variants have been associated with the development of a very long QT interval after therapy with trimethoprimsulfamethoxazole, with sulfamethoxazole inhibiting potassium channels encoded by the KCNE2 (8T?A) variant
+KCNE2 variants have been associated with the development of a very long QT interval after therapy with trimethoprim?sulfamethoxazole, with sulfamethoxazole inhibiting potassium channels encoded by the KCNE2 (8T?A) variant
 KCNE2 (8T-A)
 ----------------------------------------
 record_id: 396
@@ -4893,7 +4893,7 @@ PML-RAR-alpha
 pre/post
 Oncology 
 All patients who responded to treatment with tretinoin who were tested by Northern blot analysis had expression of aberrant RAR-?.
-RAR-alpha q22;ql221
+RAR-alpha q22;ql2?21
 ----------------------------------------
 record_id: 408
 Hicks, et al. 
@@ -4965,7 +4965,7 @@ CYP1A2
 pre/intra
 Psychiatry
 Antipsychotic induced tardive dyskinesia 
-CYP1A2 Bsp120I (C→A) polymorphism
+CYP1A2 Bsp120I (C->A) polymorphism
 ----------------------------------------
 record_id: 414
 Alvarellos, M.L., et al.
@@ -5330,7 +5330,7 @@ NS5A*30:NS5A*31:NS5A*93
 record_id: 444
 Pascual, T.
 2017
-Everolimus pharmacokinetics and its exposuretoxicity relationship in patients with thyroid cancer
+Everolimus pharmacokinetics and its exposure?toxicity relationship in patients with thyroid cancer
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0180192
 Everolimus
 ABCB1 
@@ -5342,7 +5342,7 @@ ABCB1 rs1045642
 record_id: 445
 Pascual, T.
 2017
-Everolimus pharmacokinetics and its exposuretoxicity relationship in patients with thyroid cancer
+Everolimus pharmacokinetics and its exposure?toxicity relationship in patients with thyroid cancer
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0180192
 Everolimus
 PIK3R1 
@@ -5354,7 +5354,7 @@ PIK3R1 rs10515074
 record_id: 446
 Pascual, T.
 2017
-Everolimus pharmacokinetics and its exposuretoxicity relationship in patients with thyroid cancer
+Everolimus pharmacokinetics and its exposure?toxicity relationship in patients with thyroid cancer
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0180192
 Everolimus
 RAPTOR 
@@ -5366,7 +5366,7 @@ RAPTORrs9906827
 record_id: 447
 Pascual, T.
 2017
-Everolimus pharmacokinetics and its exposuretoxicity relationship in patients with thyroid cancer
+Everolimus pharmacokinetics and its exposure?toxicity relationship in patients with thyroid cancer
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0180192
 Everolimus
 CYP3A4 
@@ -5376,7 +5376,7 @@ Causes higher everolimus blood concentration
 CYP3A4 rs35599367
 ----------------------------------------
 record_id: 448
-Dezentjé, V.O., et al.
+Dezentje, V.O., et al.
 2014
 CYP2D6 genotype in relation to hot flashes as tamoxifen side effect in a Dutch cohort of the tamoxifen exemestane adjuvant multinational (TEAM)trial.
 https://link.springer.com/article/10.1007/s10549-013-2777-6
@@ -5420,7 +5420,7 @@ Fluvoxamine
 CYP2D6
 pre/post
 Psychiatry
-Approximately 7% of the Normal population has a genetic code that leads to reduced levels of activity of CYP2D6 enzyme. Such individuals have been referred to as poor metabolizers (PM) of drugs such as debrisoquin, dextromethorphan, and tricyclic antidepressants. While None of the drugs studied for drug interactions significantly affected the pharmacokinetics of fluvoxamine, an in vivo study of fluvoxamine single-dose pharmacokinetics in 13 PM subjects demonstrated altered pharmacokinetic properties compared to 16 extensive metabolizers (EM): mean Cmax, AUC, and half-life were increased by 52%, 200%, and 62%, respectively, in the PM compared to the EM group. This suggests that fluvoxamine is metabolized, at least in part, by CYP2D6. Caution is indicated in patient kNown to have reduced levels of cytochrome P450 2D6 activity and those receiving concomitant drugs kNown to inhibit this cytochrome P450 isoenzyme (e.g., quinidine).
+Approximately 7% of the Normal population has a genetic code that leads to reduced levels of activity of CYP2D6 enzyme. Such individuals have been referred to as "poor metabolizers" (PM) of drugs such as debrisoquin, dextromethorphan, and tricyclic antidepressants. While None of the drugs studied for drug interactions significantly affected the pharmacokinetics of fluvoxamine, an in vivo study of fluvoxamine single-dose pharmacokinetics in 13 PM subjects demonstrated altered pharmacokinetic properties compared to 16 "extensive metabolizers" (EM): mean Cmax, AUC, and half-life were increased by 52%, 200%, and 62%, respectively, in the PM compared to the EM group. This suggests that fluvoxamine is metabolized, at least in part, by CYP2D6. Caution is indicated in patient kNown to have reduced levels of cytochrome P450 2D6 activity and those receiving concomitant drugs kNown to inhibit this cytochrome P450 isoenzyme (e.g., quinidine).
 Carriers of poor metabolizer genotype
 ----------------------------------------
 record_id: 452
@@ -5460,7 +5460,7 @@ Higher odds of grade >3 toxicity and elevated liver enzymes
 PTPN11 333-223A>G 
 ----------------------------------------
 record_id: 455
-Dalén, P., et al. 
+Dalen, P., et al. 
 2000
 Inhibition of debrisoquine hydroxylation with quinidine in subjects with three or more functional CYP2D6 genes
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2014903/
@@ -5540,7 +5540,7 @@ Azathioprine
 TPMT
 pre/post
 Oncology
-Increased risk of thiopurine‐related leukopenia, neutropenia, myelosuppression.
+Increased risk of thiopurine-related leukopenia, neutropenia, myelosuppression.
 Intermediate metabolizer: *1/*2 , *1/*3A , *1/*3B , *1/*3C , *1/*4, *2/*8 , *3A/*7. Poor metabolizer: *3A/*3A , *2/*3A , *3A/*3C , *3C/*4 , *2/*3C , *3A/*4
 ----------------------------------------
 record_id: 462
@@ -5552,7 +5552,7 @@ Azathioprine
 NUDT15 
 pre/post
 Oncology
-Increased risk of thiopurine‐related leukopenia, neutropenia, myelosuppression.
+Increased risk of thiopurine-related leukopenia, neutropenia, myelosuppression.
 Intermediate metabolizer: *1/*2 , *1/*3, *2/*5 , *3/*6. Poor metabolizer: *2/*2 , *2/*3 , *3/*3
 ----------------------------------------
 record_id: 463
@@ -5564,7 +5564,7 @@ Mercaptopurine
 TPMT  
 pre/post
 Oncology
-Increased risk of thiopurine‐related leukopenia, neutropenia, myelosuppression.
+Increased risk of thiopurine-related leukopenia, neutropenia, myelosuppression.
 Intermediate metabolizer: *1/*2 , *1/*3A , *1/*3B , *1/*3C , *1/*4, *2/*8 , *3A/*7. Poor metabolizer: *3A/*3A , *2/*3A , *3A/*3C , *3C/*4 , *2/*3C , *3A/*4
 ----------------------------------------
 record_id: 464
@@ -5576,7 +5576,7 @@ Mercaptopurine
 NUDT15  
 pre/post
 Oncology
-Increased risk of thiopurine‐related leukopenia, neutropenia, myelosuppression.
+Increased risk of thiopurine-related leukopenia, neutropenia, myelosuppression.
 Intermediate metabolizer: *1/*2 , *1/*3, *2/*5 , *3/*6. Poor metabolizer: *2/*2 , *2/*3 , *3/*3
 ----------------------------------------
 record_id: 465
@@ -5588,7 +5588,7 @@ Thioguanine
 TPMT  
 pre/post
 Oncology
-Increased risk of thiopurine‐related leukopenia, neutropenia, myelosuppression.
+Increased risk of thiopurine-related leukopenia, neutropenia, myelosuppression.
 Intermediate metabolizer: *1/*2 , *1/*3A , *1/*3B , *1/*3C , *1/*4, *2/*8 , *3A/*7. Poor metabolizer: *3A/*3A , *2/*3A , *3A/*3C , *3C/*4 , *2/*3C , *3A/*4
 ----------------------------------------
 record_id: 466
@@ -5600,7 +5600,7 @@ Thioguanine
 NUDT15  
 pre/post
 Oncology
-Increased risk of thiopurine‐related leukopenia, neutropenia, myelosuppression.
+Increased risk of thiopurine-related leukopenia, neutropenia, myelosuppression.
 Intermediate metabolizer: *1/*2 , *1/*3, *2/*5 , *3/*6. Poor metabolizer: *2/*2 , *2/*3 , *3/*3
 ----------------------------------------
 record_id: 467
